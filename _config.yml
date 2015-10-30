@@ -4,11 +4,18 @@ port: 4000
 host: 0.0.0.0
 safe: false
 
-
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude:
+  - CNAME
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - .travis.yml
+
 permalink: / ## disables post output
-timezone: null
+timezone: Europe/Buchares
 lsi: false
 markdown: kramdown
 highlighter: pygments
@@ -33,3 +40,12 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+
+# Settings for deploy rake task
+username:        "info-uaic"
+repo:            "deschis.org"
+branch:          "master"
+relative_source: "../deschis.org/"
+destination:     "../deschis.org-pages/"
+production_url:  "https://info-uaic.github.io/deschis.org"
+source_url:      "https://github.com/info-uaic/deschis.org"
