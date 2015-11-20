@@ -18,11 +18,11 @@ exclude:
   - .travis.yml
 
 # Site Settings
-title: "Deschis @Iași"
-email: "contact@deschis.org"
-description: "Comferință dedicată comunității Open-Source din România."
-baseurl: "/deschis.org"
-url: "https://info-uaic.github.io/"
+title: "Open Source Camp @Iași"
+email: "contact@oscamp.eu"
+description: "The National Open Source Camp @Iași"
+baseurl: ""
+url: "https://oscamp.eu"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -47,30 +47,14 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: ""
 c4sponsorsUrl: ""
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {permalink: "/cod/", text: "Code of Conduct"}
 
-# Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
-heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+bottomNavigationLinks:
+rightNavigationButtons:
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -182,20 +166,14 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://www.facebook.com/Open-Source-Camp-1693701974204138/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
+
 footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:contact@oscamp.eu", text: "contact@oscamp.eu"}
  -
   title: "FAQ"
   links:
@@ -300,9 +278,9 @@ hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
 
 # Settings for deploy rake task
 username:        "info-uaic"
-repo:            "deschis.org"
+repo:            "oscamp"
 branch:          "master"
-relative_source: "../deschis.org/"
-destination:     "../deschis.org-pages/"
-production_url:  "https://info-uaic.github.io/deschis.org"
-source_url:      "https://github.com/info-uaic/deschis.org"
+relative_source: "../oscamp/"
+destination:     "../oscamp-pages/"
+production_url:  "https://oscamp.eu"
+source_url:      "https://github.com/info-uaic/oscamp"

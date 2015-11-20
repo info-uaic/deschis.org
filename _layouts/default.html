@@ -1,7 +1,7 @@
 ---
 layout: compress
 ---
-
+{% assign hero = site.data[page.edition].hero %}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -78,7 +78,7 @@ layout: compress
                 $(function () {
                     if ($(window).width() > 767) {
                         $("#typeout-text").typed({
-                            strings: [{{site.typeoutTextValues}}],
+                            strings: [{{hero.typeoutTextValues}}],
                             typeSpeed: 150,
                             backDelay: 900,
                             loop: true
@@ -107,12 +107,14 @@ layout: compress
                     }
                 }
             });
+
         {% elsif page.permalink == '/logistics/' %}
             var googleMaps = 'logistics',
                 eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
                 centerMap = new google.maps.LatLng({{ site.logisticsMapCenterCoordinates }}),
                 mobileCenterMap = new google.maps.LatLng({{ site.logisticsMapMobileCenterCoordinates }}),
                 icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+
         {% elsif page.permalink == '/hackathon/' %}
             if ($(window).width() > 767) {
                 var googleMaps = 'hackathon',
@@ -143,6 +145,7 @@ layout: compress
     {% endif %}
 
     {% include schema-event.html %}
+
 </body>
 
 </html>
