@@ -1,60 +1,47 @@
 - 
-  id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
-  id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  group: "Organizers"
+  members: 
+    - id: 0
+      name: "Sabin"
+      surname: "Buraga"
+      title: "Associate Professor, PhD @FII, UAIC Iași"
+      thumbnailUrl: "sabin_buraga.jpg"
+      ribbon: 
+        - {abbr: "Core", title: "OSCamp Board Member"}
+      social: 
+        - {name: "site", link: "http://profs.info.uaic.ro/~busaco/"}
+
+    - id: 1
+      name: "Alexandru"
+      surname: "Coman"
+      title: "Cloud Engineer @Cloudbase"
+      thumbnailUrl: "alexandru_coman.jpg"
+      ribbon: 
+        - {abbr: "Core", title: "OSCamp Board Member"}
+      social: 
+        - {name: "github", link: "https://github.com/alexandrucoman"}
+        - {name: "site", link: "https://alexcoman.com/"}
+        - {name: "linkedin", link: "https://linkedin.com/in/comanalex"}
+        - {name: "twitter", link: "https://twitter.com/coman_alexandru"}
+        - {name: "facebook", link: "https://www.facebook.com/alxcoman"}
+        - {name: "google-plus", link: "https://plus.google.com/u/0/+ComanAlexandru/"}
+
+    - id: 2
+      name: "Alexandru"
+      surname: "Cîtea"
+      title: "Student @FII, UAIC Iași"
+      thumbnailUrl: "alexandru_citea.jpg"
+      ribbon: 
+        - {abbr: "Core", title: "OSCamp Board Member"}
+      social: 
+        - {name: "github", link: "https://github.com/citeaalexandru"}
+
+    - id: 3
+      name: "Andrei"
+      surname: "Avădănei"
+      title: "President & Founder at Cyber Security Research Center"
+      thumbnailUrl: "andrei_avadanei.jpg"
+      ribbon: 
+        - {abbr: "Core", title: "OSCamp Board Member"}
+      social: 
+        - {name: "github", link: "https://github.com/AndreiAvadanei"}
