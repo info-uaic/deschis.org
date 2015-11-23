@@ -1,0 +1,9 @@
+- 
+  group: "Community & Media Partners"
+  elements: 
+    - {
+        name: "WorldIT.info",
+        description: "WorldIT.info",
+        link: "http://www.worldit.info/",
+        imageUrl: "google.svg"
+      }
