@@ -36,8 +36,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, oscamp, oscampro, fii, open source, conference, hackaton, workshop, iași"
+twitterAccount: "@OSCampRo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -82,8 +82,8 @@ rockstarSpeakersButtonText: "See all speakers"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "oscamp"
+twitterFeed: "https://thor.info.uaic.ro/~introp/acitea_temp_do_not_delete/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
