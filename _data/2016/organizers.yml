@@ -1,13 +1,14 @@
 - 
   group: "Main organizer"
   elements: 
-    - {
-    	name: "CCSIR",
-    	description: "Cyber Security Research Center from Romania",
-    	link: "http://ccsir.org/",
-    	imageUrl: "gdg-lviv.svg"}
-    - {
-    	name: "FII",
-    	description: "Faculty of Computer Science",
-    	link: "http://kyiv.gdg.org.ua",
-    	imageUrl: "gdg-kyiv.svg"}
+    - id: 0
+      name: "FII"
+      description: "Faculty of Computer Science"
+      link: "http://kyiv.gdg.org.ua"
+      imageUrl: "fii.png"
+
+    - id: 1
+      name: "CCSIR"
+      description: "Cyber Security Research Center from Romania"
+      link: "http://ccsir.org/"
+      imageUrl: "ccsir.png"
