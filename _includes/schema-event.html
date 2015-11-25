@@ -1,3 +1,5 @@
+{% assign current_edition = site.data[page.edition].config %}
+
 <script type="application/ld+json">
     [{
         "@context" : "http://schema.org",
@@ -6,26 +8,26 @@
         "description": "{{ site.description }}",
         "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
         "url" : "{{ site.url }}",
-        "startDate" : "{{ site.eventStartTime }}",
-        "doorTime" : "{{ site.eventDoorTime }}",
-        "endDate" : "{{ site.eventEndTime }}",
+        "startDate" : "{{ current_edition.eventStartTime }}",
+        "doorTime" : "{{ current_edition.eventDoorTime }}",
+        "endDate" : "{{ current_edition.eventEndTime }}",
         "location" : {
             "@type" : "Place",
-            "name" : "{{ site.eventLocationName }}",
-            "sameAs" : "{{ site.eventLocationLink }}",
+            "name" : "{{ current_edition.eventLocationName }}",
+            "sameAs" : "{{ current_edition.eventLocationLink }}",
             "address" : {
                 "@type" : "PostalAddress",
-                "streetAddress" : "{{ site.eventStreetAddress }}",
-                "addressLocality" : "{{ site.eventAddressLocality }}",
-                "addressRegion" : "{{ site.eventAddressLocalityRegion }}",
-                "postalCode" : "{{ site.eventPostalCode }}",
-                "addressCountry" : "{{ site.eventAddressCountry }}"
+                "streetAddress" : "{{ current_edition.eventStreetAddress }}",
+                "addressLocality" : "{{ current_edition.eventAddressLocality }}",
+                "addressRegion" : "{{ current_edition.eventAddressLocalityRegion }}",
+                "postalCode" : "{{ current_edition.eventPostalCode }}",
+                "addressCountry" : "{{ current_edition.eventAddressCountry }}"
             },
             "geo" : {
                 "@type" : "GeoCoordinates",
-                {% assign coordinates = site.eventPlaceCoordinates | split:"," %}
-                "latitude" : "{{ coordinates[0] }}",
-                "longitude" : "{{ coordinates[1] }}"
+                {% assign coordinates = current_edition.eventPlaceCoordinates | split:"," %}
+                "latitude" : "{{ coordinates }}",
+                "longitude" : "{{ coordinates }}"
             }
         },
         // Not supported yet
