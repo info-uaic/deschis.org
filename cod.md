@@ -3,7 +3,7 @@ layout: post
 title: Code of Conduct
 permalink: /cod/
 isStaticPost: true
-edition: "2015"
+edition: "2016"
 ---
 
 Open Source Camp is a community of hackers. A welcoming community. A community that appreciates and encourages open inquiry. A community that celebrates bending rules. If you are a hacker, please come join us!
