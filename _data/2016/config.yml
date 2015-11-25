@@ -14,6 +14,19 @@ eventPlaceCoordinates: "47.174524,27.572306"
 mapCenterCoordinates: "47.1739673,27.5712438"
 mapMobileCenterCoordinates: "47.1741223,27.572034"
 
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Aula Magna Mihai Eminescu"
+venueFeatures:
+  - 258 seats on the ground floor
+  - 168 seats on balacony
+  - Digital Surround audio system
+  - Located in the university campus
+
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: >
