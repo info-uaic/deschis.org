@@ -1,3 +1,19 @@
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Aula Magna Mihai Eminescu"
+eventLocationLink: "https://www.uaic.ro/organizare/departamentul-de-marketing-educational-evenimente-si-imagine-academica/oportunitati-pentru-organizarea-evenimentelor/aula-magna-mihai-eminescu/"
+eventStreetAddress: "Universitatea Alexandru Ioan Cuza din Iași, Bulevardul Carol I, Nr.11"
+eventAddressLocality: "Iași"
+eventAddressLocalityRegion: "Iași"
+eventPostalCode: "700506"
+eventAddressCountry: "Romania"
+eventStartTime: "2016-04-15T09:00"
+eventDoorTime: "08:00"
+eventEndTime: "2016-04-16T18:00"
+eventPlaceCoordinates: "47.174524,27.572306"
+mapCenterCoordinates: "47.1739673,27.5712438"
+mapMobileCenterCoordinates: "47.1741223,27.572034"
+
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: >
