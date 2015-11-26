@@ -1,0 +1,56 @@
+ticketsTitle: "Pricetable"
+ticketsInfo: >
+  Tickets grant access to all conference sections, coffee brakes,
+  lunch and party. Accommodation is NOT included in the ticket price.
+ticketsOffers:
+  - name: "Contribuitor"
+    price: "10"
+    priceCurrency: "EUR"
+    ticketsNumber: "200"
+    buyButtonLink: ""
+    buyButtonText: "Buy Now"
+    ticketContentList:
+      - "Main Track Accesibility"
+      - "Access to Keynote Presentations"
+      - "Access to Event Exhibition & Networking Area"
+      - "Free Food & Drinks"
+    validFrom: "2016-01-15T10:00"
+    validThrough: "2016-04-10T23:59"
+    soldOut: false
+    soldOutText: "Sold Out"
+    disabled: true
+
+  - name: "VIP"
+    price: "50"
+    priceCurrency: "EUR"
+    ticketsNumber: "50"
+    featured: true
+    buyButtonLink: ""
+    buyButtonText: "Buy Now"
+    ticketContentList:
+      - "Developers & Students benefits"
+      - "VIP, Speakers & Partners Lounge Access"
+      - "Invitation for Speakers & Partners Official Dinner"
+      - "Front Row Priority at Event Stage"
+    validFrom: "2016-01-15T10:00"
+    validThrough: "2016-04-13T23:59"
+    soldOut: false
+    soldOutText: "Sold Out"
+    disabled: true
+
+  - name: "Student & Developers"
+    price: "Free"
+    priceCurrency: ""
+    ticketsNumber: "200"
+    buyButtonLink: ""
+    buyButtonText: "Buy Now"
+    ticketContentList: 
+      - "Main Track Accesibility"
+      - "Access to Keynote Presentations"
+      - "Access to Event Exhibition & Networking Area"
+      - "Free Food & Drinks"
+    validFrom: "2016-01-15T10:00"
+    validThrough: "2016-04-10T23:59"
+    soldOut: false
+    soldOutText: "Sold Out"
+    disabled: true
