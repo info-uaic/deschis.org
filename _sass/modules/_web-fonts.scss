@@ -85,7 +85,7 @@
   @if str-length($protocol) > 0 {
     $protocol: $protocol + ":";
   }
-  $url: "#{$protocol}//fonts.googleapis.com/css?family=";
+  $url: "#{$protocol}//fonts.googleapis.com/css?subset=latin,latin-ext,greek&family=";
   $url: $url + wf-serialize($fonts);
   @import url($url);
 }
