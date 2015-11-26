@@ -39,3 +39,21 @@ aboutUs: >
     state of the art skills. So we hope you'll give us the chance to impress in our
     Open Source Camp hosted in Iași, Romania. Join us for tech talks, workshops and 
     an awesome hackthon that will keep you up in excitement.
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - count: "200"
+   specialCharacter: "+"
+   info: "attendees"
+   detail: "from everywhere"
+
+ - count: "48"
+   specialCharacter: "+"
+   info: "hours"
+   detail: "of pure open source technologies"
+
+ - count: "10"
+   specialCharacter: "+"
+   info: "speakers"
+   detail: "from country and beyond"
