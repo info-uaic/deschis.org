@@ -132,7 +132,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://www.facebook.com/Open-Source-Camp-1693701974204138/", icon: "facebook"}
+ - {link: "https://www.facebook.com/OpenSourceRo", icon: "facebook"}
+ - {link: "https://twitter.com/OSCampRo", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 
 footerBlocks:
