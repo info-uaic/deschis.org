@@ -121,7 +121,6 @@ time {
 }
 
 .coffee{
-  
   display: inline-block;
   height: 50px;
   width: 40px;
@@ -152,8 +151,8 @@ time {
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     z-index: 1;
-    
   }
+
   &:after{
     position: absolute;
     content:"";
@@ -187,40 +186,6 @@ time {
     bottom: 0;
     left: 0;
     background-color: #fff;
-}
-@keyframes base {
-    0% {
-        background-color: #21aa29;
-    }
-    25% {
-        background-color: #2159d6;
-    }
-    50% {
-        background-color: #d62408;
-    }
-    75% {        
-        background-color: #ffcf00;
-    }
-    100% {
-        background-color: #21aa29;
-    }
-}
-@keyframes reveal {
-    0% {
-        background-color: #2159d6;
-    }
-    25% {
-        background-color: #d62408;
-    }
-    50% {
-        background-color: #ffcf00;
-    }
-    75% {
-        background-color: #21aa29;
-    }
-    100% {
-        background-color: #2159d6;
-    }
 }
 
 .social-links {
