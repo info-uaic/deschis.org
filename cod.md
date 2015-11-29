@@ -16,11 +16,11 @@ An important part of removing obstacles to a great community is having a small s
 
 The rules are intended to be lightweight, and to make more explicit certain social norms that are normally implicit. Most of our social rules really boil down to "don't be a jerk" or "don't be annoying." Of course, almost nobody sets out to be a jerk or annoying, so telling people not to be jerks isn't a very productive strategy. That's why our social rules are designed to curtail specific behavior we've found to be destructive to a supportive, productive, and fun learning environment.
 
-No feigning surprise. The first rule means you shouldn't act surprised when people say they don't know something. This applies to both technical things ("What?! I can't believe you don't know what the stack is!") and non-technical things ("You don't know who RMS is?!"). Feigning surprise has absolutely no social or educational benefit: When people feign surprise, it's usually to make them feel better about themselves and others feel worse. And even when that's not the intention, it's almost always the effect.
+No feigning surprise. The first rule means you shouldn't act surprised when people say they don't know something. This applies to both technical things ("What?! I can't believe you don't know what the stack is!") and non-technical things ("You don't know who RMS is?!"). Feigning surprise has absolutely no social or educational benefit. When people feign surprise, it's usually to make them feel better about themselves and others feel worse. And even when that's not the intention, it's almost always the effect.
 
-No well-actually's A well-actually happens when someone says something that's almost - but not entirely - correct, and you say, "well, actually…" and then give a minor correction. This is especially annoying when the correction has no bearing on the actual conversation. This doesn't mean we aren't about truth-seeking or that we don't care about being precise. Almost all well-actually's in our experience are about grandstanding, not truth-seeking.
+No well-actually's. A well-actually happens when someone says something that's almost - but not entirely - correct, and you say, "well, actually…" and then give a minor correction. This is especially annoying when the correction has no bearing on the actual conversation. This doesn't mean we aren't about truth-seeking or that we don't care about being precise. Almost all well-actually's in our experience are about grandstanding, not truth-seeking.
 
-No subtle -isms Our last social rule bans subtle racism, sexism, homophobia, transphobia, and other kinds of bias. This one is different from the rest, because it covers a class of behaviors instead of one very specific pattern.
+No subtle -isms. Our last social rule bans subtle racism, sexism, homophobia, transphobia, and other kinds of bias. This one is different from the rest, because it covers a class of behaviors instead of one very specific pattern.
 
 Subtle -isms are small things that make others feel uncomfortable, things that we all sometimes do by mistake. For example, saying "It's so easy my grandmother could do it" is a subtle -ism. Like the other three social rules, this one is often accidentally broken. Like the other three, it's not a big deal to mess up – you just apologize and move on.
 
@@ -34,7 +34,7 @@ Harassment includes (but is not limited to) offensive comments related to gender
 
 ####Reporting
 
-If you are being harassed in a OSCamp space, notice that someone else is being harassed, or have any other concerns, please contact the organizers immediately (either grab one of us in person, or send us an email at contact@oscamp.eu). You do *not* need to be the target of harassment to speak up. Making OSCamp the best possible community is everyone's responsibility.
+If you are being harassed in a OSCamp space, notice that someone else is being harassed, or have any other concerns, please announce the organizers immediately (either contact one of us directly, or send us an email at contact@oscamp.eu). You do *not* need to be the target of harassment to speak up. Making OSCamp the best possible community is everyone's responsibility.
 
 If an incident is reported during an event, the organizers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
