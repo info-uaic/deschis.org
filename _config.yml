@@ -50,6 +50,7 @@ c4sponsorsUrl: ""
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/team/", text: "Team"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 
 bottomNavigationLinks:
