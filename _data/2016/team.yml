@@ -1,5 +1,4 @@
-- 
-  group: "Organizers"
+- group: "Organizers"
   members: 
     - id: 0
       name: "Sabin"
@@ -45,3 +44,33 @@
         - {abbr: "Core", title: "OSCamp Board Member"}
       social: 
         - {name: "github", link: "https://github.com/AndreiAvadanei"}
+
+    - id: 4
+      name: "Teofil"
+      surname: "Cojocariu"
+      title: "Security Penetration Testing"
+      thumbnailUrl: "teofil_cojocariu.jpg"
+      ribbon: 
+        - {abbr: "Core", title: "OSCamp Board Member"}
+      social: 
+        - {name: "site", link: "https://cojo.eu"}
+        - {name: "linkedin", link: "https://linkedin.com/in/teofilcojocariu/"}
+
+- group: "Program committee"
+  members: 
+    - id: 10
+      name: "Teona"
+      surname: "Rusu"
+      title: "Student"
+      thumbnailUrl: "teona_rusu.jpg"
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/teona.rusu"}
+
+    - id: 11
+      name: "Irina"
+      surname: "Bejan"
+      title: "Student"
+      thumbnailUrl: "octocat.jpg"
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/irinamadalina.bejan"}
+
