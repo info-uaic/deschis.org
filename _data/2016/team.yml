@@ -5,9 +5,9 @@
       surname: "Buraga"
       title: "Associate Professor, PhD @FII, UAIC Iași"
       thumbnailUrl: "sabin_buraga.jpg"
-      ribbon: 
+      ribbon:
         - {abbr: "Core", title: "OSCamp Board Member"}
-      social: 
+      social:
         - {name: "site", link: "http://profs.info.uaic.ro/~busaco/"}
 
     - id: 1
@@ -15,9 +15,10 @@
       surname: "Coman"
       title: "Cloud Engineer @Cloudbase"
       thumbnailUrl: "alexandru_coman.jpg"
-      ribbon: 
+      ribbon:
         - {abbr: "Core", title: "OSCamp Board Member"}
-      social: 
+        - {abbr: "Technical", title: "Technical Ledear"}
+      social:
         - {name: "facebook", link: "https://www.facebook.com/alxcoman"}
         - {name: "twitter", link: "https://twitter.com/coman_alexandru"}
         - {name: "site", link: "https://alexcoman.com/"}
@@ -29,19 +30,24 @@
       surname: "Cîtea"
       title: "Student @FII, UAIC Iași"
       thumbnailUrl: "alexandru_citea.jpg"
-      ribbon: 
+      ribbon:
         - {abbr: "Core", title: "OSCamp Board Member"}
-      social: 
+        - {abbr: "Technical", title: "Technical Member"}
+      social:
         - {name: "github", link: "https://github.com/citeaalexandru"}
 
+
+- group: "Legal Department"
+  members:
     - id: 3
       name: "Andrei"
       surname: "Avădănei"
       title: "President & Founder at Cyber Security Research Center"
       thumbnailUrl: "andrei_avadanei.jpg"
-      ribbon: 
+      ribbon:
         - {abbr: "Core", title: "OSCamp Board Member"}
-      social: 
+        - {abbr: "Legal", title: "Legal Department Leader"}
+      social:
         - {name: "github", link: "https://github.com/AndreiAvadanei"}
 
     - id: 4
@@ -51,13 +57,33 @@
       thumbnailUrl: "teofil_cojocariu.jpg"
       ribbon: 
         - {abbr: "Core", title: "OSCamp Board Member"}
+        - {abbr: "Legal", title: "Legal Department Member"}
       social: 
         - {name: "site", link: "https://cojo.eu"}
         - {name: "linkedin", link: "https://linkedin.com/in/teofilcojocariu/"}
 
-- group: "Digital artists"
+
+- group: "PR & Social Media"
   members:
     - id: 5
+      name: "Răzvan"
+      surname: "Deaconescu"
+      title: ""
+      thumbnailUrl: "razvan_deaconescu.jpg"
+      ribbon:
+        - {abbr: "Core", title: "OSCamp Board Member"}
+        - {abbr: "Social", title: "PR & Social Media Leader"}
+        - {abbr: "Program", title: "Program committee Leader"}
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/razvan.deaconescu"}
+        - {name: "google-plus", link: "https://plus.google.com/117970536994604205384"}
+        - {name: "site", link: "http://swarm.cs.pub.ro/~razvan/wiki/"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/razvandeaconescu"}
+
+
+- group: "Digital artists"
+  members:
+    - id: 6
       name: "Alina"
       surname: "Asandei"
       title: "Graphic Designer"
@@ -65,21 +91,28 @@
       social:
         - {name: "linkedin", link: "https://www.linkedin.com/in/asandeialina"}
         - {name: "site", link: "https://www.behance.net/asandei"}
+      ribbon:
+        - {abbr: "Graphic", title: "Digital artists Leader"}
+
 
 - group: "Program committee"
   members: 
-    - id: 10
+    - id: 7
       name: "Teona"
       surname: "Rusu"
       title: "Student"
       thumbnailUrl: "teona_rusu.jpg"
       social:
         - {name: "facebook", link: "https://www.facebook.com/teona.rusu"}
+      ribbon:
+        - {abbr: "Program", title: "Program committee Member"}
 
-    - id: 11
+    - id: 8
       name: "Irina"
       surname: "Bejan"
-      title: "Student"
-      thumbnailUrl: "octocat.jpg"
+      title: "Programmer @Sprocket Inc."
+      thumbnailUrl: "irina_bejan.jpg"
       social:
-        - {name: "facebook", link: "https://www.facebook.com/irinamadalina.bejan"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/irina-bejan-2a89a081"}
+      ribbon:
+        - {abbr: "Program", title: "Program committee Member"}
