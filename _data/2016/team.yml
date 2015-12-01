@@ -18,12 +18,11 @@
       ribbon: 
         - {abbr: "Core", title: "OSCamp Board Member"}
       social: 
-        - {name: "github", link: "https://github.com/alexandrucoman"}
+        - {name: "facebook", link: "https://www.facebook.com/alxcoman"}
+        - {name: "twitter", link: "https://twitter.com/coman_alexandru"}
         - {name: "site", link: "https://alexcoman.com/"}
         - {name: "linkedin", link: "https://linkedin.com/in/comanalex"}
-        - {name: "twitter", link: "https://twitter.com/coman_alexandru"}
-        - {name: "facebook", link: "https://www.facebook.com/alxcoman"}
-        - {name: "google-plus", link: "https://plus.google.com/u/0/+ComanAlexandru/"}
+        - {name: "github", link: "https://github.com/alexandrucoman"}
 
     - id: 2
       name: "Alexandru"
@@ -56,6 +55,17 @@
         - {name: "site", link: "https://cojo.eu"}
         - {name: "linkedin", link: "https://linkedin.com/in/teofilcojocariu/"}
 
+- group: "Digital artists"
+  members:
+    - id: 5
+      name: "Alina"
+      surname: "Asandei"
+      title: "Graphic Designer"
+      thumbnailUrl: "alina_asandei.png"
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/asandeialina"}
+        - {name: "site", link: "https://www.behance.net/asandei"}
+
 - group: "Program committee"
   members: 
     - id: 10
@@ -73,4 +83,3 @@
       thumbnailUrl: "octocat.jpg"
       social:
         - {name: "facebook", link: "https://www.facebook.com/irinamadalina.bejan"}
-
