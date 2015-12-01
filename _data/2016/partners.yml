@@ -1,5 +1,4 @@
-- 
-  group: "Community & Media Partners"
+- group: "Partner Communities"
   elements:
     - id: 0
       name: "ROSEdu"
@@ -8,6 +7,14 @@
       imageUrl: "rosedu.png"
 
     - id: 1
+      name: "RoPython"
+      description: "Romanian Python Community"
+      link: "http://ropython.org/"
+      imageUrl: "ropython.png"
+
+- group: "Media Partners"
+  elements:
+    - id: 10
       name: "WorldIT.info"
       description: "WorldIT.info"
       link: "http://www.worldit.info/"
