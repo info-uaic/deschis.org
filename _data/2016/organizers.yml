@@ -4,7 +4,7 @@
     - id: 0
       name: "FII"
       description: "Faculty of Computer Science"
-      link: "http://kyiv.gdg.org.ua"
+      link: "https://www.info.uaic.ro/bin/Main/"
       imageUrl: "fii.png"
 
     - id: 1

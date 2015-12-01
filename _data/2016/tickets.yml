@@ -28,7 +28,7 @@ ticketsOffers:
     buyButtonLink: ""
     buyButtonText: "Buy Now"
     ticketContentList:
-      - "Developers & Students benefits"
+      - "Students / Developer benefits"
       - "VIP, Speakers & Partners Lounge Access"
       - "Invitation for Speakers & Partners Official Dinner"
       - "Front Row Priority at Event Stage"
@@ -38,7 +38,7 @@ ticketsOffers:
     soldOutText: "Sold Out"
     disabled: true
 
-  - name: "Student & Developers"
+  - name: "Students / Developer"
     price: "Free"
     priceCurrency: ""
     ticketsNumber: "200"
