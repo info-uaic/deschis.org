@@ -3,7 +3,7 @@ ticketsInfo: >
   Tickets grant access to all conference sections, coffee brakes,
   lunch and party. Accommodation is NOT included in the ticket price.
 ticketsOffers:
-  - name: "Contribuitor"
+  - name: "Contributor"
     price: "10"
     priceCurrency: "EUR"
     ticketsNumber: "200"
