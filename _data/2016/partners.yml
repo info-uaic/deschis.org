@@ -6,7 +6,13 @@
       link: "http://www.rosedu.org/"
       imageUrl: "rosedu.png"
 
-    - id: 1
+    - id: 2
+      name: "Rogentos"
+      description: "Rogentos Linux Group"
+      link: "http://rogentos.ro/"
+      imageUrl: "rogentos.png"
+
+    - id: 2
       name: "RoPython"
       description: "Romanian Python Community"
       link: "http://ropython.org/"
