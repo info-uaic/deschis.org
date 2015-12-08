@@ -114,6 +114,17 @@
       ribbon:
         - {abbr: "Graphic", title: "Digital artists Member"}
 
+    - id: 11
+      name: "Luiza"
+      surname: "Bubatu"
+      title: "Student"
+      thumbnailUrl: "luiza_bubatu.jpg"
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/luiza.madalina.31"}
+      ribbon:
+        - {abbr: "Graphic", title: "Digital artists Member"}
+
+
 - group: "Program committee"
   members: 
     - id: 7
