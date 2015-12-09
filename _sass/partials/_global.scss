@@ -120,53 +120,6 @@ time {
     }
 }
 
-.coffee{
-  display: inline-block;
-  height: 50px;
-  width: 40px;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
-  background: linear-gradient(
-    to bottom left,
-    #47D1FF,
-    darken(#47D1FF, 25%)
-  );
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  z-index: 9999;
-  animation: base 3s steps(1) 0s infinite;
-
-  &:before{
-    position: absolute;
-    background: transparent;
-    content:"";
-    right: -15px;
-    top: 5px;
-    height: 25px;
-    width: 10px;
-    border: 5px solid #47D1FF;
-    border-left: 5px solid transparent;
-    border-bottom: 5px solid darken(#47D1FF, 13%);
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    z-index: 1;
-  }
-
-  &:after{
-    position: absolute;
-    content:"";
-    width: 5px;
-    height: 30px; 
-    background: #47D1FF;
-    border-radius: 4px;
-    top: -30px;
-    box-shadow: 35px 0px 0 #47D1FF,
-                17.5px -15px 0 #47D1FF;
-    animation: steam 3s ease infinite;
-  }
-}
-
 @keyframes steam{
   
   100%{
@@ -186,6 +139,19 @@ time {
     bottom: 0;
     left: 0;
     background-color: #fff;
+}
+
+.preloader-inner{
+    background-image: url("/img/other/preloader-inner.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: absolute;
+
+    height: 50%;
+    width: 50%;
+    left: 25%;
+    top: 20%;
 }
 
 .social-links {
