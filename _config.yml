@@ -108,7 +108,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "oscamp"
 
 # Speakers List Block
 showSessions: true
