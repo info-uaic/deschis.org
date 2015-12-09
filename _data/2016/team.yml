@@ -94,6 +94,16 @@
       ribbon:
         - {abbr: "Graphic", title: "Digital artists Leader"}
 
+    - id: 9
+      name: "Valentin"
+      surname: "Zbanț"
+      title: "Student @FII"
+      thumbnailUrl: "valentin_zbant.jpg"
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/valentinzbant"}
+      ribbon:
+        - {abbr: "Graphic", title: "Digital artists Member"}
+
 
 - group: "Program committee"
   members: 
