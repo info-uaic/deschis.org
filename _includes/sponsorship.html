@@ -1,0 +1,39 @@
+{% assign sponsorship = site.data[page.edition].sponsorship %}
+{% assign sponsors_benefits = sponsorship.sponsors_benefits.elements %}
+
+<!-- Sponsorship Plans Details -->
+<section id="team" class="team">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h4> Miau miau mau mau.</h4>
+            <p class="text-left animated hiding" data-animation="fadeInUp">
+                Mauuu mauu mauuu miua.
+            </p>
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            {% assign animationDelay = 0 %}
+            {% for card in sponsorship.sponsor_brochure.elements %}
+            <div class="col-md-3 col-sm-6 col-xs-12 same-height cols-centered">
+                <div class="card pricing-content">
+                <h4>{{ card.name }}</h4>
+                    <ul>
+                        {% for benefit in card.benefits %}
+                        <li>
+                            <span class="text-left col-md-8">
+                                {{ sponsors_benefits[benefit.benefit_id] }}
+                            </span>
+                            <span class="text-right col-md-4">{{ benefit.value }}</span>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            {% assign animationDelay = animationDelay | plus:100 %}
+            {% endfor %}
+        </div>
+    </div>
+
+</section>
+
+
+<!-- End of Sponsorship Plans Details -->
