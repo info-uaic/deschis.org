@@ -1,0 +1,217 @@
+sponsors_benefits:
+    elements:
+        1:  "Sponsor limit"
+        2:  "VIP tickets"
+        3:  "Logo on web"
+        4:  "Ad in programme guide"
+        5:  "Attendee bag insert"
+        6:  "Logo on banners"
+        7:  "Recruiting"
+        8:  "CV Box"
+        9:  "Meet the sponsors"
+        10: "Booth"
+        11: "Sponsored workshop"
+        12: "Roll-up on stage"
+        13: "Sponsored hackathon"
+        14: "Logo on speaker desk"
+        15: "Private party"
+
+sponsor_brochure:
+    elements:
+        - name: "Patron"
+          benefits:
+            - benefit_id: 1
+              value: ""
+            - benefit_id: 2
+              value: "-"
+            - benefit_id: 3
+              value: "-"
+            - benefit_id: 4
+              value: "-"
+            - benefit_id: 5
+              value: "-"
+            - benefit_id: 6
+              value: "-"
+            - benefit_id: 7
+              value: "-"
+            - benefit_id: 8
+              value: "-"
+            - benefit_id: 9
+              value: "-"
+            - benefit_id: 10
+              value: "-"
+            - benefit_id: 11
+              value: "-"
+            - benefit_id: 12
+              value: "-"
+            - benefit_id: 13
+              value: "-"
+            - benefit_id: 14
+              value: "-"
+            - benefit_id: 15
+              value: "-"
+
+        - name: "Bronze"
+          benefits:
+            - benefit_id: 1
+              value: "-"
+            - benefit_id: 2
+              value: "-"
+            - benefit_id: 3
+              value: "-"
+            - benefit_id: 4
+              value: "-"
+            - benefit_id: 5
+              value: "-"
+            - benefit_id: 6
+              value: "-"
+            - benefit_id: 7
+              value: "-"
+            - benefit_id: 8
+              value: "-"
+            - benefit_id: 9
+              value: "-"
+            - benefit_id: 10
+              value: "-"
+            - benefit_id: 11
+              value: "-"
+            - benefit_id: 12
+              value: "-"
+            - benefit_id: 13
+              value: "-"
+            - benefit_id: 14
+              value: "-"
+            - benefit_id: 15
+              value: "-"
+
+        - name: "Silver"
+          benefits:
+            - benefit_id: 1
+              value: "-"
+            - benefit_id: 2
+              value: "-"
+            - benefit_id: 3
+              value: "-"
+            - benefit_id: 4
+              value: "-"
+            - benefit_id: 5
+              value: "-"
+            - benefit_id: 6
+              value: "-"
+            - benefit_id: 7
+              value: "-"
+            - benefit_id: 8
+              value: "-"
+            - benefit_id: 9
+              value: "-"
+            - benefit_id: 10
+              value: "-"
+            - benefit_id: 11
+              value: "-"
+            - benefit_id: 12
+              value: "-"
+            - benefit_id: 13
+              value: "-"
+            - benefit_id: 14
+              value: "-"
+            - benefit_id: 15
+              value: "-"
+
+        - name: "Gold"
+          benefits:
+            - benefit_id: 1
+              value: "-"
+            - benefit_id: 2
+              value: "-"
+            - benefit_id: 3
+              value: "-"
+            - benefit_id: 4
+              value: "-"
+            - benefit_id: 5
+              value: "-"
+            - benefit_id: 6
+              value: "-"
+            - benefit_id: 7
+              value: "-"
+            - benefit_id: 8
+              value: "-"
+            - benefit_id: 9
+              value: "-"
+            - benefit_id: 10
+              value: "-"
+            - benefit_id: 11
+              value: "-"
+            - benefit_id: 12
+              value: "-"
+            - benefit_id: 13
+              value: "-"
+            - benefit_id: 14
+              value: "-"
+            - benefit_id: 15
+              value: "-"
+
+        - name: "Platinum"
+          benefits:
+            - benefit_id: 1
+              value: "-"
+            - benefit_id: 2
+              value: "-"
+            - benefit_id: 3
+              value: "-"
+            - benefit_id: 4
+              value: "-"
+            - benefit_id: 5
+              value: "-"
+            - benefit_id: 6
+              value: "-"
+            - benefit_id: 7
+              value: "-"
+            - benefit_id: 8
+              value: "-"
+            - benefit_id: 9
+              value: "-"
+            - benefit_id: 10
+              value: "-"
+            - benefit_id: 11
+              value: "-"
+            - benefit_id: 12
+              value: "-"
+            - benefit_id: 13
+              value: "-"
+            - benefit_id: 14
+              value: "-"
+            - benefit_id: 15
+              value: "-"
+
+        - name: "Diamond"
+          benefits:
+            - benefit_id: 1
+              value: "-"
+            - benefit_id: 2
+              value: "-"
+            - benefit_id: 3
+              value: "-"
+            - benefit_id: 4
+              value: "-"
+            - benefit_id: 5
+              value: "-"
+            - benefit_id: 6
+              value: "-"
+            - benefit_id: 7
+              value: "-"
+            - benefit_id: 8
+              value: "-"
+            - benefit_id: 9
+              value: "-"
+            - benefit_id: 10
+              value: "-"
+            - benefit_id: 11
+              value: "-"
+            - benefit_id: 12
+              value: "-"
+            - benefit_id: 13
+              value: "-"
+            - benefit_id: 14
+              value: "-"
+            - benefit_id: 15
+              value: "-"
