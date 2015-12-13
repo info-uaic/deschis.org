@@ -17,201 +17,205 @@ sponsors_benefits:
         15: "Private party"
 
 sponsor_brochure:
+    title: "Sponsorship Opportunities"
+    description: >
+        Engage yourself as a sponsor of the Open Source Camp
+        event through any of the following sponsorship packages!
     elements:
         - name: "Patron"
           benefits:
             - benefit_id: 1
-              value: ""
+              value: "∞"
             - benefit_id: 2
-              value: "-"
+              value: "0"
             - benefit_id: 3
-              value: "-"
+              value: "✓"
             - benefit_id: 4
-              value: "-"
+              value: "x"
             - benefit_id: 5
-              value: "-"
+              value: "x"
             - benefit_id: 6
-              value: "-"
+              value: "x"
             - benefit_id: 7
-              value: "-"
+              value: "x"
             - benefit_id: 8
-              value: "-"
+              value: "x"
             - benefit_id: 9
-              value: "-"
+              value: "x"
             - benefit_id: 10
-              value: "-"
+              value: "x"
             - benefit_id: 11
-              value: "-"
+              value: "x"
             - benefit_id: 12
-              value: "-"
+              value: "x"
             - benefit_id: 13
-              value: "-"
+              value: "x"
             - benefit_id: 14
-              value: "-"
+              value: "x"
             - benefit_id: 15
-              value: "-"
+              value: "x"
 
         - name: "Bronze"
           benefits:
             - benefit_id: 1
-              value: "-"
+              value: "∞"
             - benefit_id: 2
-              value: "-"
+              value: "1"
             - benefit_id: 3
-              value: "-"
+              value: "✓"
             - benefit_id: 4
-              value: "-"
+              value: "1/4 page"
             - benefit_id: 5
-              value: "-"
+              value: "✓"
             - benefit_id: 6
-              value: "-"
+              value: "x"
             - benefit_id: 7
-              value: "-"
+              value: "x"
             - benefit_id: 8
-              value: "-"
+              value: "x"
             - benefit_id: 9
-              value: "-"
+              value: "15 sec"
             - benefit_id: 10
-              value: "-"
+              value: "x"
             - benefit_id: 11
-              value: "-"
+              value: "x"
             - benefit_id: 12
-              value: "-"
+              value: "x"
             - benefit_id: 13
-              value: "-"
+              value: "x"
             - benefit_id: 14
-              value: "-"
+              value: "x"
             - benefit_id: 15
-              value: "-"
+              value: "x"
 
         - name: "Silver"
           benefits:
             - benefit_id: 1
-              value: "-"
+              value: "∞"
             - benefit_id: 2
-              value: "-"
+              value: "3"
             - benefit_id: 3
-              value: "-"
+              value: "✓"
             - benefit_id: 4
-              value: "-"
+              value: "1/2 page"
             - benefit_id: 5
-              value: "-"
+              value: "✓"
             - benefit_id: 6
-              value: "-"
+              value: "x"
             - benefit_id: 7
-              value: "-"
+              value: "x"
             - benefit_id: 8
-              value: "-"
+              value: "x"
             - benefit_id: 9
-              value: "-"
+              value: "30 sec"
             - benefit_id: 10
-              value: "-"
+              value: "x"
             - benefit_id: 11
-              value: "-"
+              value: "x"
             - benefit_id: 12
-              value: "-"
+              value: "x"
             - benefit_id: 13
-              value: "-"
+              value: "x"
             - benefit_id: 14
-              value: "-"
+              value: "x"
             - benefit_id: 15
-              value: "-"
+              value: "x"
 
         - name: "Gold"
           benefits:
             - benefit_id: 1
-              value: "-"
+              value: "7"
             - benefit_id: 2
-              value: "-"
+              value: "5"
             - benefit_id: 3
-              value: "-"
+              value: "✓"
             - benefit_id: 4
-              value: "-"
+              value: "1/2 page"
             - benefit_id: 5
-              value: "-"
+              value: "✓"
             - benefit_id: 6
-              value: "-"
+              value: "✓"
             - benefit_id: 7
-              value: "-"
+              value: "✓"
             - benefit_id: 8
-              value: "-"
+              value: "✓"
             - benefit_id: 9
-              value: "-"
+              value: "45 sec"
             - benefit_id: 10
-              value: "-"
+              value: "4m"
             - benefit_id: 11
-              value: "-"
+              value: "x"
             - benefit_id: 12
-              value: "-"
+              value: "x"
             - benefit_id: 13
-              value: "-"
+              value: "x"
             - benefit_id: 14
-              value: "-"
+              value: "x"
             - benefit_id: 15
-              value: "-"
+              value: "x"
 
         - name: "Platinum"
           benefits:
             - benefit_id: 1
-              value: "-"
+              value: "5"
             - benefit_id: 2
-              value: "-"
+              value: "7"
             - benefit_id: 3
-              value: "-"
+              value: "✓"
             - benefit_id: 4
-              value: "-"
+              value: "1 page"
             - benefit_id: 5
-              value: "-"
+              value: "✓"
             - benefit_id: 6
-              value: "-"
+              value: "✓"
             - benefit_id: 7
-              value: "-"
+              value: "✓"
             - benefit_id: 8
-              value: "-"
+              value: "✓"
             - benefit_id: 9
-              value: "-"
+              value: "1.5 min"
             - benefit_id: 10
-              value: "-"
+              value: "8 m"
             - benefit_id: 11
-              value: "-"
+              value: "✓"
             - benefit_id: 12
-              value: "-"
+              value: "✓"
             - benefit_id: 13
-              value: "-"
+              value: "x"
             - benefit_id: 14
-              value: "-"
+              value: "x"
             - benefit_id: 15
-              value: "-"
+              value: "x"
 
         - name: "Diamond"
           benefits:
             - benefit_id: 1
-              value: "-"
+              value: "3"
             - benefit_id: 2
-              value: "-"
+              value: "9"
             - benefit_id: 3
-              value: "-"
+              value: "✓"
             - benefit_id: 4
-              value: "-"
+              value: "2 pages"
             - benefit_id: 5
-              value: "-"
+              value: "✓"
             - benefit_id: 6
-              value: "-"
+              value: "✓"
             - benefit_id: 7
-              value: "-"
+              value: "✓"
             - benefit_id: 8
-              value: "-"
+              value: "✓"
             - benefit_id: 9
-              value: "-"
+              value: "3 min"
             - benefit_id: 10
-              value: "-"
+              value: "20 m"
             - benefit_id: 11
-              value: "-"
+              value: "✓"
             - benefit_id: 12
-              value: "-"
+              value: "✓"
             - benefit_id: 13
-              value: "-"
+              value: "✓"
             - benefit_id: 14
-              value: "-"
+              value: "✓"
             - benefit_id: 15
-              value: "-"
+              value: "✓"
