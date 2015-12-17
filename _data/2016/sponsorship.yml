@@ -25,101 +25,101 @@ sponsor_brochure:
         - name: "Patron"
           benefits:
             - benefit_id: 1
-              value: "∞"
+              value: <i class="fa fa-circle-o-notch"></i>
             - benefit_id: 2
               value: "0"
             - benefit_id: 3
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 4
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 5
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 6
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 7
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 8
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 9
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 10
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 11
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 12
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 13
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 14
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 15
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
 
         - name: "Bronze"
           benefits:
             - benefit_id: 1
-              value: "∞"
+              value: <i class="fa fa-circle-o-notch"></i>
             - benefit_id: 2
               value: "1"
             - benefit_id: 3
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 4
               value: "1/4 page"
             - benefit_id: 5
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 6
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 7
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 8
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 9
               value: "15 sec"
             - benefit_id: 10
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 11
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 12
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 13
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 14
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 15
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
 
         - name: "Silver"
           benefits:
             - benefit_id: 1
-              value: "∞"
+              value: <i class="fa fa-circle-o-notch"></i>
             - benefit_id: 2
               value: "3"
             - benefit_id: 3
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 4
               value: "1/2 page"
             - benefit_id: 5
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 6
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 7
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 8
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 9
               value: "30 sec"
             - benefit_id: 10
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 11
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 12
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 13
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 14
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 15
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
 
         - name: "Gold"
           benefits:
@@ -128,31 +128,31 @@ sponsor_brochure:
             - benefit_id: 2
               value: "5"
             - benefit_id: 3
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 4
               value: "1/2 page"
             - benefit_id: 5
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 6
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 7
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 8
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 9
               value: "45 sec"
             - benefit_id: 10
               value: "4m"
             - benefit_id: 11
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 12
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 13
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 14
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 15
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
 
         - name: "Platinum"
           benefits:
@@ -161,31 +161,31 @@ sponsor_brochure:
             - benefit_id: 2
               value: "7"
             - benefit_id: 3
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 4
               value: "1 page"
             - benefit_id: 5
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 6
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 7
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 8
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 9
               value: "1.5 min"
             - benefit_id: 10
               value: "8 m"
             - benefit_id: 11
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 12
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 13
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 14
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
             - benefit_id: 15
-              value: "x"
+              value: <i class="fa fa-times" style="color:red"></i>
 
         - name: "Diamond"
           benefits:
@@ -194,28 +194,28 @@ sponsor_brochure:
             - benefit_id: 2
               value: "9"
             - benefit_id: 3
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 4
               value: "2 pages"
             - benefit_id: 5
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 6
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 7
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 8
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 9
               value: "3 min"
             - benefit_id: 10
               value: "20 m"
             - benefit_id: 11
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 12
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 13
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 14
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
             - benefit_id: 15
-              value: "✓"
+              value: <i class="fa fa-check" style="color:green"></i>
