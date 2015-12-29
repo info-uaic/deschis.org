@@ -24,4 +24,4 @@ Between everything, OSCamp is also a great place for companies to find talent ba
 
 The city of Iași is where the OSCamp initiative will be hosted, a city that is becoming known for its IT community and IT related events, offering a full range of services and a good quality infrastructure to help get everything in place.
 
-Although we are at our starting point, great efforts are being pushed into building OSCamp as a nation wide event with greatness built-in. OSCamp is an awesome opportunity to kick the open source community up a few notches and create a great foundation for a huge community, the community that Romania deserves.
+Although we are at our starting point, great efforts are being pushed into building OSCamp as a nation wide event with greatness inside. OSCamp is an awesome opportunity to kick the open source community up a few notches and upgrade its foundation to something even more special, creating the event that this subject deserves.
