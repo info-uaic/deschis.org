@@ -1,0 +1,34 @@
+{% assign sponsorship = site.data[page.edition].sponsorship %}
+{% assign sponsors_benefits = sponsorship.sponsors_benefits.elements %}
+
+<!-- Sponsorship Plan Details -->
+<section id="team" class="team">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h4>{{ sponsorship.sponsor_brochure.title }}</h4>
+            <p class="text-center">{{ sponsorship.sponsor_brochure.description }}</p>
+    </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            {% for card in sponsorship.sponsor_brochure.elements %}
+            <div class="col-md-3 col-sm-6 col-xs-12 same-height cols-centered">
+                <div class="card pricing-content">
+                    <h4>{{ card.name }}</h4>
+                    <ul>
+                        {% for benefit in card.benefits %}
+                        <li>
+                            <span class="text-left col-md-8 col-sm-8 col-xs-8">
+                                {{ sponsors_benefits[benefit.benefit_id] }}
+                            </span>
+                            <span class="text-right col-md-4 col-sm-4 col-xs-4">
+                                {{ benefit.value }}
+                            </span>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End of Sponsorship Plan Details -->
