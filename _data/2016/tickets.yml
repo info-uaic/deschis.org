@@ -1,7 +1,6 @@
 ticketsTitle: "Pricetable"
 ticketsInfo: >
-  Tickets grant access to all conference sections, coffee brakes,
-  lunch and party. Accommodation is NOT included in the ticket price.
+  Tickets grant access to all conference sections, coffee breaks and open party. Accommodation is NOT included in the ticket price.
 ticketsOffers:
   - name: "Contributor"
     price: "10"
@@ -14,7 +13,7 @@ ticketsOffers:
       - "Access to Keynote Presentations"
       - "Access to Event Exhibition & Networking Area"
       - "Free Food & Drinks"
-    validFrom: "2016-01-15T10:00"
+    validFrom: "2016-01-25T10:00"
     validThrough: "2016-04-10T23:59"
     soldOut: false
     soldOutText: "Sold Out"
@@ -32,13 +31,13 @@ ticketsOffers:
       - "VIP, Speakers & Partners Lounge Access"
       - "Invitation for Speakers & Partners Official Dinner"
       - "Front Row Priority at Event Stage"
-    validFrom: "2016-01-15T10:00"
+    validFrom: "2016-01-25T10:00"
     validThrough: "2016-04-13T23:59"
     soldOut: false
     soldOutText: "Sold Out"
     disabled: true
 
-  - name: "Students / Developer"
+  - name: "Student / Developer"
     price: "Free"
     priceCurrency: ""
     ticketsNumber: "200"
@@ -49,7 +48,7 @@ ticketsOffers:
       - "Access to Keynote Presentations"
       - "Access to Event Exhibition & Networking Area"
       - "Free Food & Drinks"
-    validFrom: "2016-01-15T10:00"
+    validFrom: "2016-01-25T10:00"
     validThrough: "2016-04-10T23:59"
     soldOut: false
     soldOutText: "Sold Out"
