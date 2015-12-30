@@ -94,37 +94,6 @@
       ribbon:
         - {abbr: "Graphic", title: "Digital artists Leader"}
 
-    - id: 9
-      name: "Valentin"
-      surname: "Zbanț"
-      title: "Student @FII"
-      thumbnailUrl: "valentin_zbant.jpg"
-      social:
-        - {name: "linkedin", link: "https://www.linkedin.com/in/valentinzbant"}
-      ribbon:
-        - {abbr: "Graphic", title: "Digital artists Member"}
-
-    - id: 10
-      name: "Carmen"
-      surname: "Lăscoiu"
-      title: "Student"
-      thumbnailUrl: "carmen_lascoiu.jpg"
-      social:
-        - {name: "facebook", link: "www.facebook.com/carmenlascoiu"}
-      ribbon:
-        - {abbr: "Graphic", title: "Digital artists Member"}
-
-    - id: 11
-      name: "Luiza"
-      surname: "Bubatu"
-      title: "Student"
-      thumbnailUrl: "luiza_bubatu.jpg"
-      social:
-        - {name: "facebook", link: "https://www.facebook.com/luiza.madalina.31"}
-      ribbon:
-        - {abbr: "Graphic", title: "Digital artists Member"}
-
-
 - group: "Program committee"
   members: 
     - id: 7
