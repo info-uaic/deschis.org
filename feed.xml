@@ -10,11 +10,61 @@
         <title>First steps</title>
         <description>&lt;p&gt;Sometimes, to do great things, you need some inspiration. You need great people to give you that one spark that will make you conceive a great idea and build upon it until it grows beyond measure. And other times, you just need some support. But what happens when you receive both from some awesome founders?&lt;/p&gt;
 
-&lt;p&gt;Open Source Camp isn’t an event without history. Although its concept is a little different from its successor, OSCamp is based upon the idea launched by Sabin Buraga and Andreea Popescu in 2014 called Open Source Iași (OSI). The event was hosted in Iași, Romania, but its target was only the local developer scene, gathering about 100 participants in a 10 hours event that covered, through multiple speakers, Open Source technologies and their impact. The event was the first of its kind in this part of Romania and it had quite the success.&lt;/p&gt;
+&lt;h4 id=&quot;open-source-iai&quot;&gt;Open Source @Iași&lt;/h4&gt;
+
+&lt;p&gt;Open Source Camp isn’t an event without history. Although its concept is a little different from its successor, OSCamp is based upon the idea launched by Sabin Buraga and Andreea Popescu in 2014 called &lt;a href=&quot;0&quot;&gt;Open Source Iași (OSI)&lt;/a&gt;. The event was hosted in Iași, Romania, but its target was only the local developer scene, gathering about 100 participants in a 10 hours event that covered, through multiple speakers, Open Source technologies and their impact.&lt;/p&gt;
+
+&lt;h5 id=&quot;speakers&quot;&gt;Speakers&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://reps.mozilla.org/u/popescu_andreea_z/&quot;&gt;Andreea Popescu&lt;/a&gt; (Mozilla Rep) from Iasi, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ro.linkedin.com/in/mflorea&quot;&gt;Marius Dumitru Florea&lt;/a&gt; (XWiki) from Iasi, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ro.linkedin.com/in/flaviusolaru&quot;&gt;Flavius Olaru&lt;/a&gt; (XWiki) from Iasi, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://about.me/stefanbc&quot;&gt;Stefan Cosma&lt;/a&gt; (Koding) from Sibiu, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jakob.cosoroaba.ro/&quot;&gt;Jakob Cosoroaba&lt;/a&gt; (Txt2Teach) from Bucharest, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://purl.org/net/busaco&quot;&gt;Sabin Buraga&lt;/a&gt; (Faculty of Computer Science) from Iasi, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://reps.mozilla.org/u/ioana_chiorean/&quot;&gt;Ioana Chiorean&lt;/a&gt; (Mozilla Rep) from Cluj-Napoca, Romania&lt;/li&gt;
+  &lt;li&gt;Ciprian Amariei (2wit) from Iasi, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/lakatos88&quot;&gt;Alex Lakatos&lt;/a&gt; (Mozilla Rep) from Cluj-Napoca, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blankdots.com/&quot;&gt;Ștefan Negru&lt;/a&gt; (Faculty of Computer Science) from Iasi, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.infoiasi.ro/bin/Structure/vcosmin&quot;&gt;Cosmin Varlan&lt;/a&gt; (Faculty of Computer Science) from Iasi, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ro.linkedin.com/in/doruilasi&quot;&gt;Doru Ilasi&lt;/a&gt; (Aplix) from Brasov, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://systems.cs.pub.ro/people/razvan.deaconescu/&quot;&gt;Razvan Deaconescu&lt;/a&gt; (ROSEdu &amp;amp; UPB) from Bucharest, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ro.linkedin.com/pub/flavius-anton/36/b92/628&quot;&gt;Flavius Anton&lt;/a&gt; (ROSEdu &amp;amp; UPB) from Bucharest, Romania&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alex.eftimie.ro/&quot;&gt;Alex Eftimie&lt;/a&gt; (ROSEdu &amp;amp; UPB) from Bucharest, Romania&lt;/li&gt;
+  &lt;li&gt;Matei Oprea (ROSEdu &amp;amp; UPB) from Bucharest, Romania&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;schedule&quot;&gt;Schedule&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;09:00 Opening&lt;/li&gt;
+  &lt;li&gt;09:15 &lt;a href=&quot;http://slid.es/jcsrb/open-source-iasi-2014&quot;&gt;“Cu Open Source îți iei destinul în propriile mâini”&lt;/a&gt; - &lt;a href=&quot;http://jakob.cosoroaba.ro/&quot;&gt;Jakob Cosoroabă&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;09:45 &lt;a href=&quot;http://www.slideshare.net/popescu_andreea/how-to-get-involved-in-mozilla-32258180&quot;&gt;“How to get involved in Mozilla”&lt;/a&gt; - &lt;a href=&quot;https://reps.mozilla.org/u/popescu_andreea_z/&quot;&gt;Andreea Popescu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;10:15 &lt;a href=&quot;http://www.slideshare.net/busaco/sabin-buraga-date-de-5-stele&quot;&gt;“5-star Open Data”&lt;/a&gt; - &lt;a href=&quot;http://purl.org/net/busaco&quot;&gt;Sabin Buraga&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;10:45 “După 7 ani de WoUSO” - &lt;a href=&quot;http://ro.linkedin.com/pub/flavius-anton/36/b92/628&quot;&gt;Flavius Anton &amp;amp; Matei Oprea&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;11:15 Coffee break&lt;/li&gt;
+  &lt;li&gt;11:30 &lt;a href=&quot;https://speakerdeck.com/stefanbc/mozilla-open-source-event-presentation-of-koding&quot;&gt;“Koding”&lt;/a&gt; - &lt;a href=&quot;http://about.me/stefanbc&quot;&gt;Ștefan Cosma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;12:00 &lt;a href=&quot;http://www.slideshare.net/blankdots/open-war&quot;&gt;“Open WAR (Web Applications and/for Research)”&lt;/a&gt; - &lt;a href=&quot;http://blankdots.com/&quot;&gt;Ștefan Negru&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;12:30 &lt;a href=&quot;http://www.slideshare.net/MariusDumitruFlorea/developing-the-xwiki-software-32344899&quot;&gt;“Developing the XWiki software”&lt;/a&gt; - &lt;a href=&quot;http://ro.linkedin.com/in/mflorea&quot;&gt;Marius Florea&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;13:00 Lunch&lt;/li&gt;
+  &lt;li&gt;14:00 “Cum să fii un bun magician în baze de date” - &lt;a href=&quot;http://ro.linkedin.com/in/doruilasi&quot;&gt;Doru Ilași&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;14:30 &lt;a href=&quot;http://www.slideshare.net/flaviusolaru/bookmarletapp-presentation-32342463&quot;&gt;“XWiki Bookmarklet”&lt;/a&gt; - &lt;a href=&quot;http://ro.linkedin.com/in/flaviusolaru&quot;&gt;Flavius Olaru&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;15:00 “Arduino: Open Source Imagination” - &lt;a href=&quot;http://www.infoiasi.ro/bin/Structure/vcosmin&quot;&gt;Cosmin Vârlan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;15:30 &lt;a href=&quot;https://alexlakatos.github.io/slides/open-source-iasi/&quot;&gt;“Developing for Firefox OS”&lt;/a&gt; - &lt;a href=&quot;https://twitter.com/lakatos88&quot;&gt;Alex Lakatos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;16:00 Coffee break&lt;/li&gt;
+  &lt;li&gt;16:15 “Women in Open Source” - &lt;a href=&quot;https://reps.mozilla.org/u/ioana_chiorean/&quot;&gt;Ioana Chiorean&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;16:45 &lt;a href=&quot;https://drive.google.com/folderview?id=0By6_as_hLrdoYkRCV0xLLUVBZ2M&amp;amp;usp=sharing&quot;&gt;“ROSEdu: Starea comunității”&lt;/a&gt; - &lt;a href=&quot;https://systems.cs.pub.ro/people/razvan.deaconescu/&quot;&gt;Răzvan Deaconescu&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://alex.eftimie.ro/&quot;&gt;Alex Eftimie&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;17:15 “Open Web Dev” - Ciprian Amariei&lt;/li&gt;
+  &lt;li&gt;17:45 The end.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The event was the first of its kind in this part of Romania and it had quite the success.&lt;/p&gt;
 
 &lt;p&gt;So, you could say Open Source Camp has a history and isn’t just a new event built by some enthusiastic student, but an event that has a good brick to stand on. This year, with the help of the original team, we take our aim to overcome the accomplishments of the previous event, taking our event to a national level and hopefully gathering more than 300 students and developers to a 2 day meetup for tech talks. And to pump it all up, we are offering workshops for multiple skill levels and a hackathon with some awesome goodies for the winners.&lt;/p&gt;
 
 &lt;p&gt;Now, for you beautiful people reading this, we really hope you’ll support us in our initiative and through us, the Open Source community of Romania. And of course, we can’t wait for you to join (c’mon, we have cookies, we promise).&lt;/p&gt;
+
 </description>
         <pubDate>Tue, 29 Dec 2015 12:00:00 +0000</pubDate>
         <link>https://oscamp.eu/blog/first-steps-2016</link>
