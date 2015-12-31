@@ -1,5 +1,5 @@
 /*
-Error: File to import not found or unreadable: vendor/font-awesome/font-awesome.
+Error: File to import not found or unreadable: vendor/font-awesome.
        Load paths:
          Compass::SpriteImporter
          /home/travis/build/info-uaic/oscamp/_sass
@@ -11,7 +11,7 @@ Error: File to import not found or unreadable: vendor/font-awesome/font-awesome.
 5: @import "vendor/bootstrap-custom";
 6: @import "vendor/animate";
 7: @import "vendor/waves";
-8: @import "vendor/font-awesome/font-awesome";
+8: @import "vendor/font-awesome";
 9: 
 10: // Partials
 11: @import "partials/global";
@@ -82,4 +82,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: vendor/font-awesome/font-awesome.\A        Load paths:\A          Compass::SpriteImporter\A          /home/travis/build/info-uaic/oscamp/_sass\A          /home/travis/.rvm/gems/ruby-2.1.1/gems/compass-core-1.0.3/stylesheets\A         on line 8 of /home/travis/build/info-uaic/oscamp/_sass/./main.scss\A \A 3: \A 4: // Third-party\A 5: @import \"vendor/bootstrap-custom\";\A 6: @import \"vendor/animate\";\A 7: @import \"vendor/waves\";\A 8: @import \"vendor/font-awesome/font-awesome\";\A 9: \A 10: // Partials\A 11: @import \"partials/global\";\A 12: @import \"partials/buttons\";\A 13: @import \"partials/helper\";"; }
+  content: "Error: File to import not found or unreadable: vendor/font-awesome.\A        Load paths:\A          Compass::SpriteImporter\A          /home/travis/build/info-uaic/oscamp/_sass\A          /home/travis/.rvm/gems/ruby-2.1.1/gems/compass-core-1.0.3/stylesheets\A         on line 8 of /home/travis/build/info-uaic/oscamp/_sass/./main.scss\A \A 3: \A 4: // Third-party\A 5: @import \"vendor/bootstrap-custom\";\A 6: @import \"vendor/animate\";\A 7: @import \"vendor/waves\";\A 8: @import \"vendor/font-awesome\";\A 9: \A 10: // Partials\A 11: @import \"partials/global\";\A 12: @import \"partials/buttons\";\A 13: @import \"partials/helper\";"; }
