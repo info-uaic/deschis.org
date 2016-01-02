@@ -2,12 +2,23 @@
 {% assign sponsors_benefits = sponsorship.sponsors_benefits.elements %}
 
 <!-- Sponsorship Plan Details -->
-<section id="team" class="team">
+<section id="sponsorship" class="sponsorship">
     <div class="content-wrapper">
+
+        <div class="col-md-8 col-md-offset-2 text-justify">
+            {% for row in sponsorship.sponsors_details.elements %}
+            <div class="{% if row.float == "left" %}float-left{% else %}float-right{% endif %} col-md-12">
+                <h4>{{ row.title }}</h4>
+                <p>{{ row.content | markdownify }}</p>
+            </div>
+            {% endfor %}
+        </div>
+
         <div class="col-lg-10 col-lg-offset-1">
             <h4>{{ sponsorship.sponsor_brochure.title }}</h4>
             <p class="text-center">{{ sponsorship.sponsor_brochure.description }}</p>
-    </div>
+        </div>
+
         <div class="col-lg-10 col-lg-offset-1 text-center">
             {% for card in sponsorship.sponsor_brochure.elements %}
             <div class="col-md-3 col-sm-6 col-xs-12 same-height cols-centered">
@@ -29,6 +40,7 @@
             </div>
             {% endfor %}
         </div>
+
     </div>
 </section>
 <!-- End of Sponsorship Plan Details -->
