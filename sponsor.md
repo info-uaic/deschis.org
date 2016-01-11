@@ -9,3 +9,4 @@ image: sponsor.jpg
  {% include top-section.html %}
 
  {% include sponsorship.html %}
+ 

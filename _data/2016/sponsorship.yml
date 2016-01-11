@@ -223,6 +223,95 @@ sponsor_brochure:
 
 sponsors_details:
     elements:
+        - title: "Welcome!"
+          float: "right"
+          content: >
+            OSCamp is an event specially dedicated to all those interested in 
+            the open source perspective. It aims to be the biggest event of its 
+            kind in Romania. Hosted in Iași, it is challenging over 300 participants 
+            to take part in a three day run over tech talks, workshops and an 
+            awesome hackathon.
+
+
+            OSCamp is organized in collaboration and with the full support of the
+            Faculty of Computer Science, “Alexandru Ioan Cuza” University, Iași
+            and the Cyber Security Research Center from Romania (CCSIR) for the
+            Romanian developer and future developer community.
+
+        - title: "Join us!"
+          float: "right"
+          content: >
+            Our aim is to build a conference with a lasting future and huge impact. 
+            In that idea, more than 300 faculty and high school students, developers 
+            and enthusiasts are expected to join our event. 
+
+            OSCamp is the first conference of its kind and magnitude in Romania.
+            Participants of all kind have their place in our event. From the guru
+            developer to the curious student, we fit all perspectives and interests.
+            We aim to distinguish ourselves by a unique atmosphere and a general
+            build-up of great minds.
+
+
+            Between everything, OSCamp is also a great place for companies to find
+            talent based on real world and motivated interest in the open source
+            community.
+
+
+            The city of Iași is where the OSCamp initiative will be hosted, a city
+            that is becoming known for it’s IT community and IT related events,
+            offering a full range of services and a good quality infrastructure to help
+            get everything in place.
+
+
+            Although we are at our starting point, great efforts are being pushed into
+            building OSCamp as a nation wide event with greatness inside. OSCamp is an
+            awesome opportunity to kick the open source community up a few notches and
+            upgrade its foundation to something even more special, creating the event
+            that this subject deserves.
+
+        - title: "Dates"
+          float: "right"
+          content: >            
+            OSCamp 2016 will take place from April 15th to April 16th, 2016 at Aula 
+            Magna "Mihai Eminescu" and at the Faculty of Computer Science, “Alexandru
+            Ioan Cuza” University, Iași, Romania.
+
+
+            The camp presents a high quality 2 days conference program with more than
+            14 speakers from country and beyond, workshops for all kinds of expertise
+            levels (from high school and faculty students to enthusiasts developers)
+            and, on the second day, an awesome hackathon for those who are dedicated
+            to their passion for programming and want to find their way to some awesome
+            prizes.
+
+        - title: "Your benefits as a sponsor"
+          float: "right"
+          content: >            
+            1. <b>Brand image.</b>
+            Present yourself as a related company with the open source community.
+
+
+            2. <b>Sponsoring.</b>
+            Support the work of a significant open source community.
+
+
+            3. <b>Recruitment.</b>
+            Use the conference in order to find some new talented people for your company.
+
+
+            4. <b>Merchandising.</b>
+            The opportunity to make your products or services available to the audience of
+            the event.
+
+
+            5. <b>Advertising.</b>
+            Inclusion in the event’s advertising materials.
+
+
+            6. <b>Networking.</b>
+            Take advantage of the conference to meet great speakers and developers.
+
+    elements2:
         - title: "Call for Sponsors"
           float: "right"
           content: >
