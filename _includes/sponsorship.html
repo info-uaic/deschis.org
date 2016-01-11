@@ -20,27 +20,62 @@
         </div>
 
         <div class="col-lg-10 col-lg-offset-1 text-center">
-            {% for card in sponsorship.sponsor_brochure.elements %}
-            <div class="col-md-3 col-sm-6 col-xs-12 same-height cols-centered">
-                <div class="card pricing-content">
-                    <h4>{{ card.name }}</h4>
-                    <ul>
-                        {% for benefit in card.benefits %}
-                        <li>
-                            <span class="text-left col-md-8 col-sm-8 col-xs-8">
-                                {{ sponsors_benefits[benefit.benefit_id] }}
-                            </span>
-                            <span class="text-right col-md-4 col-sm-4 col-xs-4">
-                                {{ benefit.value }}
-                            </span>
-                        </li>
-                        {% endfor %}
-                    </ul>
+            <div id="sponsor-tiles">
+                {% for card in sponsorship.sponsor_brochure.elements %}
+                <div class="col-md-4 col-sm-6 col-xs-12 same-height cols-centered">
+                    <div class="card pricing-content">
+                        <h4>{{ card.name }}</h4>
+                        <ul>
+                            {% for benefit in card.benefits %}
+                            <li>
+                                <span class="text-left col-md-8 col-sm-9 col-xs-9 padding-zero">
+                                    {{ sponsors_benefits[benefit.benefit_id] }}
+                                </span>
+                                <span class="text-right col-md-4 col-sm-3 col-xs-3 padding-zero">
+                                    {{ benefit.value }}
+                                </span>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
                 </div>
+                {% endfor %}
+            </div>
+            <div class="table-responsive" id="sponsor-table">
+                <table class="table table-hover col-md-8 col-sm-10 col-xs-12 col-md-offset-2 col-sm-offset-1">
+                    <thead>
+                    <tr>
+                        <th class="text-left">Benefit</th>
+                        {% for card in sponsorship.sponsor_brochure.elements %}
+                        <th>{{ card.name }}</th>
+                        {% endfor %}
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for benefit in sponsorship.sponsors_benefits.elements %}
+                        <tr>
+                            <td class="text-left">{{ benefit[1] }}</td>
+                            {% for package in sponsorship.sponsor_brochure.elements %}
+                                {% for availability in package.benefits %}
+                                    {% if benefit[0] == availability.benefit_id %}
+                                        <td>{{ availability.value }}</td>
+                                    {% endif %}
+                                {% endfor %}
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-md-8 col-md-offset-2 text-justify">
+            {% for row in sponsorship.sponsors_details.elements2 %}
+            <div class="{% if row.float == "left" %}float-left{% else %}float-right{% endif %} col-md-12">
+                <h4>{{ row.title }}</h4>
+                <p>{{ row.content | markdownify }}</p>
             </div>
             {% endfor %}
         </div>
-
     </div>
 </section>
 <!-- End of Sponsorship Plan Details -->
