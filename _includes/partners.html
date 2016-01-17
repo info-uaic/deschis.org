@@ -1,5 +1,6 @@
 {% assign organizers = site.data[page.edition].organizers %}
 {% assign partners = site.data[page.edition].partners %}
+{% assign sponsors = site.data[page.edition].sponsors %}
 
 <!-- Begin Partners Section -->
 <section id="partners" class="partners">
@@ -13,6 +14,19 @@
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
                         <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+            <h3>{{ site.sponsorsTitle }}</h3>
+            {% for sponsor in sponsors %}
+            <h5>{{ sponsor.group }}</h5>
+            <ul class="list-inline">
+                {% for element in sponsor.elements %}
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ site.baseurl }}/img/sponsors/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
                 </li>
                 {% endfor %}
