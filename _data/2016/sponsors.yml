@@ -1,0 +1,7 @@
+- group: "Platinum Sponsors"
+  elements:
+    - id: 0
+      name: "Cloudbase"
+      description: "Cloudbase Solutions"
+      link: "https://cloudbase.it/"
+      imageUrl: "cloudbase.png"
