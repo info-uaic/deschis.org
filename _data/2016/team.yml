@@ -110,7 +110,7 @@
       title: "Student"
       thumbnailUrl: "carmen_lascoiu.jpg"
       social:
-        - {name: "facebook", link: "www.facebook.com/carmenlascoiu"}
+        - {name: "facebook", link: "https://www.facebook.com/carmenlascoiu"}
       ribbon:
         - {abbr: "Graphic", title: "Digital artists Member"}
 
