@@ -1,0 +1,16 @@
+- id: 500
+  title: "TBA"
+  place: ""
+  service: true
+  description: ""
+
+- id: 501
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+
+- id: 502
+  title: "Lunch Break"
+  place: "Hall"
+  service: true
