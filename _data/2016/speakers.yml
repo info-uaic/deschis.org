@@ -15,3 +15,38 @@
       link: "https://github.com/vtemian"
     - name: "twitter"
       link: "https://twitter.com/vtemian"
+
+-
+  id: 2
+  name: "Florin"
+  surname: "Bădiță"
+  company: "Telenav"
+  title: "Map-Analyst"
+  thumbnailUrl: "florin_badita.png"
+  rockstar: true
+  bio: >
+    Florin Bădiță is an activist, a trainer and a consultant in the open
+    data domain. He fights for transperancy in the public domain and in
+    this direction he has sent over 6000 requests concerning law 544/2001,
+    2000 of which for obtaining the GIS dataset from centra town halls.
+    He was a consultant for the Global Bank, in a project related to
+    the OpenStreetMap project and has over 4 years invested in developing
+    the OpenStreetMap community in Romania. Now, Florin works as a Map-Analyst
+    at Telenav, where he tends to the improvement of OpenStreetMap.
+    
+    After the tragedy in the "Colectiv" club, he built the "Corupția ucide"
+    (Corruption kills) community, with the purpose of developing the critical
+    perspectives and education of the public against the efects of a passive
+    attitude towards coruption. He is a member in the open data coalition,
+    he colaborated with ARACIP for building a research report concerning
+    pre-university education in Romania, he is passionate about statistics,
+    data vizualization, GIS and non-formal education. For the latter, he
+    founded the Nefiresc group and holds painting related and sustainability
+    related workshops.
+  social:
+    - name: "facebook"
+      link: "https://www.facebook.com/baditaflorin"
+    - name: "twitter"
+      link: "https://twitter.com/baditaflorin"
+    - name: "linedin"
+      link: "https://www.linkedin.com/in/baditaflorin"
