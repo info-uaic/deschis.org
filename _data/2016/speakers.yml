@@ -1,0 +1,17 @@
+- 
+  id: 1
+  name: "Vlad"
+  surname: "Temian"
+  company: "Presslabs"
+  title: "Software Engineer"
+  thumbnailUrl: "anonymous.jpg"
+  rockstar: true
+  bio: >
+    Enthusiast, energetic, hungry and foolish, always ready for a good game.
+    He's passionate about everything that involves code or tech problems,
+    currently building and playing with Presslabs' infrastructure. 
+  social:
+    - name: "github"
+      link: "https://github.com/vtemian"
+    - name: "twitter"
+      link: "https://twitter.com/vtemian"
