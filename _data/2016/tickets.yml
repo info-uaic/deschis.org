@@ -2,54 +2,55 @@ ticketsTitle: "Pricetable"
 ticketsInfo: >
   Tickets grant access to all conference sections, coffee breaks and open party. Accommodation is NOT included in the ticket price.
 ticketsOffers:
-  - name: "Contributor"
-    price: "10"
-    priceCurrency: "EUR"
+
+  - name: "Student / Developer"
+    price: "Free"
+    priceCurrency: ""
     ticketsNumber: "200"
-    buyButtonLink: ""
-    buyButtonText: "Buy Now"
+    buyButtonLink: "https://www.eventbrite.com/e/open-source-camp-europe-tickets-23405330975?ref=ebtnebregn"
+    buyButtonText: "Register Now"
     ticketContentList:
       - "Main Track Accesibility"
       - "Access to Keynote Presentations"
       - "Access to Event Exhibition & Networking Area"
       - "Free Food & Drinks"
     validFrom: "2016-01-25T10:00"
-    validThrough: "2016-04-10T23:59"
+    validThrough: "2016-04-30T23:59"
     soldOut: false
     soldOutText: "Sold Out"
-    disabled: true
+    disabled: false
+
+  - name: "Contributor"
+    price: "10"
+    priceCurrency: "EUR"
+    ticketsNumber: "200"
+    buyButtonLink: "https://www.eventbrite.com/e/open-source-camp-europe-tickets-23405330975?ref=ebtnebregn"
+    buyButtonText: "Register Now"
+    ticketContentList:
+      - "Main Track Accesibility"
+      - "Access to Keynote Presentations"
+      - "Access to Event Exhibition & Networking Area"
+      - "Free Food & Drinks"
+    featured: true
+    validFrom: "2016-01-25T10:00"
+    validThrough: "2016-04-30T23:59"
+    soldOut: false
+    soldOutText: "Sold Out"
+    disabled: false
 
   - name: "VIP"
     price: "50"
     priceCurrency: "EUR"
     ticketsNumber: "50"
-    featured: true
-    buyButtonLink: ""
-    buyButtonText: "Buy Now"
+    buyButtonLink: "https://www.eventbrite.com/e/open-source-camp-europe-tickets-23405330975?ref=ebtnebregn"
+    buyButtonText: "Register Now"
     ticketContentList:
       - "Students / Developer benefits"
       - "VIP, Speakers & Partners Lounge Access"
       - "Invitation for Speakers & Partners Official Dinner"
       - "Front Row Priority at Event Stage"
     validFrom: "2016-01-25T10:00"
-    validThrough: "2016-04-13T23:59"
+    validThrough: "2016-05-01T23:59"
     soldOut: false
     soldOutText: "Sold Out"
-    disabled: true
-
-  - name: "Student / Developer"
-    price: "Free"
-    priceCurrency: ""
-    ticketsNumber: "200"
-    buyButtonLink: ""
-    buyButtonText: "Buy Now"
-    ticketContentList: 
-      - "Main Track Accesibility"
-      - "Access to Keynote Presentations"
-      - "Access to Event Exhibition & Networking Area"
-      - "Free Food & Drinks"
-    validFrom: "2016-01-25T10:00"
-    validThrough: "2016-04-10T23:59"
-    soldOut: false
-    soldOutText: "Sold Out"
-    disabled: true
+    disabled: false
