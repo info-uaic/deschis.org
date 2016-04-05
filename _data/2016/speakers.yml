@@ -50,3 +50,30 @@
       link: "https://twitter.com/baditaflorin"
     - name: "linedin"
       link: "https://www.linkedin.com/in/baditaflorin"
+
+-
+  id: 3
+  name: "Adrian"
+  surname: "Bora"
+  company: "Cloudbase Solutions"
+  title: "Community Manager"
+  thumbnailUrl: "adrian_bora.jpg"
+  rockstar: true
+  bio: >
+    Community evangelist, in the past three years I’ve build interest
+    around Python and OpenStack, by creating and developing local meetup
+    groups and national events. I’ve been involved in both open-source
+    and Microsoft related communities and user groups, trying to bridge
+    the gap between the two. 
+
+    At Cloudbase, I’ve been in charge of developing our relation with
+    local user groups and universities, by implementing "summer of code"
+    type programs, trainings, workshops and hands-on labs, also meant to
+    accelerate the adoption of certain tehnologies (Python, Go, OpenStack
+    & Hyper-V) in the academic environment and help integrate students
+    into existing communities.
+  social:
+    - name: "facebook"
+      link: "https://www.facebook.com/adi.bora.7"
+    - name: "linkedin"
+      link: "https://ro.linkedin.com/in/boraadrian"
