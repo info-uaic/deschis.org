@@ -70,3 +70,37 @@
   language: ro
   complexity: "Intermediate"
   video: null
+
+- id: 003
+  title: "So, you want to be an OpenStack contributor?"
+  description: >
+    My presentation is addressed to any and all open source enthusiasts who
+    would like to find out more about the second largest open source project
+    out there and find out how they can contribute.
+    
+    It will not be a technical presentation, but rather it will cover the history
+    and evolution of the project up until the time of the presentation, talk about
+    the community itself and the governance of the project.
+
+    The strongest focus of my presentation will be in providing you a step-by-step
+    guide on how you can become a contributor. I will guide you through the steps
+    required to become an OpenStack contributor, starting with the basics of
+    signing up and setting up Launchpad, Git and Gerrit, joining the OpenStack
+    Foundation and signing the contributor license agreement.
+
+    We will then talk about the official channels of the community, how you can
+    get in touch with the right people, where to find documentation and useful
+    resources that can help you get started and most importantly help you find
+    something you can work on. If you are not that proficient in Python and DevOps
+    related technologies yet, don’t worry, there are other ways that you can
+    contribute to the project (such as helping out with the documentation,
+    helping triage bugs, translating to other languages and helping build up
+    communities) while you developed the technical skills needed.
+
+    At the end of my presentation you will have what it takes in order to become
+    an active contributor.
+  subtype: "presentation"
+  speakers: [3]
+  language: en
+  complexity: "Entry (Community Presentation)"
+  video: null
