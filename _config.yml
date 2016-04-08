@@ -5,6 +5,8 @@ safe: false
 
 # Build Settings
 markdown: kramdown
+kramdown:
+  input: GFM
 permalink: pretty
 exclude:
   - /automation/
