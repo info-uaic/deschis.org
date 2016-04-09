@@ -74,3 +74,35 @@
   language: en
   complexity: "Entry (Community Presentation)"
   video: null
+
+- id: 004
+  title: "Introduction to Python & Python's magic methods "
+  description: |
+    **About this workshop**
+
+    This workshop will consist of two parts.
+    The first part will cover the essentials of the Python programming language. We will start off by getting familiar with Python's data structures, string operations, methods, objects/classes and how to create and run your own modules and packages.
+
+    Then will end up by experimenting with what we can do with it's magic methods, also known as dunder(double underscore) methods, by working on a few examples.
+
+    **Prerequisites & Preparation**
+
+    As the entire workshop will be hands-on, it would be indicated to have with you:
+
+    - A laptop with Python 2.7 installed on your system and set up into your environment path.
+    - Any text editor you are comfortable with(Sublime Text, Atom etc.)
+    - Willingness to learn and have a good time.
+
+    **Takeaways after the workshop**
+
+    By the end of this workshop you will:
+
+    - know about the basics in Python and it's good and bad parts.
+    - know how to write and run your own scripts and packages.
+    - be able to call yourself an apprentice Python wizard.
+
+  subtype: "workshop"
+  speakers: [4]
+  language: Romanian
+  complexity: "Intermediate"
+  video: null
