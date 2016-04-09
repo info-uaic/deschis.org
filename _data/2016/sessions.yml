@@ -17,12 +17,10 @@
 
 - id: 001
   title: "gitfs - Building a Python filesystem"
-  description: >
-    gitfs is an open-source filesystem which was designed to bring the full
-    powers of Git to everyone, no matter how little they know about versioning.
-    A user can mount any repository and all the his changes will be automatically
-    converted into commits. gitfs will also expose the history of the branch you’re
-    currently working on by simulating snapshots of every commit.
+  description: |
+    gitfs is an open-source filesystem which was designed to bring the full powers of Git to everyone, no matter how little they know about versioning.
+
+    A user can mount any repository and all the his changes will be automatically converted into commits. gitfs will also expose the history of the branch you’re currently working on by simulating snapshots of every commit.
   subtype: "presentation"
   speakers: [1]
   language: ro
@@ -31,37 +29,25 @@
 
 - id: 002
   title: "OpenStreetMap - The Wikipedia of Google Maps"
-  description: >
-    We have Google Maps, so why the need for another "map"?
-    If tomorrow Google decides to close the project, what will you,
-    as a user, do?
+  description: |
+    **We have Google Maps, so why the need for another "map"?**
 
-    Maybe write a status on Facebook? Maybe build a petition, or try
-    to boycott their other products. But that is all. If Google decides
-    to kill a project, that project is dead.
+    If tomorrow Google decides to close the project, what will you, as a user, do?
 
-    If tomorrow OpenStreetMap closes, you just download the database,
-    you put it on your server and that's it, OpenStreetMap goes on.
-    Exit the paradigm of looking at a map as if it was just a map. In digital
-    form, a map is so much more.
+    Maybe write a status on Facebook? Maybe build a petition, or try to boycott their other products. But that is all. If Google decides to kill a project, that project is dead.
+
+    If tomorrow OpenStreetMap closes, you just download the database, you put it on your server and that's it, OpenStreetMap goes on. Exit the paradigm of looking at a map as if it was just a map. In digital form, a map is so much more.
 
     OpenStreetMap is formed by:
 
-    - A community of 2.2 million volunteers, which wish to build a better map
-    of the world. Like a Wikipedia for maps.
-    - An ecosystem formed by programers which develop applications and websites
-    which use the data from OpenStreeMap.
-    - Tens of thousans of websites that use the OSM maps, starting with Apple,
-    Wikipedia, Flickr, Pinterest, Foursquare, Booking.com, Evernote, Craigslist
-    etc.
+    - A community of 2.2 million volunteers, which wish to build a better map of the world. Like a Wikipedia for maps.
+    - An ecosystem formed by programers which develop applications and websites which use the data from OpenStreeMap.
+    - Tens of thousans of websites that use the OSM maps, starting with Apple, Wikipedia, Flickr, Pinterest, Foursquare, Booking.com, Evernote, Craigslist etc.
 
-    What OpenStreetMap is not?
+    **What OpenStreetMap is not?**
 
-    OpenStreetMap is not a map. OpenStreetMap is a database.
-    Used in over 300 applications which reuse a part of the data in OpenStreetMap.
-    There is a map which is specially crafted to show the accessibility for
-    handicaped people.
-    There is a map which shows you where you can find the nearest free WiFi.
+    OpenStreetMap is not a map. OpenStreetMap is a database. Used in over 300 applications which reuse a part of the data in OpenStreetMap. There is a map which is specially crafted to show the accessibility for handicaped people. There is a map which shows you where you can find the nearest free WiFi.
+
     Everything is documented and Open Source.
     If you want your own map, you can easily build it.
 
@@ -73,32 +59,16 @@
 
 - id: 003
   title: "So, you want to be an OpenStack contributor?"
-  description: >
-    My presentation is addressed to any and all open source enthusiasts who
-    would like to find out more about the second largest open source project
-    out there and find out how they can contribute.
-    
-    It will not be a technical presentation, but rather it will cover the history
-    and evolution of the project up until the time of the presentation, talk about
-    the community itself and the governance of the project.
+  description: |
+    My presentation is addressed to any and all open source enthusiasts who would like to find out more about the second largest open source project out there and find out how they can contribute.
 
-    The strongest focus of my presentation will be in providing you a step-by-step
-    guide on how you can become a contributor. I will guide you through the steps
-    required to become an OpenStack contributor, starting with the basics of
-    signing up and setting up Launchpad, Git and Gerrit, joining the OpenStack
-    Foundation and signing the contributor license agreement.
+    It will not be a technical presentation, but rather it will cover the history and evolution of the project up until the time of the presentation, talk about the community itself and the governance of the project.
 
-    We will then talk about the official channels of the community, how you can
-    get in touch with the right people, where to find documentation and useful
-    resources that can help you get started and most importantly help you find
-    something you can work on. If you are not that proficient in Python and DevOps
-    related technologies yet, don’t worry, there are other ways that you can
-    contribute to the project (such as helping out with the documentation,
-    helping triage bugs, translating to other languages and helping build up
-    communities) while you developed the technical skills needed.
+    The strongest focus of my presentation will be in providing you a step-by-step guide on how you can become a contributor. I will guide you through the steps required to become an OpenStack contributor, starting with the basics of signing up and setting up Launchpad, Git and Gerrit, joining the OpenStack Foundation and signing the contributor license agreement.
 
-    At the end of my presentation you will have what it takes in order to become
-    an active contributor.
+    We will then talk about the official channels of the community, how you can get in touch with the right people, where to find documentation and useful resources that can help you get started and most importantly help you find something you can work on. If you are not that proficient in Python and DevOps related technologies yet, don’t worry, there are other ways that you can contribute to the project (such as helping out with the documentation, helping triage bugs, translating to other languages and helping build up communities) while you developed the technical skills needed.
+
+    At the end of my presentation you will have what it takes in order to become an active contributor.
   subtype: "presentation"
   speakers: [3]
   language: en
