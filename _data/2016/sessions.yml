@@ -76,7 +76,7 @@
   video: null
 
 - id: 004
-  title: "Introduction to Python & Python's magic methods "
+  title: "Introduction to Python & Python's magic methods"
   description: |
     **About this workshop**
 
@@ -104,5 +104,18 @@
   subtype: "workshop"
   speakers: [4]
   language: Romanian
+  complexity: "Intermediate"
+  video: null
+
+- id: 005
+  title: "Coriolis: Cloud Migration as a Service"
+  description: |
+    The purpose of this session is to present the lessons we have learned from our work on Coriolis, a migration as a service project which can effectively move any workload running on Linux or Windows VMs along with the associated storage elements and network topologies to a completely different cloud platform in a fully automated manner. 
+
+    We will outline how Coriolis is designed in accordance with the enterprise-grade standards OpenStack projects are built upon, which allow Coriolis to scale in the face of even the largest migrations. From network device considerations to rebuilding initial ramdisks, we’ll also be enumerating the stumbling blocks we encountered along the way. Attendees can expect to learn numerous aspects related to migrating instances an their scaffolding both cross-hypervisor, and cross-cloud entirely.
+
+  subtype: "presentation"
+  speakers: [5]
+  language: English
   complexity: "Intermediate"
   video: null
