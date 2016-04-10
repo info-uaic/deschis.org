@@ -1,20 +1,4 @@
-- id: 500
-  title: "TBA"
-  place: ""
-  service: true
-  description: ""
-
-- id: 501
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
-
-- id: 502
-  title: "Lunch Break"
-  place: "Hall"
-  service: true
-
+# Presentation
 - id: 001
   title: "gitfs - Building a Python filesystem"
   description: |
@@ -23,7 +7,7 @@
     A user can mount any repository and all the his changes will be automatically converted into commits. gitfs will also expose the history of the branch you’re currently working on by simulating snapshots of every commit.
   subtype: "presentation"
   speakers: [1]
-  language: ro
+  language: "Romanian"
   complexity: "Intermediate"
   video: null
 
@@ -53,7 +37,7 @@
 
   subtype: "presentation"
   speakers: [2]
-  language: ro
+  language: "Romanian"
   complexity: "Intermediate"
   video: null
 
@@ -71,11 +55,25 @@
     At the end of my presentation you will have what it takes in order to become an active contributor.
   subtype: "presentation"
   speakers: [3]
-  language: en
+  language: "English"
   complexity: "Entry (Community Presentation)"
   video: null
 
-- id: 004
+- id: 005
+  title: "Coriolis: Cloud Migration as a Service"
+  description: |
+    The purpose of this session is to present the lessons we have learned from our work on Coriolis, a migration as a service project which can effectively move any workload running on Linux or Windows VMs along with the associated storage elements and network topologies to a completely different cloud platform in a fully automated manner. 
+
+    We will outline how Coriolis is designed in accordance with the enterprise-grade standards OpenStack projects are built upon, which allow Coriolis to scale in the face of even the largest migrations. From network device considerations to rebuilding initial ramdisks, we’ll also be enumerating the stumbling blocks we encountered along the way. Attendees can expect to learn numerous aspects related to migrating instances an their scaffolding both cross-hypervisor, and cross-cloud entirely.
+
+  subtype: "presentation"
+  speakers: [5]
+  language: "English"
+  complexity: "Intermediate"
+  video: null
+
+# Workshops
+- id: 100
   title: "Introduction to Python & Python's magic methods"
   description: |
     **About this workshop**
@@ -103,24 +101,11 @@
 
   subtype: "workshop"
   speakers: [4]
-  language: Romanian
+  language: "Romanian"
   complexity: "Intermediate"
   video: null
 
-- id: 005
-  title: "Coriolis: Cloud Migration as a Service"
-  description: |
-    The purpose of this session is to present the lessons we have learned from our work on Coriolis, a migration as a service project which can effectively move any workload running on Linux or Windows VMs along with the associated storage elements and network topologies to a completely different cloud platform in a fully automated manner. 
-
-    We will outline how Coriolis is designed in accordance with the enterprise-grade standards OpenStack projects are built upon, which allow Coriolis to scale in the face of even the largest migrations. From network device considerations to rebuilding initial ramdisks, we’ll also be enumerating the stumbling blocks we encountered along the way. Attendees can expect to learn numerous aspects related to migrating instances an their scaffolding both cross-hypervisor, and cross-cloud entirely.
-
-  subtype: "presentation"
-  speakers: [5]
-  language: English
-  complexity: "Intermediate"
-  video: null
-
-- id: 006
+- id: 101
   title: "Functional Programming in Haskell"
   description: |
     The aim of this session is to present a number of functional programming concepts, constructs and practices as they are present within the Haskell programming language. From turning maps and folds into your bread and butter to getting to grips with the more category theory-specific ideas which are used or abused in Haskell, attendees should expect to gain a decent understanding of what purely functional programming has to offer in today’s coding landscape.
@@ -130,3 +115,21 @@
   language: "Romanian"
   complexity: "Intermediate"
   video: null
+
+# Services
+- id: 500
+  title: "TBA"
+  place: ""
+  service: true
+  description: ""
+
+- id: 501
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+
+- id: 502
+  title: "Lunch Break"
+  place: "Hall"
+  service: true
