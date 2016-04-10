@@ -119,3 +119,14 @@
   language: English
   complexity: "Intermediate"
   video: null
+
+- id: 006
+  title: "Functional Programming in Haskell"
+  description: |
+    The aim of this session is to present a number of functional programming concepts, constructs and practices as they are present within the Haskell programming language. From turning maps and folds into your bread and butter to getting to grips with the more category theory-specific ideas which are used or abused in Haskell, attendees should expect to gain a decent understanding of what purely functional programming has to offer in today’s coding landscape.
+
+  subtype: "workshop"
+  speakers: [5]
+  language: "Romanian"
+  complexity: "Intermediate"
+  video: null
