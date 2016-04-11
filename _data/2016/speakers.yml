@@ -98,3 +98,26 @@
   social:
     - name: "linkedin"
       link: "https://www.linkedin.com/in/stefancaraiman"
+
+-
+  id: 5
+  name: "Nashwan Mouhammad"
+  surname: "Azhari"
+  company: "Cloudbase Solutions"
+  title: "Cloud Engineer"
+  thumbnailUrl: "nashwan_azhari.jpg"
+  rockstar: true
+  bio: >
+    Having delved into both the public and private cloud space with
+    his work as an engineer for Cloudbase Solutions, Nashwan brings
+    valuable insights from both branches of cloud computing to the
+    table. A Linux enthusiast at heart, he spends most of his time
+    in his terminal, coding away in vim. When not hammering away at
+    the clouds directly, Nashwan enjoys exploring more obscure yet
+    interesting programming languages, as well as playing Starcraft
+    badly.
+  social:
+    - name: "github"
+      link: "https://github.com/aznashwan"
+    - name: "twitter"
+      link: "https://twitter.com/aznashwan"
