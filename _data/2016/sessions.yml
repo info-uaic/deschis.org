@@ -1,3 +1,122 @@
+# Presentation
+- id: 001
+  title: "gitfs - Building a Python filesystem"
+  description: |
+    gitfs is an open-source filesystem which was designed to bring the full powers of Git to everyone, no matter how little they know about versioning.
+
+    A user can mount any repository and all the his changes will be automatically converted into commits. gitfs will also expose the history of the branch you’re currently working on by simulating snapshots of every commit.
+  subtype: "presentation"
+  speakers: [1]
+  language: "Romanian"
+  complexity: "Intermediate"
+  video: null
+
+- id: 002
+  title: "OpenStreetMap - The Wikipedia of Google Maps"
+  description: |
+    **We have Google Maps, so why the need for another "map"?**
+
+    If tomorrow Google decides to close the project, what will you, as a user, do?
+
+    Maybe write a status on Facebook? Maybe build a petition, or try to boycott their other products. But that is all. If Google decides to kill a project, that project is dead.
+
+    If tomorrow OpenStreetMap closes, you just download the database, you put it on your server and that's it, OpenStreetMap goes on. Exit the paradigm of looking at a map as if it was just a map. In digital form, a map is so much more.
+
+    OpenStreetMap is formed by:
+
+    - A community of 2.2 million volunteers, which wish to build a better map of the world. Like a Wikipedia for maps.
+    - An ecosystem formed by programers which develop applications and websites which use the data from OpenStreeMap.
+    - Tens of thousans of websites that use the OSM maps, starting with Apple, Wikipedia, Flickr, Pinterest, Foursquare, Booking.com, Evernote, Craigslist etc.
+
+    **What OpenStreetMap is not?**
+
+    OpenStreetMap is not a map. OpenStreetMap is a database. Used in over 300 applications which reuse a part of the data in OpenStreetMap. There is a map which is specially crafted to show the accessibility for handicaped people. There is a map which shows you where you can find the nearest free WiFi.
+
+    Everything is documented and Open Source.
+    If you want your own map, you can easily build it.
+
+  subtype: "presentation"
+  speakers: [2]
+  language: "Romanian"
+  complexity: "Intermediate"
+  video: null
+
+- id: 003
+  title: "So, you want to be an OpenStack contributor?"
+  description: |
+    My presentation is addressed to any and all open source enthusiasts who would like to find out more about the second largest open source project out there and find out how they can contribute.
+
+    It will not be a technical presentation, but rather it will cover the history and evolution of the project up until the time of the presentation, talk about the community itself and the governance of the project.
+
+    The strongest focus of my presentation will be in providing you a step-by-step guide on how you can become a contributor. I will guide you through the steps required to become an OpenStack contributor, starting with the basics of signing up and setting up Launchpad, Git and Gerrit, joining the OpenStack Foundation and signing the contributor license agreement.
+
+    We will then talk about the official channels of the community, how you can get in touch with the right people, where to find documentation and useful resources that can help you get started and most importantly help you find something you can work on. If you are not that proficient in Python and DevOps related technologies yet, don’t worry, there are other ways that you can contribute to the project (such as helping out with the documentation, helping triage bugs, translating to other languages and helping build up communities) while you developed the technical skills needed.
+
+    At the end of my presentation you will have what it takes in order to become an active contributor.
+  subtype: "presentation"
+  speakers: [3]
+  language: "English"
+  complexity: "Entry (Community Presentation)"
+  video: null
+
+- id: 005
+  title: "Coriolis: Cloud Migration as a Service"
+  description: |
+    The purpose of this session is to present the lessons we have learned from our work on Coriolis, a migration as a service project which can effectively move any workload running on Linux or Windows VMs along with the associated storage elements and network topologies to a completely different cloud platform in a fully automated manner. 
+
+    We will outline how Coriolis is designed in accordance with the enterprise-grade standards OpenStack projects are built upon, which allow Coriolis to scale in the face of even the largest migrations. From network device considerations to rebuilding initial ramdisks, we’ll also be enumerating the stumbling blocks we encountered along the way. Attendees can expect to learn numerous aspects related to migrating instances an their scaffolding both cross-hypervisor, and cross-cloud entirely.
+
+  subtype: "presentation"
+  speakers: [5]
+  language: "English"
+  complexity: "Intermediate"
+  video: null
+
+# Workshops
+- id: 100
+  title: "Introduction to Python & Python's magic methods"
+  description: |
+    **About this workshop**
+
+    This workshop will consist of two parts.
+    The first part will cover the essentials of the Python programming language. We will start off by getting familiar with Python's data structures, string operations, methods, objects/classes and how to create and run your own modules and packages.
+
+    Then will end up by experimenting with what we can do with it's magic methods, also known as dunder(double underscore) methods, by working on a few examples.
+
+    **Prerequisites & Preparation**
+
+    As the entire workshop will be hands-on, it would be indicated to have with you:
+
+    - A laptop with Python 2.7 installed on your system and set up into your environment path.
+    - Any text editor you are comfortable with(Sublime Text, Atom etc.)
+    - Willingness to learn and have a good time.
+
+    **Takeaways after the workshop**
+
+    By the end of this workshop you will:
+
+    - know about the basics in Python and it's good and bad parts.
+    - know how to write and run your own scripts and packages.
+    - be able to call yourself an apprentice Python wizard.
+
+  subtype: "workshop"
+  speakers: [4]
+  language: "Romanian"
+  complexity: "Intermediate"
+  video: null
+
+- id: 101
+  title: "Functional Programming in Haskell"
+  description: |
+    The aim of this session is to present a number of functional programming concepts, constructs and practices as they are present within the Haskell programming language. From turning maps and folds into your bread and butter to getting to grips with the more category theory-specific ideas which are used or abused in Haskell, attendees should expect to gain a decent understanding of what purely functional programming has to offer in today’s coding landscape.
+
+  subtype: "workshop"
+  speakers: [5]
+  language: "Romanian"
+  complexity: "Intermediate"
+  video: null
+
+# Services
 - id: 500
   title: "TBA"
   place: ""
@@ -14,59 +133,3 @@
   title: "Lunch Break"
   place: "Hall"
   service: true
-
-- id: 001
-  title: "gitfs - Building a Python filesystem"
-  description: >
-    gitfs is an open-source filesystem which was designed to bring the full
-    powers of Git to everyone, no matter how little they know about versioning.
-    A user can mount any repository and all the his changes will be automatically
-    converted into commits. gitfs will also expose the history of the branch you’re
-    currently working on by simulating snapshots of every commit.
-  subtype: "presentation"
-  speakers: [1]
-  language: ro
-  complexity: "Intermediate"
-  video: null
-
-- id: 002
-  title: "OpenStreetMap - The Wikipedia of Google Maps"
-  description: >
-    We have Google Maps, so why the need for another "map"?
-    If tomorrow Google decides to close the project, what will you,
-    as a user, do?
-
-    Maybe write a status on Facebook? Maybe build a petition, or try
-    to boycott their other products. But that is all. If Google decides
-    to kill a project, that project is dead.
-
-    If tomorrow OpenStreetMap closes, you just download the database,
-    you put it on your server and that's it, OpenStreetMap goes on.
-    Exit the paradigm of looking at a map as if it was just a map. In digital
-    form, a map is so much more.
-
-    OpenStreetMap is formed by:
-
-    - A community of 2.2 million volunteers, which wish to build a better map
-    of the world. Like a Wikipedia for maps.
-    - An ecosystem formed by programers which develop applications and websites
-    which use the data from OpenStreeMap.
-    - Tens of thousans of websites that use the OSM maps, starting with Apple,
-    Wikipedia, Flickr, Pinterest, Foursquare, Booking.com, Evernote, Craigslist
-    etc.
-
-    What OpenStreetMap is not?
-
-    OpenStreetMap is not a map. OpenStreetMap is a database.
-    Used in over 300 applications which reuse a part of the data in OpenStreetMap.
-    There is a map which is specially crafted to show the accessibility for
-    handicaped people.
-    There is a map which shows you where you can find the nearest free WiFi.
-    Everything is documented and Open Source.
-    If you want your own map, you can easily build it.
-
-  subtype: "presentation"
-  speakers: [2]
-  language: ro
-  complexity: "Intermediate"
-  video: null

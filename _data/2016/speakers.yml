@@ -50,3 +50,74 @@
       link: "https://twitter.com/baditaflorin"
     - name: "linedin"
       link: "https://www.linkedin.com/in/baditaflorin"
+
+-
+  id: 3
+  name: "Adrian"
+  surname: "Bora"
+  company: "Cloudbase Solutions"
+  title: "Community Manager"
+  thumbnailUrl: "adrian_bora.jpg"
+  rockstar: true
+  bio: >
+    Community evangelist, in the past three years I’ve build interest
+    around Python and OpenStack, by creating and developing local meetup
+    groups and national events. I’ve been involved in both open-source
+    and Microsoft related communities and user groups, trying to bridge
+    the gap between the two. 
+
+    At Cloudbase, I’ve been in charge of developing our relation with
+    local user groups and universities, by implementing "summer of code"
+    type programs, trainings, workshops and hands-on labs, also meant to
+    accelerate the adoption of certain tehnologies (Python, Go, OpenStack
+    & Hyper-V) in the academic environment and help integrate students
+    into existing communities.
+  social:
+    - name: "facebook"
+      link: "https://www.facebook.com/adi.bora.7"
+    - name: "linkedin"
+      link: "https://ro.linkedin.com/in/boraadrian"
+
+-
+  id: 4
+  name: "Ștefan"
+  surname: "Caraiman"
+  company: "Cloudbase Solutions"
+  title: "Cloud Engineer"
+  thumbnailUrl: "stefan_caraiman.jpg"
+  rockstar: false
+  bio: >
+    I'm by definition what most would call a technology enthusiast.
+    I'm a restless learner, this being by far the most essential
+    trait that drove my passion for programming ever since the
+    very start.
+    
+    I devoted myself to constant learning for the past few years,
+    the main achievement out of this journey being that now I am
+    a part of the growing and awesome Cloudbase family.
+  social:
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/stefancaraiman"
+
+-
+  id: 5
+  name: "Nashwan Mouhammad"
+  surname: "Azhari"
+  company: "Cloudbase Solutions"
+  title: "Cloud Engineer"
+  thumbnailUrl: "nashwan_azhari.jpg"
+  rockstar: true
+  bio: >
+    Having delved into both the public and private cloud space with
+    his work as an engineer for Cloudbase Solutions, Nashwan brings
+    valuable insights from both branches of cloud computing to the
+    table. A Linux enthusiast at heart, he spends most of his time
+    in his terminal, coding away in vim. When not hammering away at
+    the clouds directly, Nashwan enjoys exploring more obscure yet
+    interesting programming languages, as well as playing Starcraft
+    badly.
+  social:
+    - name: "github"
+      link: "https://github.com/aznashwan"
+    - name: "twitter"
+      link: "https://twitter.com/aznashwan"
