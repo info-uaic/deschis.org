@@ -121,3 +121,23 @@
       link: "https://github.com/aznashwan"
     - name: "twitter"
       link: "https://twitter.com/aznashwan"
+
+-
+  id: 6
+  name: "Matei-Marius"
+  surname: "Micu"
+  company: "Cloudbase Solutions"
+  title: "Cloud Engineer"
+  thumbnailUrl: "matei_micu.jpg"
+  rockstar: false
+  bio: >
+    I can describe myself as a guy who is really into most topics
+    related to tehnology. I'm a tinkerer and a explorer when it
+    comes to new and exciting topics. I have been experimenting
+    with coding for almost 5 years, and I would never give my
+    linux and vim away for anything. 
+  social:
+    - name: "github"
+      link: "https://github.com/micumatei/"
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/matei-marius-micu-0246a211a"
