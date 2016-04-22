@@ -184,3 +184,18 @@
   social:
     - name: "personal"
       link: "http://profs.info.uaic.ro/~busaco/"
+
+- 
+  id: 8
+  name: "Eduard"
+  surname: "Moraru"
+  company: "XWiki"
+  title: "Development Engineer "
+  thumbnailUrl: "eduard_moraru.jpg"
+  rockstar: true
+  bio: >
+    Eduar Moraru had his first contact with the Open Source world in 2008, through the 
+    Google Summer of Code program, first as a student and then as a mentor, and in the present
+    he is an organization administrator for XWiki. He's a full time Open Source developer as a 
+    core committer in the Open Source XWiki project, employ of the XWiki company in Iasi and a 
+    main sponsor for the project.
