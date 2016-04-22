@@ -99,6 +99,7 @@
   title: "Arduino - Hardware can be open too"
   description: |
     The presentation will cover the following topics:
+
     - Electronics and how the subject is treated in our current times.
     - Existing open hardware platforms.
     - Arduino and the various addon components that can be attached.

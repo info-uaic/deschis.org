@@ -150,37 +150,20 @@
   title: "Doctor in Information Sciences (Cum Laude)"
   thumbnailUrl: "sabin_buraga.jpg"
   rockstar: true
-  bio: >
-    I achieved the title of Doctor in Information Sciences 
-    (Cum Laude) at "A.I.Cuza" University of Iasi in August 2004 
-    – title of thesis: "Multimedia Object Manipulation Techniques on Internet".
+  bio: |
+    I achieved the title of Doctor in Information Sciences (Cum Laude) at "A.I.Cuza" University of Iasi in August 2004 - title of thesis: "_Multimedia Object Manipulation Techniques on Internet_". Also, in 2005 I received "Gheorghe Cartianu" Award of the Romanian Academy for outstanding scientific contributions published in 2003.
 
-  Also, in 2005 I received "Gheorghe Cartianu" Award of the Romanian Academy
-  for outstanding scientific contributions published in 2003.
+    Currently, some of my fields of interest and experience domains are:
+    
+    - Web Technologies – Web Application Development, Web Interaction, Web Engineering, etc.
+    - Web of Data – i.e. Meta-data, Linked Data, (User-based) Knowledge Engineering, Ontologies, (Semantic) Web-based Architectures.
+    - Human-Computer Interaction – Social Aspects of Web Applications, Natural Interaction, etc.
 
-  Currently, some of my fields of interest and experience domains are:
+    Also, I have background knowledge regarding Distributed Computing – Internet Technologies, Agent-based Computing, Mobility, Cluster, Grid and Cloud Computing, Peer-to-Peer Systems and others.
+    My papers are published in the proceedings of different international and national conferences or in special issues of international publications (e.g., IEEE Press, Springer, AAAI Press, IOS Press, Elsevier Science, and others).
+    Over the years, I served as a member of the program committees or/and organizing committees of different (inter)national scientific events and summer schools.
+    I wrote and edited several books. Since 2002, I am the editor of the Web series of books published by the Polirom Publishing House. Also, I am a co-founder member and supervisor of a young interest group on Web technologies - WebGroup -, founded in March 2000 at the Faculty of Computer Science.
 
-  - Web Technologies – Web Application Development, Web Interaction, Web Engineering, etc.
-
-  - Web of Data – i.e. Meta-data, Linked Data, (User-based) Knowledge Engineering,
-  Ontologies, (Semantic) Web-based Architectures.
-
-  - Human-Computer Interaction – Social Aspects of Web Applications, Natural Interaction, etc.
-
-  Also, I have background knowledge regarding Distributed Computing – Internet Technologies,
-  Agent-based Computing, Mobility, Cluster, Grid and Cloud Computing, Peer-to-Peer Systems and others.
-
-  My papers are published in the proceedings of different international and national
-  conferences or in special issues of international publications (e.g., IEEE Press,
-  Springer, AAAI Press, IOS Press, Elsevier Science, and others).
-
-  Over the years, I served as a member of the program committees or/and organizing
-  committees of different (inter)national scientific events and summer schools.
-
-  I wrote and edited several books. Since 2002, I am the editor of the Web series
-  of books published by the Polirom Publishing House. Also, I am a co-founder member
-  and supervisor of a young interest group on Web technologies – WebGroup –, founded
-  in March 2000 at the Faculty of Computer Science.
   social:
     - name: "personal"
       link: "http://profs.info.uaic.ro/~busaco/"
@@ -194,11 +177,14 @@
   thumbnailUrl: "eduard_moraru.jpg"
   rockstar: true
   bio: >
-    Eduar Moraru had his first contact with the Open Source world in 2008, through the 
-    Google Summer of Code program, first as a student and then as a mentor, and in the present
-    he is an organization administrator for XWiki. He's a full time Open Source developer as a 
-    core committer in the Open Source XWiki project, employ of the XWiki company in Iasi and a 
-    main sponsor for the project.
+    Eduar Moraru had his first contact with the Open Source world in 2008,
+    through the Google Summer of Code program, first as a student and then
+    as a mentor, and in the present he is an organization administrator for
+    XWiki.
+
+    He's a full time Open Source developer as a core committer in the Open
+    Source XWiki project, employ of the XWiki company in Iasi and a main
+    sponsor for the project.
 
 - 
   id: 9
@@ -208,7 +194,7 @@
   title: "Assistant"
   thumbnailUrl: "cosmin_varlan.jpg"
   rockstar: true
-  bio: >
+  bio: ""
 
 - 
   id: 10
@@ -218,4 +204,4 @@
   title: "Software Developer"
   thumbnailUrl: "danut_lipsa.jpg"
   rockstar: true
-  bio: >
+  bio: ""
