@@ -111,7 +111,7 @@
   complexity: "Intermediate"
   video: null
 
-- id: 008
+- id: 009
   title: "Open Source for Students"
   description: >
     Open Source is more than a fringe topic. Open Source tehnologies and
@@ -140,7 +140,7 @@
 
 # Workshops
 - id: 100
-  title: "Introduction to Python & Python's magic methods"
+  title: "Introduction to Python"
   description: |
     **About this workshop**
 
@@ -214,6 +214,7 @@
   complexity: "Intermediate"
   video: null
 
+
 # Services
 - id: 500
   title: "TBA"
@@ -231,3 +232,10 @@
   title: "Lunch Break"
   place: "Hall"
   service: true
+
+- id: 503
+  title: "Event opening"
+  place: "Aula Mihai Eminescu"
+  subtype: "presentation"
+  speakers: []
+  language: "Romanian"
