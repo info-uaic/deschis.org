@@ -72,6 +72,18 @@
   complexity: "Intermediate"
   video: null
 
+- id: 006
+  title: "Why 5-Star Data?"
+  description: |
+    Several information of interest regarding data openness in the Web context and why this aspect is really important.
+    Various world-wide and local examples are also exposed.
+
+  subtype: "presentation"
+  speakers: [7]
+  language: "English"
+  complexity: "Intermediate"
+  video: null
+
 # Workshops
 - id: 100
   title: "Introduction to Python & Python's magic methods"
