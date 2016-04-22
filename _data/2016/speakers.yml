@@ -141,3 +141,46 @@
       link: "https://github.com/micumatei/"
     - name: "linkedin"
       link: "https://www.linkedin.com/in/matei-marius-micu-0246a211a"
+
+- 
+  id: 7
+  name: "Sabin-Corneliu"
+  surname: "Buraga"
+  company: "Faculty of Informatics, \"Alexandru Ioan Cuza\" University"
+  title: "Doctor in Information Sciences (Cum Laude)"
+  thumbnailUrl: "sabin_buraga.jpg"
+  rockstar: true
+  bio: >
+    I achieved the title of Doctor in Information Sciences 
+    (Cum Laude) at "A.I.Cuza" University of Iasi in August 2004 
+    – title of thesis: "Multimedia Object Manipulation Techniques on Internet".
+
+  Also, in 2005 I received "Gheorghe Cartianu" Award of the Romanian Academy
+  for outstanding scientific contributions published in 2003.
+
+  Currently, some of my fields of interest and experience domains are:
+
+  - Web Technologies – Web Application Development, Web Interaction, Web Engineering, etc.
+
+  - Web of Data – i.e. Meta-data, Linked Data, (User-based) Knowledge Engineering,
+  Ontologies, (Semantic) Web-based Architectures.
+
+  - Human-Computer Interaction – Social Aspects of Web Applications, Natural Interaction, etc.
+
+  Also, I have background knowledge regarding Distributed Computing – Internet Technologies,
+  Agent-based Computing, Mobility, Cluster, Grid and Cloud Computing, Peer-to-Peer Systems and others.
+
+  My papers are published in the proceedings of different international and national
+  conferences or in special issues of international publications (e.g., IEEE Press,
+  Springer, AAAI Press, IOS Press, Elsevier Science, and others).
+
+  Over the years, I served as a member of the program committees or/and organizing
+  committees of different (inter)national scientific events and summer schools.
+
+  I wrote and edited several books. Since 2002, I am the editor of the Web series
+  of books published by the Polirom Publishing House. Also, I am a co-founder member
+  and supervisor of a young interest group on Web technologies – WebGroup –, founded
+  in March 2000 at the Faculty of Computer Science.
+  social:
+    - name: "personal"
+      link: "http://profs.info.uaic.ro/~busaco/"
