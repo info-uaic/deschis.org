@@ -57,3 +57,9 @@ statisticBlock:
    specialCharacter: "+"
    info: "speakers"
    detail: "from country and beyond"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 6
+rockstarSpeakersTitle: "Meet our awesome speakers"
+rockstarSpeakersButtonText: "See all speakers"
