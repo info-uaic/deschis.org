@@ -199,3 +199,13 @@
     he is an organization administrator for XWiki. He's a full time Open Source developer as a 
     core committer in the Open Source XWiki project, employ of the XWiki company in Iasi and a 
     main sponsor for the project.
+
+- 
+  id: 9
+  name: "Cosmin"
+  surname: "Varlan"
+  company: "Faculty of Informatics, \"Alexandru Ioan Cuza\" University"
+  title: "Assistant"
+  thumbnailUrl: "cosmin_varlan.jpg"
+  rockstar: true
+  bio: >
