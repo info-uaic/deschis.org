@@ -209,3 +209,13 @@
   thumbnailUrl: "cosmin_varlan.jpg"
   rockstar: true
   bio: >
+
+- 
+  id: 10
+  name: "Danut"
+  surname: "Lipsa"
+  company: "Synygy, Inc."
+  title: "Software Developer"
+  thumbnailUrl: "danut_lipsa.jpg"
+  rockstar: true
+  bio: >
