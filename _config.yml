@@ -58,13 +58,6 @@ navigationLinks:
 bottomNavigationLinks:
 rightNavigationButtons:
 
-# About Block
-aboutTitle: "About Open Source Camp"
-aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The Open Source gathering of the year in Romania, built with care by geeks for enthusiasts. Awesome technical speakers and talks and of course, loads of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops and hands-on experience, hacking and debugging. Join us in an epic battle to unleash the power of your favorite new technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day of top-of-the-line hacking! It's the chance to find some great friends and climb your way to some awesome prizes!" }
-
 # Latest News Block
 latestNewsTitle: "Latest news"
 
