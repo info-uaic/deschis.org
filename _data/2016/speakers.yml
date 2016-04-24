@@ -205,3 +205,33 @@
   thumbnailUrl: "danut_lipsa.jpg"
   rockstar: true
   bio: ""
+
+- 
+  id: 11
+  name: "Răzvan"
+  surname: "Deaconescu"
+  company: "University POLITEHNICA of Bucharest"
+  title: "Assistant Professor"
+  thumbnailUrl: "razvan_deaconescu.jpg"
+  rockstar: true
+  bio: >
+    Răzvan was raised as a geek and an engineer and eventually found himself
+    working in academia, with interest in technology, open source and
+    organizations of all kinds. He is an unflinching workaholic; when not
+    reading or writing e-mails, he enjoys his time teaching, preparing lecture
+    and lab materials, coordinating technical and didactic teams, and getting
+    involved in student-centered events. More than working, Razvan loves to
+    talk, debate and act as a natural-born troll. He works almost
+    exclusively in a Linux-based environment; he loves to use the command
+    line, Vim, Emacs/Gnus, shell scripting, C programming and a dash of
+    Python. He uses his energy in a lot of activities (too many in some
+    accounts) and wishes to engage technology in making our life better,
+    particulary regarding teaching/education and organizations of all kinds.
+
+  social:
+    - name: "facebook"
+      link: "https://www.facebook.com/razvan.deaconescu"
+    - name: "site"
+      link: "https://systems.cs.pub.ro/people/razvan.deaconescu/"
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/razvandeaconescu"
