@@ -111,6 +111,31 @@
   complexity: "Intermediate"
   video: null
 
+- id: 008
+  title: "Open Source for Students"
+  description: >
+    Open Source is more than a fringe topic. Open Source tehnologies and
+    communities are now everywhere and part of our day to day lives. Gone
+    are the days when Firefox was still in its infancy and Internet Explorer
+    dominated the browser market. Open Source has facilitated the advance in
+    technology and greatly contributed to the education of
+    everyone. However, Open Source is merely a means to an end. And as each
+    of us has different goals, each of us may find different benefits of
+    using and getting engaged in Open Source.
+
+    In this talk I will share my roughly 10 years experience of working
+    close to students and actively promoting Open Source. I will point how
+    and why is Open Source useful to students and I will highlight some
+    successful stories from students I worked with. I aim to let students
+    know of the benefits of being engaged into Open Source for its inherent
+    benefits to getting good programming skills, working with others,
+    creating products other will use and solving challenging problems.
+
+  subtype: "presentation"
+  speakers: [11]
+  language: "English"
+  complexity: "Intermediate"
+  video: null
 
 
 # Workshops
