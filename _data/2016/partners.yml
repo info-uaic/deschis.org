@@ -18,6 +18,12 @@
       link: "http://ropython.org/"
       imageUrl: "ropython.png"
 
+    - id: 4
+      name: "BEST Iași"
+      description: "Board of European Students of Technology"
+      link: "http://bestis.ro/"
+      imageUrl: "best.png"
+
 - group: "Media Partners"
   elements:
     - id: 10
