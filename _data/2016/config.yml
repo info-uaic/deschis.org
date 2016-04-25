@@ -69,3 +69,6 @@ rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Meet our awesome speakers"
 rockstarSpeakersButtonText: "See all speakers"
+
+# Documents
+c4pUrl: "https://oscamp.eu/blog/call-for-proposals-2016"

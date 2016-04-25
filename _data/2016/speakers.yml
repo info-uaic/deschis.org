@@ -1,4 +1,61 @@
 - 
+  id: 7
+  name: "Sabin-Corneliu"
+  surname: "Buraga"
+  company: "Faculty of Computer Science, UAIC Iași"
+  title: "Doctor in Information Sciences (Cum Laude)"
+  thumbnailUrl: "sabin_buraga.jpg"
+  rockstar: true
+  bio: |
+    I achieved the title of Doctor in Information Sciences (Cum Laude) at "A.I.Cuza" University of Iasi in August 2004 - title of thesis: "_Multimedia Object Manipulation Techniques on Internet_". Also, in 2005 I received "Gheorghe Cartianu" Award of the Romanian Academy for outstanding scientific contributions published in 2003.
+
+    Currently, some of my fields of interest and experience domains are:
+    
+    - Web Technologies – Web Application Development, Web Interaction, Web Engineering, etc.
+    - Web of Data – i.e. Meta-data, Linked Data, (User-based) Knowledge Engineering, Ontologies, (Semantic) Web-based Architectures.
+    - Human-Computer Interaction – Social Aspects of Web Applications, Natural Interaction, etc.
+
+    Also, I have background knowledge regarding Distributed Computing – Internet Technologies, Agent-based Computing, Mobility, Cluster, Grid and Cloud Computing, Peer-to-Peer Systems and others.
+    My papers are published in the proceedings of different international and national conferences or in special issues of international publications (e.g., IEEE Press, Springer, AAAI Press, IOS Press, Elsevier Science, and others).
+    Over the years, I served as a member of the program committees or/and organizing committees of different (inter)national scientific events and summer schools.
+    I wrote and edited several books. Since 2002, I am the editor of the Web series of books published by the Polirom Publishing House. Also, I am a co-founder member and supervisor of a young interest group on Web technologies - WebGroup -, founded in March 2000 at the Faculty of Computer Science.
+
+  social:
+    - name: "site"
+      link: "http://profs.info.uaic.ro/~busaco/"
+
+- 
+  id: 11
+  name: "Răzvan"
+  surname: "Deaconescu"
+  company: "University POLITEHNICA of Bucharest"
+  title: "Assistant Professor"
+  thumbnailUrl: "razvan_deaconescu.jpg"
+  rockstar: true
+  bio: >
+    Răzvan was raised as a geek and an engineer and eventually found himself
+    working in academia, with interest in technology, open source and
+    organizations of all kinds. He is an unflinching workaholic; when not
+    reading or writing e-mails, he enjoys his time teaching, preparing lecture
+    and lab materials, coordinating technical and didactic teams, and getting
+    involved in student-centered events. More than working, Razvan loves to
+    talk, debate and act as a natural-born troll. He works almost
+    exclusively in a Linux-based environment; he loves to use the command
+    line, Vim, Emacs/Gnus, shell scripting, C programming and a dash of
+    Python. He uses his energy in a lot of activities (too many in some
+    accounts) and wishes to engage technology in making our life better,
+    particulary regarding teaching/education and organizations of all kinds.
+
+  social:
+    - name: "facebook"
+      link: "https://www.facebook.com/razvan.deaconescu"
+    - name: "site"
+      link: "https://systems.cs.pub.ro/people/razvan.deaconescu/"
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/razvandeaconescu"
+
+
+- 
   id: 1
   name: "Vlad"
   surname: "Temian"
@@ -52,6 +109,29 @@
       link: "https://www.linkedin.com/in/baditaflorin"
 
 -
+  id: 5
+  name: "Nashwan Mouhammad"
+  surname: "Azhari"
+  company: "Cloudbase Solutions"
+  title: "Cloud Engineer"
+  thumbnailUrl: "nashwan_azhari.jpg"
+  rockstar: true
+  bio: >
+    Having delved into both the public and private cloud space with
+    his work as an engineer for Cloudbase Solutions, Nashwan brings
+    valuable insights from both branches of cloud computing to the
+    table. A Linux enthusiast at heart, he spends most of his time
+    in his terminal, coding away in vim. When not hammering away at
+    the clouds directly, Nashwan enjoys exploring more obscure yet
+    interesting programming languages, as well as playing Starcraft
+    badly.
+  social:
+    - name: "github"
+      link: "https://github.com/aznashwan"
+    - name: "twitter"
+      link: "https://twitter.com/aznashwan"
+
+-
   id: 3
   name: "Adrian"
   surname: "Bora"
@@ -78,6 +158,44 @@
     - name: "linkedin"
       link: "https://ro.linkedin.com/in/boraadrian"
 
+- 
+  id: 8
+  name: "Eduard"
+  surname: "Moraru"
+  company: "XWiki"
+  title: "Development Engineer"
+  thumbnailUrl: "eduard_moraru.jpg"
+  rockstar: true
+  bio: >
+    Eduar Moraru had his first contact with the Open Source world in 2008,
+    through the Google Summer of Code program, first as a student and then
+    as a mentor, and in the present he is an organization administrator for
+    XWiki.
+
+    He's a full time Open Source developer as a core committer in the Open
+    Source XWiki project, employ of the XWiki company in Iasi and a main
+    sponsor for the project.
+
+- 
+  id: 9
+  name: "Cosmin"
+  surname: "Varlan"
+  company: "Faculty of Computer Science, UAIC Iași"
+  title: "Assistant Professor"
+  thumbnailUrl: "cosmin_varlan.jpg"
+  rockstar: true
+  bio: ""
+
+- 
+  id: 10
+  name: "Danut"
+  surname: "Lipsa"
+  company: "Synygy, Inc."
+  title: "Software Developer"
+  thumbnailUrl: "danut_lipsa.jpg"
+  rockstar: true
+  bio: ""
+
 -
   id: 4
   name: "Ștefan"
@@ -100,29 +218,6 @@
       link: "https://www.linkedin.com/in/stefancaraiman"
 
 -
-  id: 5
-  name: "Nashwan Mouhammad"
-  surname: "Azhari"
-  company: "Cloudbase Solutions"
-  title: "Cloud Engineer"
-  thumbnailUrl: "nashwan_azhari.jpg"
-  rockstar: true
-  bio: >
-    Having delved into both the public and private cloud space with
-    his work as an engineer for Cloudbase Solutions, Nashwan brings
-    valuable insights from both branches of cloud computing to the
-    table. A Linux enthusiast at heart, he spends most of his time
-    in his terminal, coding away in vim. When not hammering away at
-    the clouds directly, Nashwan enjoys exploring more obscure yet
-    interesting programming languages, as well as playing Starcraft
-    badly.
-  social:
-    - name: "github"
-      link: "https://github.com/aznashwan"
-    - name: "twitter"
-      link: "https://twitter.com/aznashwan"
-
--
   id: 6
   name: "Matei-Marius"
   surname: "Micu"
@@ -141,67 +236,3 @@
       link: "https://github.com/micumatei/"
     - name: "linkedin"
       link: "https://www.linkedin.com/in/matei-marius-micu-0246a211a"
-
-- 
-  id: 7
-  name: "Sabin-Corneliu"
-  surname: "Buraga"
-  company: "Faculty of Informatics, \"Alexandru Ioan Cuza\" University"
-  title: "Doctor in Information Sciences (Cum Laude)"
-  thumbnailUrl: "sabin_buraga.jpg"
-  rockstar: true
-  bio: |
-    I achieved the title of Doctor in Information Sciences (Cum Laude) at "A.I.Cuza" University of Iasi in August 2004 - title of thesis: "_Multimedia Object Manipulation Techniques on Internet_". Also, in 2005 I received "Gheorghe Cartianu" Award of the Romanian Academy for outstanding scientific contributions published in 2003.
-
-    Currently, some of my fields of interest and experience domains are:
-    
-    - Web Technologies – Web Application Development, Web Interaction, Web Engineering, etc.
-    - Web of Data – i.e. Meta-data, Linked Data, (User-based) Knowledge Engineering, Ontologies, (Semantic) Web-based Architectures.
-    - Human-Computer Interaction – Social Aspects of Web Applications, Natural Interaction, etc.
-
-    Also, I have background knowledge regarding Distributed Computing – Internet Technologies, Agent-based Computing, Mobility, Cluster, Grid and Cloud Computing, Peer-to-Peer Systems and others.
-    My papers are published in the proceedings of different international and national conferences or in special issues of international publications (e.g., IEEE Press, Springer, AAAI Press, IOS Press, Elsevier Science, and others).
-    Over the years, I served as a member of the program committees or/and organizing committees of different (inter)national scientific events and summer schools.
-    I wrote and edited several books. Since 2002, I am the editor of the Web series of books published by the Polirom Publishing House. Also, I am a co-founder member and supervisor of a young interest group on Web technologies - WebGroup -, founded in March 2000 at the Faculty of Computer Science.
-
-  social:
-    - name: "personal"
-      link: "http://profs.info.uaic.ro/~busaco/"
-
-- 
-  id: 8
-  name: "Eduard"
-  surname: "Moraru"
-  company: "XWiki"
-  title: "Development Engineer "
-  thumbnailUrl: "eduard_moraru.jpg"
-  rockstar: true
-  bio: >
-    Eduar Moraru had his first contact with the Open Source world in 2008,
-    through the Google Summer of Code program, first as a student and then
-    as a mentor, and in the present he is an organization administrator for
-    XWiki.
-
-    He's a full time Open Source developer as a core committer in the Open
-    Source XWiki project, employ of the XWiki company in Iasi and a main
-    sponsor for the project.
-
-- 
-  id: 9
-  name: "Cosmin"
-  surname: "Varlan"
-  company: "Faculty of Informatics, \"Alexandru Ioan Cuza\" University"
-  title: "Assistant"
-  thumbnailUrl: "cosmin_varlan.jpg"
-  rockstar: true
-  bio: ""
-
-- 
-  id: 10
-  name: "Danut"
-  surname: "Lipsa"
-  company: "Synygy, Inc."
-  title: "Software Developer"
-  thumbnailUrl: "danut_lipsa.jpg"
-  rockstar: true
-  bio: ""

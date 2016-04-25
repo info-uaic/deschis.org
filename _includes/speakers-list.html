@@ -1,5 +1,7 @@
+{% assign edition = site.data.[page.edition].config %}
 {% assign speakers = site.data.[page.edition].speakers %}
 {% assign sessions = site.data.[page.edition].sessions %}
+
 <section id="speakers" class="speakers">
   <div class="content-wrapper">
       <div class="col-lg-10 col-lg-offset-1">
@@ -51,7 +53,9 @@
             </div>
           {% endfor %}
         </div>
-      <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>     
+      {% if edition.c4pUrl %}
+        <a href="{{ edition.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>
+      {% endif %}  
     </div>
   </div>
 </section>
