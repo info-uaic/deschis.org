@@ -146,7 +146,7 @@
   id: 7
   name: "Sabin-Corneliu"
   surname: "Buraga"
-  company: "Faculty of Informatics, \"Alexandru Ioan Cuza\" University"
+  company: "Faculty of Computer Science, UAIC Iași"
   title: "Doctor in Information Sciences (Cum Laude)"
   thumbnailUrl: "sabin_buraga.jpg"
   rockstar: true
@@ -165,7 +165,7 @@
     I wrote and edited several books. Since 2002, I am the editor of the Web series of books published by the Polirom Publishing House. Also, I am a co-founder member and supervisor of a young interest group on Web technologies - WebGroup -, founded in March 2000 at the Faculty of Computer Science.
 
   social:
-    - name: "personal"
+    - name: "site"
       link: "http://profs.info.uaic.ro/~busaco/"
 
 - 
@@ -173,7 +173,7 @@
   name: "Eduard"
   surname: "Moraru"
   company: "XWiki"
-  title: "Development Engineer "
+  title: "Development Engineer"
   thumbnailUrl: "eduard_moraru.jpg"
   rockstar: true
   bio: >
@@ -190,8 +190,8 @@
   id: 9
   name: "Cosmin"
   surname: "Varlan"
-  company: "Faculty of Informatics, \"Alexandru Ioan Cuza\" University"
-  title: "Assistant"
+  company: "Faculty of Computer Science, UAIC Iași"
+  title: "Assistant Professor"
   thumbnailUrl: "cosmin_varlan.jpg"
   rockstar: true
   bio: ""
