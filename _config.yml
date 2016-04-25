@@ -52,6 +52,7 @@ c4sponsorsUrl: ""
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 
@@ -61,11 +62,6 @@ rightNavigationButtons:
 # Latest News Block
 latestNewsTitle: "Latest news"
 
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

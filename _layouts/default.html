@@ -3,6 +3,7 @@ layout: compress
 ---
 {% assign hero = site.data[page.edition].hero %}
 {% assign edition = site.data[page.edition].config %}
+{% assign speakers = site.data[page.edition].speakers %}
 
 <!DOCTYPE html>
 <html lang="en">
@@ -88,16 +89,20 @@ layout: compress
                     }
                 });
                 var rockstarSpeakers = [
-                    {% for speaker in site.data.speakers %}
+                    {% for speaker in speakers %}
                         {% if speaker.rockstar %}
-                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
+                        {
+                            name: "{{ speaker.name | escape_once}} {{ speaker.surname | escape_once}}",
+                            company: "{{ speaker.company | escape_once }}",
+                            image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"
+                        }{% if forloop.index != forloop.length %},{% endif %}
                         {% endif %}
                     {% endfor %}
                 ];
                 rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
-                        count = Math.min({{ site.rockstarSpeakersCount }}, rockstarSpeakers.length),
+                        count = Math.min({{ edition.rockstarSpeakersCount }}, rockstarSpeakers.length),
                         colWidth = 12/count;
                     for(i=0; i<count; i++) {
                         var clearfix = '<div class="clearfix visible-xs"></div>';
