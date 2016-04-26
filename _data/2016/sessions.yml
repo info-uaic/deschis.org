@@ -137,6 +137,30 @@
   complexity: "Intermediate"
   video: null
 
+- id: 009
+  title: "Images for the clouds"
+  description: >
+    From Linux to Windows, every instance spawned in a cloud needs to fulfill
+    the same requirements: compatibility with the underlying systems, to be
+    lightweight and have a provisioning system.
+
+    We will follow the cloud image's journey through the most used cloud
+    platforms and hypervisors, like AWS EC2, Azure, OpenStack, Vmware,
+    KVM, Hyper-V.
+    The covered images will be Linux-like (Ubuntu, CentOS) and Windows-like
+    (8, 10 Client, Server 2012, Nano). No stone will be left unturned, be it
+    a driver, minimal resource consumption at boot time, a kickstart or an
+    unattend file, provisioning daemon or applying the necessary patches
+    offline and online.
+
+    This presentation will help you understand the basic building blocks
+    which are required to build an awesome cloud image.
+
+  subtype: "presentation"
+  speakers: [12]
+  language: "English"
+  complexity: "Intermediate"
+  video: null
 
 # Workshops
 - id: 100
