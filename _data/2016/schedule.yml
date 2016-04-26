@@ -74,8 +74,12 @@
 
     - startTime: "15:00"
       endTime: "15:45"
-      sessionIds: [002] # OpenStreetMap - The Wikipedia of Google Maps
+      sessionIds: [011] # RepRap - an open source 3D printer
 
     - startTime: "15:45"
       endTime: "16:00"
       sessionIds: [501] # Coffee Break
+
+    - startTime: "16:00"
+      endTime: "16:45"
+      sessionIds: [002] # OpenStreetMap - The Wikipedia of Google Maps
