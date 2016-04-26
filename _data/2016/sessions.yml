@@ -162,6 +162,18 @@
   complexity: "Intermediate"
   video: null
 
+- id: 011
+  title: "RepRap - an open source 3D printer"
+  description: |
+    The history of the RepRap 3D Printer.
+
+  subtype: "presentation"
+  speakers: [10]
+  language: "English"
+  complexity: "Intermediate"
+  video: null
+
+
 # Workshops
 - id: 100
   title: "Introduction to Python"
