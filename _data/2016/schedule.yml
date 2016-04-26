@@ -16,7 +16,7 @@
 
     - startTime: "11:00"
       endTime: "12:00"
-      sessionIds: [001] # gitfs - Building a Python filesystem
+      sessionIds: [010] # Images for the clouds
 
     - startTime: "12:00"
       endTime: "12:15"
@@ -24,7 +24,7 @@
 
     - startTime: "12:15"
       endTime: "13:00"
-      sessionIds: [008] # Arduino - Hardware can be open too
+      sessionIds: [005] # Coriolis: Cloud Migration as a Service
 
     - startTime: "13:00"
       endTime: "13:30"
@@ -32,11 +32,11 @@
 
     - startTime: "13:30"
       endTime: "15:30"
-      sessionIds: [404, 100, 102]
+      sessionIds: [404, 100, 101]
 
     - startTime: "15:30"
       endTime: "17:30"
-      sessionIds: [404, 101, 404]
+      sessionIds: [404, 102, 103]
 
 - date: "2016-05-08"
   dateReadable: "May 08"
@@ -62,7 +62,7 @@
 
     - startTime: "13:00"
       endTime: "13:45"
-      sessionIds: [005] # Coriolis: Cloud Migration as a Service
+      sessionIds: [001] # gitfs - Building a Python filesystem
 
     - startTime: "13:45"
       endTime: "14:15"
@@ -70,4 +70,12 @@
 
     - startTime: "14:15"
       endTime: "15:00"
+      sessionIds: [008] # Arduino - Hardware can be open too
+
+    - startTime: "15:00"
+      endTime: "15:45"
       sessionIds: [002] # OpenStreetMap - The Wikipedia of Google Maps
+
+    - startTime: "15:45"
+      endTime: "16:00"
+      sessionIds: [501] # Coffee Break

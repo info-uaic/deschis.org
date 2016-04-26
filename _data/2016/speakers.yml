@@ -53,8 +53,6 @@
       link: "https://systems.cs.pub.ro/people/razvan.deaconescu/"
     - name: "linkedin"
       link: "https://www.linkedin.com/in/razvandeaconescu"
-
-
 - 
   id: 1
   name: "Vlad"
@@ -72,6 +70,26 @@
       link: "https://github.com/vtemian"
     - name: "twitter"
       link: "https://twitter.com/vtemian"
+
+- 
+  id: 12
+  name: "Adrian"
+  surname: "Vladu"
+  company: "Cloudbase Solutions"
+  title: "Cloud Engineer"
+  thumbnailUrl: "adrian_vladu.jpg"
+  rockstar: true
+  bio: >
+    Started with JS/Php, moved up to C#/.Net and now navigating through
+    the dev-ops spaces, both Linux and Windows. When I am not debugging
+    some crazy issue, you can find me reading, enjoying a "nefiltrata"
+    or playing some LoL.
+
+  social:
+    - name: "github"
+      link: "https://github.com/ader1990"
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/adrianvladu"
 
 -
   id: 2
