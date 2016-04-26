@@ -238,6 +238,27 @@
   complexity: "Intermediate"
   video: null
 
+- id: 103
+  title: "Building images for the clouds"
+  description: >
+    Based on the presentation "Images for the clouds", this workshop will
+    provide a hands-on exeprience on how to build and test a cloud image.
+
+    We will go through the basic tools of handling such a cloud image,
+    understanding it and how to modify one.
+    The next step is creating one image from scratch, starting from an
+    ISO file and a list of requirements, then proofing it on an Openstack
+    deployment.
+
+    In this workshop will give you a strong grip on the clouds, unravelling
+    how to build an awesome cloud image.
+
+  subtype: "workshop"
+  speakers: [12]
+  language: "English"
+  complexity: "Advanced"
+  video: null
+
 
 # Services
 - id: 500
