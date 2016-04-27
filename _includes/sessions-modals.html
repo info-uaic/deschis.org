@@ -12,7 +12,7 @@
             </svg>
             <div class="close-mask" data-dismiss="modal"></div>
           </div>
-          <h4>{{ session.title }}</h4>
+          <h4>{{ session.title }}{% if session.register %}{{ session.register }}{% endif %}</h4>
             {% if session.language != null %}
               <span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
             {% endif %}
