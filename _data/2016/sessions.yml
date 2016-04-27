@@ -182,6 +182,30 @@
   video: null
   register: null
 
+- id: 012
+  title: "BSD: the true open-source"
+  description: >
+    The BSD history is spread over decades, its origins started in 1977
+    at University of California. A lot of derivatives explode from the
+    original code-base, proprietary and open-source. Nowadays there are
+    a bunch of BSD-based operating systems, the main one being FreeBSD.
+
+    In this talk I will share my experience with BSD systems (DragonFly
+    to FreeBSD), I will talk about the BSD community, how anyone can get
+    involved and also I will name some very known products that are using
+    FreeBSD as a base-start (E.g. pfsense).
+
+    Also I will tackle the main differences between Linux-based
+    distributions and BSD ones (licensing, design principles). I will also
+    outline where FreeBSD excels.
+
+  subtype: "presentation"
+  speakers: [13]
+  language: "Romanian"
+  complexity: "Intermediate"
+  video: null
+  register: null
+
 # Workshops
 - id: 100
   title: "Introduction to Python"
