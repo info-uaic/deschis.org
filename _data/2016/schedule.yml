@@ -27,15 +27,15 @@
       sessionIds: [005] # Coriolis: Cloud Migration as a Service
 
     - startTime: "13:00"
-      endTime: "13:30"
-      sessionIds: [501] # Coffee Break
+      endTime: "14:00"
+      sessionIds: [502] # Lunch Break
 
-    - startTime: "13:30"
-      endTime: "15:30"
+    - startTime: "14:00"
+      endTime: "16:00"
       sessionIds: [404, 100, 101]
 
-    - startTime: "15:30"
-      endTime: "17:30"
+    - startTime: "16:00"
+      endTime: "18:00"
       sessionIds: [404, 102, 103]
 
 - date: "2016-05-08"
@@ -65,21 +65,21 @@
       sessionIds: [001] # gitfs - Building a Python filesystem
 
     - startTime: "13:45"
-      endTime: "14:15"
-      sessionIds: [501] # Coffee Break
+      endTime: "14:45"
+      sessionIds: [502] # Lunch Break
 
-    - startTime: "14:15"
-      endTime: "15:00"
+    - startTime: "14:45"
+      endTime: "15:30"
       sessionIds: [008] # Arduino - Hardware can be open too
 
-    - startTime: "15:00"
-      endTime: "15:45"
+    - startTime: "15:30"
+      endTime: "16:15"
       sessionIds: [011] # RepRap - an open source 3D printer
 
-    - startTime: "15:45"
-      endTime: "16:00"
+    - startTime: "16:15"
+      endTime: "16:30"
       sessionIds: [501] # Coffee Break
 
-    - startTime: "16:00"
-      endTime: "16:45"
+    - startTime: "16:30"
+      endTime: "17:15"
       sessionIds: [002] # OpenStreetMap - The Wikipedia of Google Maps
