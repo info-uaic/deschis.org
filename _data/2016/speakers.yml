@@ -214,6 +214,56 @@
   rockstar: true
   bio: ""
 
+- 
+  id: 12
+  name: "Mihai"
+  surname: "Carabas"
+  company: "University POLITEHNICA of Bucharest"
+  title: "As.drd.ing."
+  thumbnailUrl: "mihai_carabas.jpg"
+  rockstar: true
+  bio: >
+    My name is Mihai Carabas and I am a PhD student at University
+    POLITEHNICA of Bucharest in the domain of virtualization. I've
+    contributed over the last four years in FreeBSD and DragonFlyBSD
+    virtualization code.
+
+
+    I've started working on BSD systems four years ago, on DragonFly BSD,
+    tweaking its scheduler to be SMT (or HT) aware. In the next year I've
+    implemented hardware nested page table support (EPT for Intel) for the
+    DragonFly BSD vkernels eliminating the need of shadow page tables.
+
+
+    In 2014 I've worked on a bhyve project where I've tried to minimize
+    the impact of instruction emulation by caching the emulated
+    instructions. Thus, at further usage, we use the hot cache instead of
+    fetch-and-decode the faulted instruction again (the work has been
+    presented during AsiaBSDCon 2015).
+
+
+    In 2015 I've started working on porting the bhyve hypervisor on
+    ARM-based platforms. I had to write from scratch the low-level context
+    switch code and adapt it to a Type-2 hypervisor: ARM, by its design,
+    ensures support for Type-1 hypervisors (a hypervisor that runs without
+    a host OS). bhyve is written to be part of the FreeBSD and use its
+    management features and thus its a Type-2 hypervisor. Another problem
+    was to fork the current bhyve code base and reuse it with minor
+    modifications for ARM (basically to preserve the same API - in the
+    near future to be able to create a generic code-base for bhyve and
+    only the context switch code to reside in the machine-dependant code).
+    Until now I've manage to run a virtual machine on top of the bhyve
+    hypervisor using FastModels simulation platform.
+
+
+    In 2014 and 2015 in parallel with the work at bhyve I've promoted
+    bhyve in my university and coordinated students to do bhyve-related
+    projects. One of the succesfull ones is the bhyve-ATA-emulation.
+
+  social:
+    - name: "personal"
+      link: "https://cs.pub.ro/index.php/people/userprofile/mihai_carabas"
+
 -
   id: 4
   name: "Ștefan"
