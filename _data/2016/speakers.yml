@@ -149,6 +149,22 @@
     - name: "twitter"
       link: "https://twitter.com/aznashwan"
 
+- id: 13
+  name: "Mihai"
+  surname: "Carabas"
+  company: "University POLITEHNICA of Bucharest"
+  title: "Teaching Assistant, PhD Student"
+  thumbnailUrl: "mihai_carabas.jpg"
+  rockstar: true
+  bio: >
+    My name is Mihai Carabas and I am a PhD student at University
+    POLITEHNICA of Bucharest in the domain of virtualization. I've
+    contributed over the last four years in FreeBSD and DragonFlyBSD
+    virtualization code.
+  social:
+    - name: "site"
+      link: "https://cs.pub.ro/index.php/people/userprofile/mihai_carabas"
+
 -
   id: 3
   name: "Adrian"
