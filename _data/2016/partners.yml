@@ -6,19 +6,13 @@
       link: "http://www.rosedu.org/"
       imageUrl: "rosedu.png"
 
-    - id: 2
-      name: "Rogentos"
-      description: "Rogentos Linux Group"
-      link: "http://rogentos.ro/"
-      imageUrl: "rogentos.png"
-
-    - id: 3
+    - id: 1
       name: "RoPython"
       description: "Romanian Python Community"
       link: "http://ropython.org/"
       imageUrl: "ropython.png"
 
-    - id: 4
+    - id: 2
       name: "BEST Iași"
       description: "Board of European Students of Technology"
       link: "http://bestis.ro/"
