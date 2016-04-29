@@ -5,4 +5,3 @@ eventDate: "07 - 08 May 2016"
 typeoutTextValues: '"", "Europe", "Romania", "Iași"'
 typeoutFallback: "Europe"
 heroButtons:
-  - {permalink: "/#tickets", text: "Register now"}
