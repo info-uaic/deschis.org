@@ -83,7 +83,3 @@
     - startTime: "16:15"
       endTime: "16:30"
       sessionIds: [501] # Coffee Break
-
-    - startTime: "16:30"
-      endTime: "17:15"
-      sessionIds: [002] # OpenStreetMap - The Wikipedia of Google Maps

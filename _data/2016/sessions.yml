@@ -11,37 +11,6 @@
   complexity: "Intermediate"
   video: null
 
-- id: 002
-  title: "OpenStreetMap - The Wikipedia of Google Maps"
-  description: |
-    **We have Google Maps, so why the need for another "map"?**
-
-    If tomorrow Google decides to close the project, what will you, as a user, do?
-
-    Maybe write a status on Facebook? Maybe build a petition, or try to boycott their other products. But that is all. If Google decides to kill a project, that project is dead.
-
-    If tomorrow OpenStreetMap closes, you just download the database, you put it on your server and that's it, OpenStreetMap goes on. Exit the paradigm of looking at a map as if it was just a map. In digital form, a map is so much more.
-
-    OpenStreetMap is formed by:
-
-    - A community of 2.2 million volunteers, which wish to build a better map of the world. Like a Wikipedia for maps.
-    - An ecosystem formed by programers which develop applications and websites which use the data from OpenStreeMap.
-    - Tens of thousans of websites that use the OSM maps, starting with Apple, Wikipedia, Flickr, Pinterest, Foursquare, Booking.com, Evernote, Craigslist etc.
-
-    **What OpenStreetMap is not?**
-
-    OpenStreetMap is not a map. OpenStreetMap is a database. Used in over 300 applications which reuse a part of the data in OpenStreetMap. There is a map which is specially crafted to show the accessibility for handicaped people. There is a map which shows you where you can find the nearest free WiFi.
-
-    Everything is documented and Open Source.
-    If you want your own map, you can easily build it.
-
-  subtype: "presentation"
-  speakers: [2]
-  language: "Romanian"
-  complexity: "Intermediate"
-  video: null
-  register: null
-
 - id: 003
   title: "So, you want to be an OpenStack contributor?"
   description: |
