@@ -2,44 +2,48 @@
   dateReadable: "May 07"
   tracks:
     - {title: "Aula Magna Mihai Eminescu", color: "#90be4e"}
-    - {title: "Room C401", color: "#90be4e"}
-    - {title: "Room C403", color: "#03a9f4"}
+    - {title: "Room C210", color: "#90be4e"}
+    - {title: "Room C308", color: "#03a9f4"}
 
   timeslots:
     - startTime: "09:30"
-      endTime: "10:00"
+      endTime: "9:45"
       sessionIds: [503]
 
-    - startTime: "10:00"
-      endTime: "11:00"
+    - startTime: "9:45"
+      endTime: "10:30"
       sessionIds: [003] # So, you want to be an OpenStack contributor?
 
-    - startTime: "11:00"
-      endTime: "12:00"
+    - startTime: "10:30"
+      endTime: "11:30"
       sessionIds: [012] # BSD: the true open-source
 
-    - startTime: "12:00"
-      endTime: "12:15"
+    - startTime: "11:30"
+      endTime: "11:45"
       sessionIds: [501] # Coffee Break
 
-    - startTime: "12:15"
-      endTime: "13:00"
+    - startTime: "11:45"
+      endTime: "12:30"
       sessionIds: [010] # Images for the clouds
 
-    - startTime: "13:00"
-      endTime: "13:45"
+    - startTime: "12:30"
+      endTime: "13:15"
       sessionIds: [005] # Coriolis: Cloud Migration as a Service
 
-    - startTime: "13:45"
-      endTime: "14:30"
+    - startTime: "13:15"
+      endTime: "14:00"
+      sessionIds: [014] # Containers in the wild
+
+    - startTime: "14:00"
+      endTime: "14:45"
       sessionIds: [502] # Lunch Break
 
-    - startTime: "14:30"
-      endTime: "16:30"
+    - startTime: "14:45"
+      endTime: "16:45"
       sessionIds: [404, 100, 101]
 
-    - startTime: "16:30"
-      endTime: "18:30"
+    - startTime: "16:45"
+      endTime: "18:45"
       sessionIds: [404, 102, 103]
 
 - date: "2016-05-08"
@@ -49,37 +53,41 @@
 
   timeslots:
     - startTime: "10:00"
-      endTime: "11:00"
+      endTime: "10:45"
+      sessionIds: [013] # First steps into Open Source
+
+    - startTime: "10:45"
+      endTime: "11:30"
       sessionIds: [009] # Open Source for Students
 
-    - startTime: "11:00"
-      endTime: "12:00"
-      sessionIds: [006] # Why 5-Star Data?
-
-    - startTime: "12:00"
-      endTime: "12:15"
+    - startTime: "11:30"
+      endTime: "11:45"
       sessionIds: [501] # Coffee Break
 
-    - startTime: "12:15"
-      endTime: "13:00"
+    - startTime: "11:45"
+      endTime: "12:45"
+      sessionIds: [006] # Why 5-Star Data?
+
+    - startTime: "12:45"
+      endTime: "13:30"
       sessionIds: [007] # Wiki's development process
 
-    - startTime: "13:00"
-      endTime: "13:45"
+    - startTime: "13:30"
+      endTime: "14:15"
       sessionIds: [001] # gitfs - Building a Python filesystem
 
-    - startTime: "13:45"
-      endTime: "14:45"
+    - startTime: "14:15"
+      endTime: "15:15"
       sessionIds: [502] # Lunch Break
 
-    - startTime: "14:45"
-      endTime: "15:30"
+    - startTime: "15:15"
+      endTime: "16:00"
       sessionIds: [008] # Arduino - Hardware can be open too
 
-    - startTime: "15:30"
-      endTime: "16:15"
+    - startTime: "16:00"
+      endTime: "16:45"
       sessionIds: [011] # RepRap - an open source 3D printer
 
-    - startTime: "16:15"
-      endTime: "16:30"
+    - startTime: "16:45"
+      endTime: "17:00"
       sessionIds: [501] # Coffee Break
