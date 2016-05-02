@@ -175,6 +175,26 @@
   video: null
   register: null
 
+- id: 013
+  title: "First Steps into Open Source"
+  description: >
+    Open Source provides virtually unlimited opportunities when it comes to projects or topics to work on. 
+    For someone who is new to the community getting that first patch accepted may seem daunting at first. 
+    Where should you start ? Is your code good enough ? What if they reject your first patch ?
+
+    Or why get involved in Open Source at all ?
+
+    This presentation aims to answer those questions and provide a first look into the Open Source world. 
+    I will share my experience as a Google Summer of Code student and open source contributor for the past 3 years, 
+    present the benefits and how it can help you develop your skills and career.
+
+  subtype: "presentation"
+  speakers: [14]
+  language: "Romanian"
+  complexity: "All levels"
+  video: null
+  register: null
+
 # Workshops
 - id: 100
   title: "Introduction to Python"
