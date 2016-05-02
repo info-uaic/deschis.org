@@ -49,37 +49,41 @@
 
   timeslots:
     - startTime: "10:00"
-      endTime: "11:00"
+      endTime: "10:45"
+      sessionIds: [013] # First steps into Open Source
+
+    - startTime: "10:45"
+      endTime: "11:30"
       sessionIds: [009] # Open Source for Students
 
-    - startTime: "11:00"
-      endTime: "12:00"
-      sessionIds: [006] # Why 5-Star Data?
-
-    - startTime: "12:00"
-      endTime: "12:15"
+    - startTime: "11:30"
+      endTime: "11:45"
       sessionIds: [501] # Coffee Break
 
-    - startTime: "12:15"
-      endTime: "13:00"
+    - startTime: "11:45"
+      endTime: "12:45"
+      sessionIds: [006] # Why 5-Star Data?
+
+    - startTime: "12:45"
+      endTime: "13:30"
       sessionIds: [007] # Wiki's development process
 
-    - startTime: "13:00"
-      endTime: "13:45"
+    - startTime: "13:30"
+      endTime: "14:15"
       sessionIds: [001] # gitfs - Building a Python filesystem
 
-    - startTime: "13:45"
-      endTime: "14:45"
+    - startTime: "14:15"
+      endTime: "15:15"
       sessionIds: [502] # Lunch Break
 
-    - startTime: "14:45"
-      endTime: "15:30"
+    - startTime: "15:15"
+      endTime: "16:00"
       sessionIds: [008] # Arduino - Hardware can be open too
 
-    - startTime: "15:30"
-      endTime: "16:15"
+    - startTime: "16:00"
+      endTime: "16:45"
       sessionIds: [011] # RepRap - an open source 3D printer
 
-    - startTime: "16:15"
-      endTime: "16:30"
+    - startTime: "16:45"
+      endTime: "17:00"
       sessionIds: [501] # Coffee Break
