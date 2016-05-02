@@ -246,6 +246,20 @@
     - name: "linkedin"
       link: "https://ro.linkedin.com/in/alexandru-razvan-caciulescu-049699106"
 
+- 
+  id: 15
+  name: "Daniel"
+  surname: "Leon"
+  company: "Optymyze"
+  title: "Senior Software Developer"
+  thumbnailUrl: "daniel_leon.jpg"
+  rockstar: true
+  bio: >
+    I'm a Linux enthusiast and a proactive learner. I like finding the best solutions and putting them into practice.
+  social:
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/daniel-leon-48427b58"
+
 -
   id: 4
   name: "Ștefan"
