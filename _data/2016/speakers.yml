@@ -228,6 +228,24 @@
   rockstar: true
   bio: ""
 
+- 
+  id: 14
+  name: "Alexandru Răzvan"
+  surname: "Căciulescu"
+  company: "University POLITEHNICA of Bucharest"
+  title: "Undergraduate Teaching Assistant"
+  thumbnailUrl: "alexandru_caciulescu.jpg"
+  rockstar: true
+  bio: >
+    Alex is a Linux and Open Source enthusiast who spends most of his time in Sublime and vim when he isn't slaying 'features' in GDB. 
+    Former Google Summer Of Code student and veteran, he is now on the hunt for a new open source project. 
+    Occasionally one can see this rare creature enjoying a game of Witcher, once every full moon in that brief, yet glorious, gap between deadlines.
+  social:
+    - name: "facebook"
+      link: "https://www.facebook.com/alexandrurazvan.caciulescu"
+    - name: "linkedin"
+      link: "https://ro.linkedin.com/in/alexandru-razvan-caciulescu-049699106"
+
 -
   id: 4
   name: "Ștefan"
