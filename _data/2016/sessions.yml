@@ -195,6 +195,20 @@
   video: null
   register: null
 
+- id: 014
+  title: "Containers in the wild"
+  description: >
+    Have you heard about Docker madness and want some clues ? 
+    Grab your seat and watch me rant about great things and shortcomings in using a container based approach when 
+    it comes to working with them as a developer or a tester.
+
+  subtype: "presentation"
+  speakers: [15]
+  language: "Romanian"
+  complexity: "All levels"
+  video: null
+  register: null
+
 # Workshops
 - id: 100
   title: "Introduction to Python"
