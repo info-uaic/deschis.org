@@ -2,8 +2,8 @@
   dateReadable: "May 07"
   tracks:
     - {title: "Aula Magna Mihai Eminescu", color: "#90be4e"}
-    - {title: "Room C401", color: "#90be4e"}
-    - {title: "Room C403", color: "#03a9f4"}
+    - {title: "Room C210", color: "#90be4e"}
+    - {title: "Room C308", color: "#03a9f4"}
 
   timeslots:
     - startTime: "09:30"
