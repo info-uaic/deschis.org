@@ -82,12 +82,16 @@
 
     - startTime: "15:15"
       endTime: "16:00"
-      sessionIds: [008] # Arduino - Hardware can be open too
+      sessionIds: [015] # QT Application Development
 
     - startTime: "16:00"
       endTime: "16:45"
-      sessionIds: [011] # RepRap - an open source 3D printer
+      sessionIds: [008] # Arduino - Hardware can be open too
 
     - startTime: "16:45"
       endTime: "17:00"
       sessionIds: [501] # Coffee Break
+
+    - startTime: "17:00"
+      endTime: "17:45"
+      sessionIds: [011] # RepRap - an open source 3D printer
