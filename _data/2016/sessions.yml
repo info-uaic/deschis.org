@@ -205,7 +205,19 @@
   subtype: "presentation"
   speakers: [15]
   language: "Romanian"
-  complexity: "All levels"
+  complexity: "Intermediate"
+  video: null
+  register: null
+
+- id: 015
+  title: "Qt Application Development"
+  description: >
+    A tour of the QT framework.
+
+  subtype: "presentation"
+  speakers: [16]
+  language: "Romanian"
+  complexity: "Beginner"
   video: null
   register: null
 
