@@ -260,6 +260,21 @@
     - name: "linkedin"
       link: "https://www.linkedin.com/in/daniel-leon-48427b58"
 
+- 
+  id: 16
+  name: "Dragoș"
+  surname: "Acostachioaie"
+  company: "Biosfarm"
+  title: "Programmer and System Administrator"
+  thumbnailUrl: "anonymous.jpg"
+  rockstar: true
+  bio: >
+    I am a programmer and system administrator living in Iasi, Romania. 
+    I am a supporter of UNIX operating systems, working with Linux, FreeBSD and open-source software.
+  social:
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/dragos-acostachioaie-67a9a415"
+
 -
   id: 4
   name: "Ștefan"
