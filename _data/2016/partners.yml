@@ -18,6 +18,12 @@
       link: "http://bestis.ro/"
       imageUrl: "best.png"
 
+    - id: 3
+      name: "LSAC Iași"
+      description: "Liga Studenților Facultății de Automatică și Calculatoare din Iași"
+      link: "http://www.lsaciasi.ro/"
+      imageUrl: "lsac.png"
+
 - group: "Media Partners"
   elements:
     - id: 10
