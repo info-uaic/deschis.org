@@ -261,14 +261,14 @@
 - 
   id: 17
   name: "Costin"
-  surname: "Gălan"
+  surname: "Galan"
   company: "Cloudbase Solutions"
   title: "Cloud Engineer"
   thumbnailUrl: "costin_galan.jpg"
   rockstar: true
   bio: >
     Curiosity and strong analytical skills are what define Costin. 
-    With an automation mindset and and proficiency in operating systems he is constantly playing with OS agnostic technologies. 
+    With an automation mindset and proficiency in operating systems he is constantly playing with OS agnostic technologies. 
     In his spare time, he enjoys doing magic tricks.  
   social:
     - name: "linkedin"
