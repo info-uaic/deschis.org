@@ -10,7 +10,7 @@
     I achieved the title of Doctor in Information Sciences (Cum Laude) at "A.I.Cuza" University of Iasi in August 2004 - title of thesis: "_Multimedia Object Manipulation Techniques on Internet_". Also, in 2005 I received "Gheorghe Cartianu" Award of the Romanian Academy for outstanding scientific contributions published in 2003.
 
     Currently, some of my fields of interest and experience domains are:
-    
+
     - Web Technologies – Web Application Development, Web Interaction, Web Engineering, etc.
     - Web of Data – i.e. Meta-data, Linked Data, (User-based) Knowledge Engineering, Ontologies, (Semantic) Web-based Architectures.
     - Human-Computer Interaction – Social Aspects of Web Applications, Natural Interaction, etc.
@@ -53,23 +53,6 @@
       link: "https://systems.cs.pub.ro/people/razvan.deaconescu/"
     - name: "linkedin"
       link: "https://www.linkedin.com/in/razvandeaconescu"
-- 
-  id: 1
-  name: "Vlad"
-  surname: "Temian"
-  company: "Presslabs"
-  title: "Software Engineer"
-  thumbnailUrl: "anonymous.jpg"
-  rockstar: true
-  bio: >
-    Enthusiast, energetic, hungry and foolish, always ready for a good game.
-    He's passionate about everything that involves code or tech problems,
-    currently building and playing with Presslabs' infrastructure. 
-  social:
-    - name: "github"
-      link: "https://github.com/vtemian"
-    - name: "twitter"
-      link: "https://twitter.com/vtemian"
 
 - 
   id: 12
