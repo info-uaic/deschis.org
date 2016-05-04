@@ -1,16 +1,4 @@
 # Presentation
-- id: 001
-  title: "gitfs - Building a Python filesystem"
-  description: |
-    gitfs is an open-source filesystem which was designed to bring the full powers of Git to everyone, no matter how little they know about versioning.
-
-    A user can mount any repository and all the his changes will be automatically converted into commits. gitfs will also expose the history of the branch you’re currently working on by simulating snapshots of every commit.
-  subtype: "presentation"
-  speakers: [1]
-  language: "Romanian"
-  complexity: "Intermediate"
-  video: null
-
 - id: 003
   title: "So, you want to be an OpenStack contributor?"
   description: |
