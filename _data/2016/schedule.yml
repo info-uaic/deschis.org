@@ -73,25 +73,21 @@
       sessionIds: [007] # Wiki's development process
 
     - startTime: "13:30"
-      endTime: "14:15"
-      sessionIds: [001] # gitfs - Building a Python filesystem
-
-    - startTime: "14:15"
-      endTime: "15:15"
+      endTime: "14:30"
       sessionIds: [502] # Lunch Break
+
+    - startTime: "14:30"
+      endTime: "15:15"
+      sessionIds: [015] # QT Application Development
 
     - startTime: "15:15"
       endTime: "16:00"
-      sessionIds: [015] # QT Application Development
+      sessionIds: [008] # Arduino - Hardware can be open too
 
     - startTime: "16:00"
       endTime: "16:45"
-      sessionIds: [008] # Arduino - Hardware can be open too
+      sessionIds: [011] # RepRap - an open source 3D printer
 
     - startTime: "16:45"
       endTime: "17:00"
-      sessionIds: [501] # Coffee Break
-
-    - startTime: "17:00"
-      endTime: "17:45"
-      sessionIds: [011] # RepRap - an open source 3D printer
+      sessionIds: [504] # Ending ceremony
