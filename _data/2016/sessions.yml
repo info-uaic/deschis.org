@@ -347,3 +347,10 @@
   subtype: "presentation"
   speakers: []
   language: "Romanian"
+
+- id: 504
+  title: "Ending"
+  place: "Aula Mihai Eminescu"
+  subtype: "presentation"
+  speakers: []
+  language: "Romanian"
