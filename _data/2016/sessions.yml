@@ -325,7 +325,7 @@
     how to build an awesome cloud image.
 
   subtype: "workshop"
-  speakers: [12]
+  speakers: [12, 17]
   language: "English"
   complexity: "Advanced"
   video: null
