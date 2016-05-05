@@ -187,6 +187,11 @@
 
     He's working full time in Open Source as a core committer on the XWiki project, employed by the XWiki company in Iași,
     which is the main sponsor of the project.
+  social:
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/EduardMoraru"
+    - name: "github"
+      link: "https://github.com/Enygma2002"
 
 - 
   id: 9
