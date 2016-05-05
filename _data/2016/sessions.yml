@@ -48,7 +48,7 @@
 - id: 007
   title: "XWiki's development process"
   description: |
-    Development process, the XWiki way, applyed to collaborative applications. 
+    An overview of the process, people and infrastructure behind the development of the XWiki open source project.
 
   subtype: "presentation"
   speakers: [8]
