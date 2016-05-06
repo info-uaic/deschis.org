@@ -17,7 +17,7 @@
       thumbnailUrl: "alexandru_coman.jpg"
       ribbon:
         - {abbr: "Core", title: "OSCamp Board Member"}
-        - {abbr: "Technical", title: "Technical Ledear"}
+        - {abbr: "Technical", title: "Technical Leader"}
       social:
         - {name: "facebook", link: "https://www.facebook.com/alxcoman"}
         - {name: "twitter", link: "https://twitter.com/coman_alexandru"}
@@ -38,6 +38,21 @@
 	- {name: "linkedin", link: "https://ro.linkedin.com/in/acitea"}
 	- {name: "facebook", link: "https://www.facebook.com/alex.citea.1"}
 
+
+- group: "Public Relations"
+  members:
+    - id: 9
+      name: "Ingrid"
+      surname: "Stoleru"
+      title: "Student @FII, UAIC Iași"
+      thumbnailUrl: "ingrid_stoleru.jpg"
+      ribbon:
+        - {abbr: "Relations", title: "Public Relations Member"}
+      social:
+        - {name: "github", link: "https://github.com/ingridst"}
+	- {name: "linkedin", link: "https://ro.linkedin.com/in/ingrid-stoleru-a206625b"}
+
+	
 
 - group: "Legal Department"
   members:
