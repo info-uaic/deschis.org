@@ -266,12 +266,12 @@
   description: |
     **About this workshop**
 
-    We will experiment with the Pythong programming language and its capabilities.We'll go through this topics:
+    We will experiment with the Python programming language and its capabilities.We'll go through this topics:
 
-    - Basic Sintax
-    - Data Tipes ( int, float, lists, tuples etc.)
-    - Build in functions( print, input, max etc.)
-    - Controll structures( if-elif-else, for, while etc.
+    - Basic Syntax
+    - Data Types ( int, float, lists, tuples etc.)
+    - Built in functions( print, input, max etc.)
+    - Control structures( if-elif-else, for, while etc.
     - Library structure
     - Objects and Classes (creating, inheritage )
     - Built in libraries ( os, sys, copy, random, datetime etc.)
@@ -281,7 +281,7 @@
     In this workshop we'll need :
 
     - A laptop with Python 3.x installed
-    - Past experiance with any programming language ( basic concepts  )
+    - Past experience with any programming language ( basic concepts  )
 
     **What's in for you ?**
 
