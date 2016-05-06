@@ -35,6 +35,8 @@
         - {abbr: "Technical", title: "Technical Member"}
       social:
         - {name: "github", link: "https://github.com/citeaalexandru"}
+	- {name: "linkedin", link: "https://ro.linkedin.com/in/acitea"}
+	- {name: "facebook", link: "https://www.facebook.com/alex.citea.1"}
 
 
 - group: "Legal Department"
