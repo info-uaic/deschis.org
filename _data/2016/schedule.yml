@@ -32,11 +32,11 @@
 
     - startTime: "13:15"
       endTime: "14:00"
-      sessionIds: [014] # Containers in the wild
+      sessionIds: [502] # Lunch Break
 
     - startTime: "14:00"
       endTime: "14:45"
-      sessionIds: [502] # Lunch Break
+      sessionIds: [014] # Containers in the wild
 
     - startTime: "14:45"
       endTime: "16:45"
