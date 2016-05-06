@@ -207,11 +207,22 @@
   id: 10
   name: "Danut"
   surname: "Lipsa"
-  company: "Synygy, Inc."
+  company: "Co-founder of Build3DParts"
   title: "Software Developer"
   thumbnailUrl: "danut_lipsa.jpg"
   rockstar: true
-  bio: ""
+  bio: >
+    I graduated Computer Science University from Iasi in 2004 and I have more than 10 years experience in 
+    software development using Java technologies.
+
+    Since early days in school I was interested in computer controlled machines and automations.
+    I am a geek at heart and I had closely been following the 3D printing industry for the past few years.
+    I have gained experience in multiple 3D printing technologies and philosophies, including open-sourced
+    RepRap printers, I truly believes that 3D printing will change the way in which the world works.
+    To move things further I founded together with Sorin Ipate the company Build3DParts (www.build3dparts.com) in Iasi.
+    Our main focus is to design and improve every aspect of existing open source 3D printers, but also wanted
+    to develop our own products based on experience gathered. Since Feb 2015, we have our own development and
+    production centre where our small team of people can handle all the aspects of design and produce a commercial ready 3D Printer.
 
 - 
   id: 14
