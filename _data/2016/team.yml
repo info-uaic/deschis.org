@@ -140,13 +140,3 @@
         - {name: "facebook", link: "https://www.facebook.com/teona.rusu"}
       ribbon:
         - {abbr: "Program", title: "Program committee Member"}
-
-    - id: 8
-      name: "Irina"
-      surname: "Bejan"
-      title: "Programmer @Sprocket Inc."
-      thumbnailUrl: "irina_bejan.jpg"
-      social:
-        - {name: "linkedin", link: "https://www.linkedin.com/in/irina-bejan-2a89a081"}
-      ribbon:
-        - {abbr: "Program", title: "Program committee Member"}
