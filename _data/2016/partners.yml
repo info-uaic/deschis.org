@@ -31,9 +31,3 @@
       description: "WorldIT.info"
       link: "http://www.worldit.info/"
       imageUrl: "worldit.jpg"
-
-    - id: 11
-      name: "Evenimentul"
-      description: "Ziarul Evenimentul"
-      link: "http://www.ziarulevenimentul.ro/"
-      imageUrl: "evenimentul.jpg"
