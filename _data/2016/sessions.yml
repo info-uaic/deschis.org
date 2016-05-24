@@ -31,6 +31,7 @@
   complexity: "Intermediate"
   video: null
   register: null
+  presentation: https://drive.google.com/file/d/0B9ifbfIpdiUqbHpMQkVrSjNXSURMWDZEcUZPR05aS0F1alZz/view?usp=sharing
 
 - id: 006
   title: "Why 5-Star Data?"
@@ -44,6 +45,7 @@
   complexity: "Intermediate"
   video: null
   register: null
+  presentation: http://www.slideshare.net/busaco/why-5star-data
 
 - id: 007
   title: "XWiki's development process"
@@ -56,6 +58,7 @@
   complexity: "Intermediate"
   video: null
   register: null
+  presentation: http://www.slideshare.net/Enygma2002/xwikis-development-process-61811673
 
 - id: 008
   title: "Arduino - Hardware can be open too"
@@ -73,6 +76,7 @@
   complexity: "Intermediate"
   video: null
   register: null
+  presentation: https://drive.google.com/file/d/0B9ifbfIpdiUqRUNQMG1aZGpWUHM/view?usp=sharing
 
 - id: 009
   title: "Open Source for Students"
@@ -100,6 +104,7 @@
   complexity: "Intermediate"
   video: null
   register: null
+  presentation: https://drive.google.com/file/d/0B3h5Op_iFi3jOW1WTklUTFJhakE/view?usp=sharing
 
 - id: 010
   title: "Images for the clouds"
@@ -126,6 +131,7 @@
   complexity: "Intermediate"
   video: null
   register: null
+  presentation: https://drive.google.com/file/d/0B9ifbfIpdiUqQVZGZC1vZGdMeFFBbHFtemQ4Q3pZUnJFTS1R/view?usp=sharing
 
 - id: 011
   title: "RepRap - an open source 3D printer"
@@ -162,6 +168,7 @@
   complexity: "Intermediate"
   video: null
   register: null
+  presentation: https://drive.google.com/file/d/0B9ifbfIpdiUqMXNmVkZfR21vTWdXNDVjTlZLUHBVdnhBTjMw/view?usp=sharing
 
 - id: 013
   title: "First Steps into Open Source"
@@ -182,6 +189,7 @@
   complexity: "All levels"
   video: null
   register: null
+  presentation: https://drive.google.com/file/d/0B4S2zBPMzpHoS1ROcHpkV2xWZjg/view?usp=sharing
 
 - id: 014
   title: "Containers in the wild"
@@ -196,6 +204,7 @@
   complexity: "Intermediate"
   video: null
   register: null
+  presentation: https://docs.google.com/presentation/d/10QPd8gEgEzMPjilko8lDH1uocu3m0N1T-m-Bnrfi8uU/edit?usp=sharing
 
 - id: 015
   title: "Qt Application Development"
@@ -208,6 +217,7 @@
   complexity: "Beginner"
   video: null
   register: null
+  presentation: http://www.slideshare.net/dragosacostachioaie/qt-application-development
 
 # Workshops
 - id: 100
