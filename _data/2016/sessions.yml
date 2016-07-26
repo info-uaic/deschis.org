@@ -17,6 +17,7 @@
   complexity: "Entry (Community Presentation)"
   video: null
   register: null
+  presentation: https://drive.google.com/file/d/0BzEZRHM30dIIQm1OWERlckRmV1U/view?usp=sharing
 
 - id: 005
   title: "Coriolis: Cloud Migration as a Service"
