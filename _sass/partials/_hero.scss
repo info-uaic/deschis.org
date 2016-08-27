@@ -22,12 +22,7 @@
         }
     }
 }
-.typeout-fallback {
-    display: none;
-    @media (max-width: 767px) {
-        display: inline-block;
-    }
-}
+
 .explore {
     margin-left: -16px;
     position: absolute;
@@ -40,6 +35,7 @@
         animation: none;
     }
 }
+
 .icon-arrow-down {
     width: 32px;
     height: 32px;
@@ -49,6 +45,7 @@
         height: 24px;
     }
 }
+
 @keyframes callToAction {
     0% {
         opacity: 0;
