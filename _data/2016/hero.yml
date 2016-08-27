@@ -1,7 +1,5 @@
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Open Source Camp <typeout> 2016"
+heroTitle: "Open Source Camp Iași 2016"
 eventDate: "07 - 08 May 2016"
-typeoutTextValues: '"", "Europe", "Romania", "Iași"'
-typeoutFallback: "Europe"
 heroButtons:
