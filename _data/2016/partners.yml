@@ -9,7 +9,7 @@
     - id: 1
       name: "RoPython"
       description: "Romanian Python Community"
-      link: "http://ropython.org/"
+      link: "http://ropython.ro/"
       imageUrl: "ropython.png"
 
     - id: 2
