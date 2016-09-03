@@ -47,18 +47,6 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Documents
 c4sponsorsUrl: ""
 
-# Navigation
-navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/cod/", text: "Code of Conduct"}
-
-bottomNavigationLinks:
-rightNavigationButtons:
-
 # Latest News Block
 latestNewsTitle: "Latest news"
 
