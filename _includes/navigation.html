@@ -1,3 +1,7 @@
+{% if site.data.nav[page.nav] %}    {% assign nav = site.data.nav[page.nav] %}
+{% else %}                          {% assign nav = site.data.nav.default   %}
+{% endif %}
+
 <header id="top-header" class="top-header">
     <div class="overlay white-solid"></div>
     <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32">
@@ -9,23 +13,82 @@
     <nav class="st-menu st-effect" id="menu">
         <div class="logo-navbar logo logo-dark visible-xs"></div>
         <ul>
-            {% for navigationLink in site.navigationLinks %}
-            <li>
-                <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
-            </li>
+            {% for link_element in nav.links %}
+                {% assign target = nil %}
+                {% if link_element.link != null %}
+                    {% capture target %}
+                        target="_blank"
+                    {% endcapture %}
+                {% endif %}
+
+                {% assign class = nil %}
+                {% if link_element.permalink != null %}
+                    {% if page.permalink == link_element.permalink %}
+                        {% capture class %}
+                            class="current"
+                        {% endcapture %}
+                    {% endif %}
+                {% endif %}
+
+                {% if link_element.permalink != null %}
+                    {% capture href %}
+                        {{ link_element.permalink | prepend: site.baseurl }}
+                    {% endcapture %}
+                {% else %}
+                    {% capture href %}
+                        {{ link_element.link }}
+                    {% endcapture %}
+                {% endif %}
+
+                <li>
+                    <a {{class | strip }} href="{{ href | strip}}" {{target | strip}}>{{ link_element.text}}</a>
+                </li>
             {% endfor %}
         </ul>
         <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
-            {% for bottomNavigationLink in site.bottomNavigationLinks %}
-            <li>
-                <a href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}>{{ bottomNavigationLink.text }}</a>
-            </li>
+            {% for link_element in nav.bottom_links %}
+                {% assign target = nil %}
+                {% if link_element.link != null %}
+                    {% capture target %}
+                        target="_blank"
+                    {% endcapture %}
+                {% endif %}
+
+                {% if link_element.permalink != null %}
+                    {% capture href %}
+                        {{ link_element.permalink | prepend: site.baseurl }}
+                    {% endcapture %}
+                {% else %}
+                    {% capture href %}
+                        {{ link_element.link }}
+                    {% endcapture %}
+                {% endif %}
+
+                <li>
+                    <a href="{{ href | strip}}" {{target | strip}}>{{ link_element.text }}</a>
+                </li>
             {% endfor %}
         </ul>
-        {% for rightNavigationButton in site.rightNavigationButtons %}
-        <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
-            {{ rightNavigationButton.text }}
-        </a>
+
+        {% for button_element in nav.buttons %}
+            {% assign target = nil %}
+            {% if button_element.link != null %}
+                {% capture target %}
+                    target="_blank"
+                {% endcapture %}
+            {% endif %}
+
+            {% if button_element.permalink != null %}
+                {% capture href %}
+                    {{ button_element.permalink | prepend: site.baseurl }}
+                {% endcapture %}
+            {% else %}
+                {% capture href %}
+                    {{ button_element.link }}
+                {% endcapture %}
+            {% endif %}
+
+            <a class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" href="{{ href | strip}}" {{target | strip}}>{{ button_element.text }}</a>
         {% endfor %}
     </nav>
 </header>
