@@ -1,0 +1,72 @@
+# About Block
+aboutTitle: "About Open Source Camp"
+aboutBlock:
+ - {title: "Conference", image: "conference.jpg", text: "The Open Source gathering of the year in Romania, built with care by geeks for enthusiasts. Awesome technical speakers and talks and of course, loads of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops and hands-on experience, hacking and debugging. Join us in an epic battle to unleash the power of your favorite new technology!" }
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Floare albastră"
+eventLocationLink: "http://www.cautpensiuni.ro/pensiune/pensiunea-floare-albastra-ipotesti-botosani"
+eventStreetAddress: "Ipotești"
+eventAddressLocality: "Botoșani"
+eventAddressLocalityRegion: "Botoșani"
+eventPostalCode: "700506"
+eventAddressCountry: "Romania"
+eventStartTime: "2017-08-07T12:00"
+eventDoorTime: "08:00"
+eventEndTime: "2017-08-12T12:00"
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: >
+    Finally, the step we've been waiting for has been taken by a large
+    amount of tech industry giants and important figures. From the beginning
+    of the IT industry, the Open Source trend has been an element of geek legends,
+    but the myth becomes reality in a push of the industry towards greater grounds.
+    In our enthusiasm, we want to share the beautiful things this old tabu subject has
+    to offer in the software industry, with the help, of course, of great minds with
+    state of the art skills. So we hope you'll give us the chance to impress in our
+    Open Source Camp hosted in Iași, Romania. Join us for tech talks, workshops and
+    an awesome hackthon that will keep you up in excitement.
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - count: "60"
+   specialCharacter: "&middot;"
+   info: "attendees"
+   detail: "from everywhere"
+
+ - count: "5"
+   specialCharacter: "&middot;"
+   info: "days"
+   detail: "of pure open source technologies"
+
+ - count: "20"
+   specialCharacter: "&middot;"
+   info: "speakers"
+   detail: "from country and beyond"
+
+# Rockstar Speakers Block
+rockstar:
+    title: "Meet our awesome speakers"
+    background: "rockstar-speakers.jpg"
+    speakers_count: 6
+    speakers_url: "/speakers/"
+
+# Documents
+c4pUrl: "https://oscamp.eu/blog/call-for-proposals-2016"
+
+footerBlocks:
+ - title: "Contact"
+   links:
+      - {link: "mailto:contact@oscamp.eu", text: "contact@oscamp.eu"}
+
+ - title: "FAQ"
+   links:
+      - {permalink: "/cod/", text: "Code of Conduct"}
+
+ - title: "Previous edition"
+   links:
+      - {permalink: "/2016/", text: "OSCamp 2016"}
