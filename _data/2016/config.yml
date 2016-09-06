@@ -17,8 +17,6 @@ eventStartTime: "2016-05-07T09:00"
 eventDoorTime: "08:00"
 eventEndTime: "2016-05-08T18:00"
 eventPlaceCoordinates: "47.174524,27.572306"
-mapCenterCoordinates: "47.1739673,27.5712438"
-mapMobileCenterCoordinates: "47.1741223,27.572034"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -43,7 +41,7 @@ aboutUs: >
     In our enthusiasm, we want to share the beautiful things this old tabu subject has
     to offer in the software industry, with the help, of course, of great minds with
     state of the art skills. So we hope you'll give us the chance to impress in our
-    Open Source Camp hosted in Iași, Romania. Join us for tech talks, workshops and 
+    Open Source Camp hosted in Iași, Romania. Join us for tech talks, workshops and
     an awesome hackthon that will keep you up in excitement.
 
 # Statistic Block
@@ -65,10 +63,24 @@ statisticBlock:
    detail: "from country and beyond"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 6
-rockstarSpeakersTitle: "Meet our awesome speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstar:
+    title: "Meet our awesome speakers"
+    background: "rockstar-speakers.jpg"
+    speakers_count: 6
+    speakers_url: "/2016/speakers/"
 
 # Documents
 c4pUrl: "https://oscamp.eu/blog/call-for-proposals-2016"
+
+footerBlocks:
+ - title: "Contact"
+   links:
+      - {link: "mailto:contact@oscamp.eu", text: "contact@oscamp.eu"}
+
+ - title: "FAQ"
+   links:
+      - {permalink: "/cod/", text: "Code of Conduct"}
+
+ - title: "Previous edition"
+   links:
+      - {link: "https://opensourceiasi.wordpress.com/", text: "Open Source Iași"}
