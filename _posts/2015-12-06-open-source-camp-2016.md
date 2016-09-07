@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Open Source Camp 2016"
-date:   2015-12-06 12:00:00
+title: "Open Source Camp 2016"
+date: 2015-12-06 12:00:00
 isStaticPost: false
 edition: "2016"
 ---
@@ -14,7 +14,7 @@ OSCamp is an event specially dedicated to all those interested in the open sourc
 
 OSCamp is organized in collaboration and with the full support of the [Faculty of Computer Science](https://www.info.uaic.ro/bin/Main/), [“Alexandru Ioan Cuza” University](https://www.uaic.ro/), Iași and the [Cyber Security Research Center from Romania (CCSIR)](http://ccsir.org/) for the Romanian developer and future developer community.
 
-####Join us!
+##### Join us!
 
 Our aim is to build a conference with a lasting future and huge impact. In that idea, more than 300 faculty and high school students, developers and enthusiasts are expected to join our event.
 
