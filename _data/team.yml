@@ -43,8 +43,11 @@ groups:
         thumbnailUrl: "teona_rusu.jpg"
         ribbon:
           - {abbr: "Core", title: "OSCamp Board Member"}
-          - {abbr: "Program", title: "Program committee Member"}
+          - {abbr: "Logistics", title: "Logistics Leader"}
+          - {abbr: "PR", title: "Public Relations Leader"}
         social:
+          - {name: "linkedin", link: "https://ro.linkedin.com/in/teona-rusu-40b7ba10b"}
+          - {name: "github", link: "https://www.github.com/TeonaRusu"}
           - {name: "facebook", link: "https://www.facebook.com/teona.rusu"}
 
       - id: 1
