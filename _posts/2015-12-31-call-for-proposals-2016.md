@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Call for proposals"
-date:   2015-12-31 12:00:00
+title: "Call for proposals"
+date: 2015-12-31 12:00:00
 isStaticPost: false
 edition: "2016"
 ---
@@ -26,4 +26,3 @@ There are two kinds of contributions that you can present:
    These session must follow a topic related to open source technologies and tools and can be variable in their lenght.
 
 Do you want to share something of your work? Would you like to share your knowledge? If so, please send us an email to [papers@oscamp.eu](mailto:papers@oscamp.eu) .
- 

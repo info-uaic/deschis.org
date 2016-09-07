@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Call for sponsors"
-date:   2015-12-31 12:00:00
+title: "Call for sponsors"
+date: 2015-12-31 12:00:00
 isStaticPost: false
 edition: "2016"
 ---
@@ -12,6 +12,6 @@ Participating to our conference, you will have the possibility to make your prod
 
 As a sponsor of OSCamp 2016, you will be supporting the work of a significant open source community which will be the foundation of the technological development and innovation in Romania.
 
-You can find a list of sponsoring packages at [oscamp.eu/sponsor-brochure/](https://oscamp.eu/sponsor-brochure/). 
+You can find a list of sponsoring packages at [oscamp.eu/sponsor-brochure/](https://oscamp.eu/sponsor-brochure/).
 
 Would you like to sponsor OSCamp? Please send us an email to [sponsoring@oscamp.eu](mailto:sponsoring@oscamp.eu).
