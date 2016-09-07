@@ -1,0 +1,122 @@
+alumni:
+    description: >
+      This is just a spark of the many amazing people (random order) that
+      helped us or are still helping every year so OSCamp can happen.
+    members:
+      - id: 4
+        name: "Teofil"
+        surname: "Cojocariu"
+        title: "Security Penetration Testing"
+
+      - id: 9
+        name: "Ingrid"
+        surname: "Stoleru"
+        title: "Student @FII, UAIC Iași"
+
+      - id: 10
+        name: "Carmen"
+        surname: "Lăscoiu"
+        title: "Student"
+
+      - id: 11
+        name: "Luiza"
+        surname: "Bubatu"
+        title: "Student"
+
+groups:
+  - name: "OSCamp Core"
+    members:
+      - id: 0
+        name: "Sabin"
+        surname: "Buraga"
+        title: "Associate Professor, PhD @FII, UAIC Iași"
+        thumbnailUrl: "sabin_buraga.jpg"
+        ribbon:
+          - {abbr: "Core", title: "OSCamp Board Member"}
+        social:
+          - {name: "site", link: "http://profs.info.uaic.ro/~busaco/"}
+
+      - id: 7
+        name: "Teona"
+        surname: "Rusu"
+        title: "Student"
+        thumbnailUrl: "teona_rusu.jpg"
+        ribbon:
+          - {abbr: "Core", title: "OSCamp Board Member"}
+          - {abbr: "Program", title: "Program committee Member"}
+        social:
+          - {name: "facebook", link: "https://www.facebook.com/teona.rusu"}
+
+      - id: 1
+        name: "Alexandru"
+        surname: "Coman"
+        title: "Cloud Engineer @Cloudbase"
+        thumbnailUrl: "alexandru_coman.jpg"
+        ribbon:
+          - {abbr: "Core", title: "OSCamp Board Member"}
+          - {abbr: "Technical", title: "Technical Leader"}
+        social:
+          - {name: "facebook", link: "https://www.facebook.com/alxcoman"}
+          - {name: "twitter", link: "https://twitter.com/coman_alexandru"}
+          - {name: "site", link: "https://alexcoman.com/"}
+          - {name: "linkedin", link: "https://linkedin.com/in/comanalex"}
+          - {name: "github", link: "https://github.com/alexcoman"}
+
+      - id: 3
+        name: "Andrei"
+        surname: "Avădănei"
+        title: "President & Founder at Cyber Security Research Center"
+        thumbnailUrl: "andrei_avadanei.jpg"
+        ribbon:
+          - {abbr: "Core", title: "OSCamp Board Member"}
+          - {abbr: "Legal", title: "Legal Department Leader"}
+        social:
+          - {name: "github", link: "https://github.com/AndreiAvadanei"}
+
+  - name: "Volunteers"
+    members:
+      - id: 2
+        name: "Alexandru"
+        surname: "Cîtea"
+        title: "Student @FII, UAIC Iași"
+        thumbnailUrl: "alexandru_citea.jpg"
+        ribbon:
+          - {abbr: "Technical", title: "Technical Member"}
+        social:
+          - {name: "github", link: "https://github.com/citeaalexandru"}
+          - {name: "linkedin", link: "https://ro.linkedin.com/in/acitea"}
+          - {name: "facebook", link: "https://www.facebook.com/alex.citea.1"}
+
+      - id: 6
+        name: "Alina"
+        surname: "Asandei"
+        title: "Graphic Designer"
+        thumbnailUrl: "alina_asandei.png"
+        social:
+          - {name: "linkedin", link: "https://www.linkedin.com/in/asandeialina"}
+          - {name: "site", link: "https://www.behance.net/asandei"}
+        ribbon:
+          - {abbr: "Graphic", title: "Digital artists Leader"}
+
+      - id: 12
+        name: "Dragoș"
+        surname: "Acostachioaie"
+        title: "System Administrator @Biosfarm"
+        thumbnailUrl: "anonymous.jpg"
+        ribbon:
+          - {abbr: "Social", title: "PR & Social Media Leader"}
+        social:
+          - {name: "linkedin", link: "https://www.linkedin.com/in/dragos-acostachioaie-67a9a415"}
+
+      - id: 5
+        name: "Răzvan"
+        surname: "Deaconescu"
+        title: ""
+        thumbnailUrl: "razvan_deaconescu.jpg"
+        ribbon:
+          - {abbr: "Social", title: "PR & Social Media Member"}
+        social:
+          - {name: "facebook", link: "https://www.facebook.com/razvan.deaconescu"}
+          - {name: "google-plus", link: "https://plus.google.com/117970536994604205384"}
+          - {name: "site", link: "http://swarm.cs.pub.ro/~razvan/wiki/"}
+          - {name: "linkedin", link: "https://www.linkedin.com/in/razvandeaconescu"}
