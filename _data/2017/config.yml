@@ -1,8 +1,34 @@
 # About Block
 aboutTitle: "About Open Source Camp"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The Open Source gathering of the year in Romania, built with care by geeks for enthusiasts. Awesome technical speakers and talks and of course, loads of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops and hands-on experience, hacking and debugging. Join us in an epic battle to unleash the power of your favorite new technology!" }
+  - title: "Conference"
+    image: "conference.jpg"
+    text: >
+      The Open Source gathering of the year in Romania, built with care
+      by geeks for enthusiasts. Awesome technical speakers and talks and
+      of course, loads of fun!
+  - title: "Workshops"
+    image: "workshop.jpg"
+    text: >
+      Full-afternoons of workshops and hands-on experience, hacking and
+      debugging. Join us in an epic battle to unleash the power of your
+      favorite new technology!
+
+  - title: "Capture the Flag"
+    image: "capture-the-flag.jpg"
+    text: >
+      If your plan is to play with the latest technologies here is the
+      place. Test your knowledge and skills solving problems and win
+      lots of prizes. Knowledge in open source fields will be required
+      to pass these challenges.
+
+  - title: "Networking"
+    image: "networking.jpg"
+    text: >
+      OSCamp is an event specially dedicated to all those interested
+      in the open source perspective.We're waiting for you at the 2nd
+      edition in Botoșani, where you can meet in a friendly environment
+      the open source community.
 
 # Location Block
 locationBlockTitle: "Location"

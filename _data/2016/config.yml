@@ -1,8 +1,18 @@
 # About Block
 aboutTitle: "About Open Source Camp"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The Open Source gathering of the year in Romania, built with care by geeks for enthusiasts. Awesome technical speakers and talks and of course, loads of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops and hands-on experience, hacking and debugging. Join us in an epic battle to unleash the power of your favorite new technology!" }
+  - title: "Conference"
+    image: "conference.jpg"
+    text: >
+      The Open Source gathering of the year in Romania, built with care
+      by geeks for enthusiasts. Awesome technical speakers and talks and
+      of course, loads of fun!
+  - title: "Workshops"
+    image: "workshop.jpg"
+    text: >
+      Full-day of workshops and hands-on experience, hacking and debugging.
+      Join us in an epic battle to unleash the power of your favorite new
+      technology!
 
 # Location Block
 locationBlockTitle: "Location"
