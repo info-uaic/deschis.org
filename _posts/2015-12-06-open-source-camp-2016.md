@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source Camp 2016"
 date: 2015-12-06 12:00:00
+category: "2016"
 isStaticPost: false
 edition: "2016"
 ---

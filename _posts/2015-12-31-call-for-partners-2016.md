@@ -2,6 +2,7 @@
 layout: post
 title: "Call for partners"
 date: 2015-12-31 12:00:00
+category: "2016"
 isStaticPost: false
 edition: "2016"
 ---
