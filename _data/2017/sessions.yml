@@ -1,0 +1,31 @@
+# Services
+- id: 500
+  title: "TBA"
+  place: ""
+  service: true
+  description: ""
+
+- id: 501
+  title: "Coffee Break"
+  place: ""
+  service: true
+  description: "The best time to talk with speakers and attendees"
+
+- id: 502
+  title: "Lunch Break"
+  place: ""
+  service: true
+
+- id: 503
+  title: "Event opening"
+  place: ""
+  subtype: "presentation"
+  speakers: []
+  language: "Romanian"
+
+- id: 504
+  title: "Ending"
+  place: ""
+  subtype: "presentation"
+  speakers: []
+  language: "Romanian"

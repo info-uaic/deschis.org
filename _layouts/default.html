@@ -46,7 +46,7 @@ layout: compress
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
     <script>
         Waves.displayEffect();
-        {% if page.permalink == '/' %}
+        {% if page.rockstar %}
             $(document).ready(function () {
                 var rockstarSpeakers = [
                     {% for speaker in speakers %}
@@ -62,7 +62,7 @@ layout: compress
                 rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
-                        count = Math.min({{ edition.rockstarSpeakersCount }}, rockstarSpeakers.length),
+                        count = Math.min({{ edition.rockstar.speakers_count }}, rockstarSpeakers.length),
                         colWidth = 12/count;
                     for(i=0; i<count; i++) {
                         var clearfix = '<div class="clearfix visible-xs"></div>';

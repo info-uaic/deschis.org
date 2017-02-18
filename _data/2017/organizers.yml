@@ -1,0 +1,9 @@
+-
+  group: "Main organizer"
+  elements:
+
+    - id: 0
+      name: "CCSIR"
+      description: "Cyber Security Research Center from Romania"
+      link: "http://ccsir.org/"
+      imageUrl: "ccsir.png"

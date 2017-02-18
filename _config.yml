@@ -68,16 +68,6 @@ socialLinks:
  - {link: "https://twitter.com/OSCampRo", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 
-footerBlocks:
- -
-  title: "Contacts"
-  links:
-   - {link: "mailto:contact@oscamp.eu", text: "contact@oscamp.eu"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
-
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true

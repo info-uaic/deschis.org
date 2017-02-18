@@ -7,6 +7,7 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.organizersTitle }}</h3>
+
             {% for organizer in organizers %}
             <h5>{{ organizer.group }}</h5>
             <ul class="list-inline">
@@ -19,37 +20,45 @@
                 {% endfor %}
             </ul>
             {% endfor %}
+
             <h3>{{ site.sponsorsTitle }}</h3>
             {% for sponsor in sponsors %}
-            <h5>{{ sponsor.group }}</h5>
-            <ul class="list-inline">
-                {% for element in sponsor.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                    </a>
-                </li>
-                {% endfor %}
-            </ul>
+                {% if sponsor.elements %}
+                <h5>{{ sponsor.group }}</h5>
+                <ul class="list-inline">
+                    {% for element in sponsor.elements %}
+                    <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                        <a href="{{ element.link }}" target="_blank">
+                            <img src="{{ site.baseurl }}/img/sponsors/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
             {% endfor %}
+
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in partners %}
-            <h5>{{ partner.group }}</h5>
-            <ul class="list-inline">
-                {% for element in partner.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                    </a>
-                </li>
-                {% endfor %}
-            </ul>
+                {% if partner.elements %}
+                <h5>{{ partner.group }}</h5>
+                <ul class="list-inline">
+                    {% for element in partner.elements %}
+                    <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                        <a href="{{ element.link }}" target="_blank">
+                            <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
             {% endfor %}
+
             {% if site.c4sponsorsUrl.blank? %}
             <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
             {% endif %}
+
         </div>
-    </div> 
+    </div>
 </section>
 <!-- End Partners Section -->
 

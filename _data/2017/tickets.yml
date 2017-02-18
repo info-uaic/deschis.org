@@ -1,0 +1,45 @@
+ticketsTitle: "Pricetable"
+ticketsInfo: >
+  Tickets grant access to all conference sections, coffee breaks and open party. Accommodation is included in the ticket price.
+ticketsOffers:
+
+  - name: "Student Ticket"
+    price: "TBA"
+    priceCurrency: "EUR"
+    ticketsNumber: ""
+    buyButtonLink: ""
+    buyButtonText: "Register Now"
+    ticketContentList:
+    validFrom: "2017-03-01T10:00"
+    validThrough: "2017-06-01T23:59"
+    soldOut: false
+    soldOutText: "Sold Out"
+    disabled: true
+
+  - name: "VIP"
+    price: "TBA"
+    priceCurrency: "EUR"
+    ticketsNumber: ""
+    buyButtonLink: ""
+    buyButtonText: "Register Now"
+    ticketContentList:
+    validFrom: "2017-03-01T10:00"
+    validThrough: "2017-06-01T23:59"
+    featured: true
+    soldOut: false
+    soldOutText: "Sold Out"
+    disabled: true
+
+
+  - name: "Specialist Ticket"
+    price: "TBA"
+    priceCurrency: "EUR"
+    ticketsNumber: ""
+    buyButtonLink: ""
+    buyButtonText: "Register Now"
+    ticketContentList:
+    validFrom: "2017-03-01T10:00"
+    validThrough: "2017-06-01T23:59"
+    soldOut: false
+    soldOutText: "Sold Out"
+    disabled: true

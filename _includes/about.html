@@ -2,13 +2,13 @@
 <!-- About Section -->
 <section id="about" class="about">
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
+        <div class="col-lg-8 col-lg-offset-2">
             <h3>{{ edition.aboutTitle }}</h3>
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for about in edition.aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-6">  
+                <div class="col-md-{{ colWidth }} col-sm-6 col-xs-12">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <h5>{{ about.title }}</h5>
                         <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">

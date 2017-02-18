@@ -10,36 +10,51 @@ aboutBlock:
   - title: "Workshops"
     image: "workshop.jpg"
     text: >
-      Full-day of workshops and hands-on experience, hacking and debugging.
-      Join us in an epic battle to unleash the power of your favorite new
-      technology!
+      Full-afternoons of workshops and hands-on experience, hacking and
+      debugging. Join us in an epic battle to unleash the power of your
+      favorite new technology!
+
+  - title: "Capture the Flag"
+    image: "capture-the-flag.jpg"
+    text: >
+      If your plan is to play with the latest technologies here is the
+      place. Test your knowledge and skills solving problems and win
+      lots of prizes. Knowledge in open source fields will be required
+      to pass these challenges.
+
+  - title: "Networking"
+    image: "networking.jpg"
+    text: >
+      OSCamp is an event specially dedicated to all those interested
+      in the open source perspective.We're waiting for you at the 2nd
+      edition in Botoșani, where you can meet in a friendly environment
+      the open source community.
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Aula Magna Mihai Eminescu"
-eventLocationLink: "https://www.uaic.ro/organizare/departamentul-de-marketing-educational-evenimente-si-imagine-academica/oportunitati-pentru-organizarea-evenimentelor/aula-magna-mihai-eminescu/"
-eventStreetAddress: "Universitatea Alexandru Ioan Cuza din Iași, Bulevardul Carol I, Nr.11"
-eventAddressLocality: "Iași"
-eventAddressLocalityRegion: "Iași"
+eventLocationName: "Floare albastră"
+eventLocationLink: "http://www.cautpensiuni.ro/pensiune/pensiunea-floare-albastra-ipotesti-botosani"
+eventStreetAddress: "Ipotești"
+eventAddressLocality: "Botoșani"
+eventAddressLocalityRegion: "Botoșani"
 eventPostalCode: "700506"
 eventAddressCountry: "Romania"
-eventStartTime: "2016-05-07T09:00"
+eventStartTime: "2017-08-07T12:00"
 eventDoorTime: "08:00"
-eventEndTime: "2016-05-08T18:00"
-eventPlaceCoordinates: "47.174524,27.572306"
+eventEndTime: "2017-08-12T12:00"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Aula Magna Mihai Eminescu"
+venueBigImage: "ipotesti_2017_2.jpg"
+venueSmallImage1: "ipotesti_2017_0.jpg"
+venueSmallImage2: "ipotesti_2017_1.jpg"
+venueSmallImage3: "ipotesti_2017_3.jpg"
+venueTitle: "Floarea albastră, Ipotești, Botoșani"
 venueFeatures:
-  - 258 seats on the ground floor
-  - 168 seats on balacony
-  - Digital Surround audio system
-  - Located in the university campus
+  - "- open air theatre"
+  - "- 6 bungalows (with 4 rooms)"
+  - "- 1 VIP bungalow (with 3 rooms)"
+  - "- 4 VIP rooms"
 
 # Team Block
 teamBlockTitle: "About us"
@@ -57,18 +72,18 @@ aboutUs: >
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - count: "300"
-   specialCharacter: "+"
+ - count: "60"
+   specialCharacter: "&middot;"
    info: "attendees"
    detail: "from everywhere"
 
- - count: "72"
-   specialCharacter: "+"
-   info: "hours"
+ - count: "5"
+   specialCharacter: "&middot;"
+   info: "days"
    detail: "of pure open source technologies"
 
- - count: "15"
-   specialCharacter: "+"
+ - count: "20"
+   specialCharacter: "&middot;"
    info: "speakers"
    detail: "from country and beyond"
 
@@ -77,7 +92,7 @@ rockstar:
     title: "Meet our awesome speakers"
     background: "rockstar-speakers.jpg"
     speakers_count: 6
-    speakers_url: "/2016/speakers/"
+    speakers_url: "/speakers/"
 
 # Documents
 c4pUrl: "https://oscamp.eu/blog/call-for-proposals-2016"
@@ -93,4 +108,4 @@ footerBlocks:
 
  - title: "Previous edition"
    links:
-      - {link: "https://opensourceiasi.wordpress.com/", text: "Open Source Iași"}
+      - {permalink: "/2016/", text: "OSCamp 2016"}
