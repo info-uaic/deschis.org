@@ -43,6 +43,19 @@ eventStartTime: "2017-08-07T12:00"
 eventDoorTime: "08:00"
 eventEndTime: "2017-08-12T12:00"
 
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "ipotesti_2017_2.jpg"
+venueSmallImage1: "ipotesti_2017_0.jpg"
+venueSmallImage2: "ipotesti_2017_1.jpg"
+venueSmallImage3: "ipotesti_2017_3.jpg"
+venueTitle: "Floarea albastră, Ipotești, Botoșani"
+venueFeatures:
+  - "- open air theatre"
+  - "- 6 bungalows (with 4 rooms)"
+  - "- 1 VIP bungalow (with 3 rooms)"
+  - "- 4 VIP rooms"
+
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: >
