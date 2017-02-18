@@ -1,0 +1,27 @@
+- group: "Partner Communities"
+  elements:
+    - id: 0
+      name: "ROSEdu"
+      description: "Romanian Open Source Education"
+      link: "http://www.rosedu.org/"
+      imageUrl: "rosedu.png"
+
+    - id: 1
+      name: "RoPython"
+      description: "Romanian Python Community"
+      link: "http://ropython.ro/"
+      imageUrl: "ropython.png"
+
+    - id: 2
+      name: "BEST Iași"
+      description: "Board of European Students of Technology"
+      link: "http://bestis.ro/"
+      imageUrl: "best.png"
+
+- group: "Media Partners"
+  elements:
+    - id: 10
+      name: "WorldIT.info"
+      description: "WorldIT.info"
+      link: "http://www.worldit.info/"
+      imageUrl: "worldit.jpg"
