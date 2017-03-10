@@ -94,23 +94,5 @@
   social:
     - name: "github"
       link: "https://github.com/micumatei/"
-    - name: "linkedin"    
-      link: "https://www.linkedin.com/in/matei-marius-micu-0246a211a"
--
-  id: 3
-  name: "Bogdan"
-  surname: "Carpusor"
-  company: "Cloudbase Solutions"
-  title: "Cloud Engineer"
-  thumbnailUrl: "bogdan_carpusor.jpg"
-  rockstar: false
-  bio: >
-    With a passion for innovation and software development, Bogdan
-    is keen on developing great and reliable products. He is motivated
-    by the desire to work in great teams, with people that are passionate
-    about what they are doing. 
-  social:
-    - name: "github"
-      link: "https://github.com/bogdancarpusor/"
     - name: "linkedin"
-      link: "https://www.linkedin.com/in/bogdan-carpusor-4190865a"  
+      link: "https://www.linkedin.com/in/matei-marius-micu-0246a211a"
