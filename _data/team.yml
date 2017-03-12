@@ -123,3 +123,14 @@ groups:
           - {name: "google-plus", link: "https://plus.google.com/117970536994604205384"}
           - {name: "site", link: "http://swarm.cs.pub.ro/~razvan/wiki/"}
           - {name: "linkedin", link: "https://www.linkedin.com/in/razvandeaconescu"}
+
+      - id: 8
+        name: "Paula Mădălina"
+        surname: "Crîșmaru"
+        title: ""
+        thumbnailUrl: "paula_crismaru.jpg"
+        ribbon:
+          - {abbr: "", title: ""}
+        social:
+          - {name: "facebook", link: "https://www.facebook.com/paula.madalina.1"}
+          - {name: "linkedin", link: "https://www.linkedin.com/in/paula-madalina-crismaru-42964891/"}
