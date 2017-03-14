@@ -18,17 +18,17 @@ aboutBlock:
     image: "capture-the-flag.jpg"
     text: >
       If your plan is to play with the latest technologies here is the
-      place. Test your knowledge and skills solving problems and win
-      lots of prizes. Knowledge in open source fields will be required
-      to pass these challenges.
+      place. Test your knowledge and skills by solving problems and
+      winning lots of prizes. Knowledge in various open source fields will be
+      required to pass these challenges.
 
   - title: "Networking"
     image: "networking.jpg"
     text: >
       OSCamp is an event specially dedicated to all those interested
-      in the open source perspective.We're waiting for you at the 2nd
-      edition in Botoșani, where you can meet in a friendly environment
-      the open source community.
+      in the open source perspective. We're waiting for you at the 2nd
+      edition in Botoșani, where you can meet other like minded
+      open source activists.
 
 # Location Block
 locationBlockTitle: "Location"
@@ -66,8 +66,9 @@ aboutUs: >
     In our enthusiasm, we want to share the beautiful things this old taboo subject has
     to offer in the software industry, with the help, of course, of great minds with
     state of the art skills. So we hope you'll give us the chance to impress in our
-    Open Source Camp hosted in Iași, Romania. Join us for tech talks, workshops and
-    an awesome hackathon that will keep you up in excitement.
+    Open Source Camp hosted in Ipotești, Botoșani this year. Join us for tech talks, 
+    workshops and an awesome hackathon that will keep you up in excitement with a
+    variety of specially crafted challenges and prizes.
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
