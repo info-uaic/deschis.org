@@ -58,19 +58,18 @@
   id: 2
   name: "Ștefan"
   surname: "Caraiman"
-  company: "Cloudbase Solutions"
-  title: "Cloud Engineer"
+  company: "Yonder"
+  title: "DevOps Engineer"
   thumbnailUrl: "stefan_caraiman.jpg"
   rockstar: false
   bio: >
     I'm by definition what most would call a technology enthusiast.
-    I'm a restless learner, this being by far the most essential
-    trait that drove my passion for programming ever since the
-    very start.
+    In my restless learning journey in the past couple of years, I've 
+    had the oppportunity to interact with even more opensource technologies
+    and various projects.
 
-    I devoted myself to constant learning for the past few years,
-    the main achievement out of this journey being that now I am
-    a part of the growing and awesome Cloudbase family.
+    Next on my bucket list is to share more with other like minded people
+    about what I occupy my time with and how to get the most out of it.
   social:
     - name: "github"
       link: "https://github.com/stefan-caraiman/"
