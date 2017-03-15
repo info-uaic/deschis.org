@@ -4,7 +4,7 @@
     [{
         "@context" : "http://schema.org",
         "@type" : "Event",
-        "name" : "{{ site.title }}",
+        "name" : "{{ current_edition.siteTitle }}",
         "description": "{{ site.description }}",
         "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
         "url" : "{{ site.url }}",
