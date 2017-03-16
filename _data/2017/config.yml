@@ -1,3 +1,8 @@
+# Site settings
+title: "Open Source Camp @Ipotești"
+email: "contact@oscamp.eu"
+description: "The National Open Source Camp @Ipotești"
+
 # About Block
 aboutTitle: "About Open Source Camp"
 aboutBlock:
@@ -18,17 +23,17 @@ aboutBlock:
     image: "capture-the-flag.jpg"
     text: >
       If your plan is to play with the latest technologies here is the
-      place. Test your knowledge and skills solving problems and win
-      lots of prizes. Knowledge in open source fields will be required
-      to pass these challenges.
+      place. Test your knowledge and skills by solving problems and
+      winning lots of prizes. Knowledge in various open source fields will be
+      required to pass these challenges.
 
   - title: "Networking"
     image: "networking.jpg"
     text: >
       OSCamp is an event specially dedicated to all those interested
-      in the open source perspective.We're waiting for you at the 2nd
-      edition in Botoșani, where you can meet in a friendly environment
-      the open source community.
+      in the open source perspective. We're waiting for you at the 2nd
+      edition in Botoșani, where you can meet other like minded
+      open source activists.
 
 # Location Block
 locationBlockTitle: "Location"
@@ -63,16 +68,17 @@ aboutUs: >
     amount of tech industry giants and important figures. From the beginning
     of the IT industry, the Open Source trend has been an element of geek legends,
     but the myth becomes reality in a push of the industry towards greater grounds.
-    In our enthusiasm, we want to share the beautiful things this old tabu subject has
+    In our enthusiasm, we want to share the beautiful things this old taboo subject has
     to offer in the software industry, with the help, of course, of great minds with
     state of the art skills. So we hope you'll give us the chance to impress in our
-    Open Source Camp hosted in Iași, Romania. Join us for tech talks, workshops and
-    an awesome hackthon that will keep you up in excitement.
+    Open Source Camp hosted in Ipotești, Romania this year. Join us for tech talks,
+    workshops and an awesome CTF that will keep you up in excitement with a
+    variety of specially crafted challenges and prizes.
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - count: "60"
+ - count: "65"
    specialCharacter: "&middot;"
    info: "attendees"
    detail: "from everywhere"
@@ -91,11 +97,11 @@ statisticBlock:
 rockstar:
     title: "Meet our awesome speakers"
     background: "rockstar-speakers.jpg"
-    speakers_count: 6
+    speakers_count: 4
     speakers_url: "/speakers/"
 
 # Documents
-c4pUrl: "https://oscamp.eu/blog/call-for-proposals-2016"
+c4pUrl: null
 
 footerBlocks:
  - title: "Contact"
