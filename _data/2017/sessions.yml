@@ -1,3 +1,14 @@
+# Presentation
+- id: 001
+  title: "To be announced"
+  description: ""
+  speakers: [0, 1, 2, 3]
+  language: "English"
+  complexity: "Community Presentation"
+  video: null
+  register: null
+  presentation: null
+
 # Services
 - id: 500
   title: "TBA"
