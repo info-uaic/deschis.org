@@ -4,8 +4,8 @@
     [{
         "@context" : "http://schema.org",
         "@type" : "Event",
-        "name" : "{{ site.title }}",
-        "description": "{{ site.description }}",
+        "name" : "{{ current_edition.title }}",
+        "description": "{{ current_edition.description }}",
         "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
         "url" : "{{ site.url }}",
         "startDate" : "{{ current_edition.eventStartTime }}",
@@ -80,9 +80,9 @@
             "validFrom" : "{{ ticketsOffer.validFrom }}",
             "validThrough" : "{{ ticketsOffer.validThrough }}"
         }{% if forloop.index != forloop.length %},{% endif %}
-        {% endfor %} 
+        {% endfor %}
         ],
-        "performer" : [ 
+        "performer" : [
         {% for speaker in site.data.speakers %}
         {
             "@type" : "Person",
@@ -95,7 +95,7 @@
             },
             "sameAs" : "{{ speaker.social[0].link }}"
         }{% if forloop.index != forloop.length %},{% endif %}
-        {% endfor %}  
+        {% endfor %}
         ],
         "eventStatus" : "EventScheduled",
         "typicalAgeRange" : "16+"

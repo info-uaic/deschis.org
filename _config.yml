@@ -19,9 +19,6 @@ exclude:
   - .travis.yml
 
 # Site Settings
-title: "Open Source Camp @Iași"
-email: "contact@oscamp.eu"
-description: "The National Open Source Camp @Iași"
 baseurl: ""
 url: "https://oscamp.eu"
 permalink: "/blog/:title"
@@ -30,15 +27,17 @@ googleAnalyticsSiteUrl: "oscamp.eu"
 siteVerification: ""
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "OSCamp"
+organizerAlternateName: "Open Source Camp"
+organizerDescription: >
+    Open and volunteer geek group who create exciting projects and share
+    experience about open source technology with passion.
+organizerEmail: "contact@oscamp.eu"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://oscamp.eu/team"
 
 # Head
-metaKeywords: "event, oscamp, oscampro, fii, open source, conference, hackaton, workshop, iași"
+metaKeywords: "event, oscamp, oscampro, open source, conference, ctf, workshop, Ipotești, Botoșani"
 twitterAccount: "@OSCampRo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -60,7 +59,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "//oscamp.us12.list-manage.com/subscribe/post?u=f6f7ee5106681069ba84a2b23&amp;id=acaa3a64ee"
-subscribeInfo: "Registration will be open around end of January. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around end of March. Number of tickets are limited. Stay tuned!"
 
 # Footer
 socialLinks:
