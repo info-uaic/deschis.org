@@ -9,6 +9,24 @@
   register: null
   presentation: null
 
+- id: 002
+  title: "Python mocking - When and How to do it"
+  description: >
+   We will be taking a look at the DO's and DON'Ts when writting unittests with mocks.
+   For the first part of the talk we will be taking a look at how and when mocks should be used,
+   since they oftenly tend to be misused or even abused when testing.
+   The second part will be focused on real life examples when mocks simply seem to not work and
+   have unexpected behaviours and how we can debug or understand these weird behaviours.
+   Prior experience with Python mocking is not a must, but it's welcome so that you can follow
+   along easier with the examples.
+
+  speakers: [2]
+  language: "English"
+  complexity: "Intermediate"
+  video: null
+  register: null
+  presentation: "https://github.com/stefan-caraiman/python-mocking"
+
 # Services
 - id: 500
   title: "TBA"
