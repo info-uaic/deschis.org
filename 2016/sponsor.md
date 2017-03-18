@@ -2,7 +2,7 @@
 title: Sponsor brochure
 permalink: /2016/sponsor-brochure/
 layout: default
-image: sponsor.jpg
+image: 2016/sponsor.jpg
 edition: "2016"
 nav: "oscamp2016"
 ---
