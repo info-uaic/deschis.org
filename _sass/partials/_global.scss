@@ -131,6 +131,29 @@ time {
   }
 }
 
+.preloader {
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+}
+
+.preloader-inner{
+    background-image: url("/img/other/preloader-inner.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: absolute;
+
+    height: 50%;
+    width: 50%;
+    left: 25%;
+    top: 20%;
+}
+
 .social-links {
     li {
         margin-right: 4px;
