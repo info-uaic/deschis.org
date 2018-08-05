@@ -58,18 +58,19 @@
   id: 2
   name: "Ștefan"
   surname: "Caraiman"
-  company: "Yonder"
-  title: "DevOps Engineer"
+  company: "Cloudbase Solutions"
+  title: "Cloud Engineer"
   thumbnailUrl: "stefan_caraiman.jpg"
   rockstar: false
   bio: >
     I'm by definition what most would call a technology enthusiast.
-    In my restless learning journey in the past couple of years, I've 
-    had the oppportunity to interact with even more opensource technologies
-    and various projects.
+    I'm a restless learner, this being by far the most essential
+    trait that drove my passion for programming ever since the
+    very start.
 
-    Next on my bucket list is to share more with other like minded people
-    about what I occupy my time with and how to get the most out of it.
+    I devoted myself to constant learning for the past few years,
+    the main achievement out of this journey being that now I am
+    a part of the growing and awesome Cloudbase family.
   social:
     - name: "github"
       link: "https://github.com/stefan-caraiman/"
@@ -93,40 +94,5 @@
   social:
     - name: "github"
       link: "https://github.com/micumatei/"
-    - name: "linkedin"    
+    - name: "linkedin"
       link: "https://www.linkedin.com/in/matei-marius-micu-0246a211a"
-
-- id: 4
-  name: "Costin"
-  surname: "Galan"
-  company: "Cloudbase Solutions"
-  title: "Cloud Engineer"
-  thumbnailUrl: "costin_galan.jpg"
-  rockstar: true
-  bio: >
-    Curiosity and strong analytical skills are what define Costin.
-    With an automation mindset and proficiency in operating systems he is constantly playing with OS agnostic technologies.
-    In his spare time, he enjoys doing magic tricks.
-  social:
-    - name: "linkedin"
-      link: "https://www.linkedin.com/in/costingalan"
-    - name: "github"
-      link: "https://github.com/costingalan"
-
-- id: 5
-  name: "Bogdan"
-  surname: "Carpusor"
-  company: "Cloudbase Solutions"
-  title: "Cloud Engineer"
-  thumbnailUrl: "bogdan_carpusor.jpg"
-  rockstar: false
-  bio: >
-    With a passion for innovation and software development, Bogdan
-    is keen on developing great and reliable products. He is motivated
-    by the desire to work in great teams, with people that are passionate
-    about what they are doing. 
-  social:
-    - name: "github"
-      link: "https://github.com/bogdancarpusor/"
-    - name: "linkedin"
-      link: "https://www.linkedin.com/in/bogdan-carpusor-4190865a"
